@@ -1,0 +1,32 @@
+metric,value
+units drawn,240
+units by final status,"{'NOT_FOUND': 92, 'NOTICE': 60, 'UNREACHABLE': 58, 'UNVERIFIED': 21, 'PAGE_NOT_A_NOTICE': 7, 'OUT_OF_SCOPE': 2}"
+verified units (notice / page-not-a-notice / not found),159
+schools verified; with dedicated notice,19/116 = 16.4% [10.7-24.2]
+CBSE: unreachable share of drawn,22/80 = 27.5% [18.9-38.1]
+CISCE: unreachable share of drawn,15/50 = 30.0% [19.1-43.8]
+Other/unknown board: unreachable share of drawn,8/30 = 26.7% [14.2-44.4]
+Govt school systems: unreachable share of drawn,8/20 = 40.0% [21.9-61.3]
+Edtech/school software: unreachable share of drawn,5/60 = 8.3% [3.6-18.1]
+K1 children mentioned among notices (all),32/60 = 53.3% [40.9-65.4]
+among K1 notices: parental consent Y,6/32 = 18.8% [8.9-35.3]
+among K1 notices: parental consent Y or P,20/32 = 62.5% [45.3-77.1]
+among K1 notices: verification step Y (strict),1/32 = 3.1% [0.6-15.7]
+among K1 notices: verification step Y or P,4/32 = 12.5% [5.0-28.1]
+age threshold stated,26/60 = 43.3% [31.6-55.9]
+threshold is 18 (K2b=Y) among stated,11/26 = 42.3% [25.5-61.1]
+threshold not 18 among stated,15/26 = 57.7% [38.9-74.5]
+names DPDP Act (S1=Y) all notices,9/60 = 15.0% [8.1-26.1]
+names DPDP Act edtech notices,9/41 = 22.0% [12.0-36.7]
+names DPDP Act school notices,0/19 = 0.0% [0.0-16.8]
+edtech notices naming any law,21
+of those: name DPDP,9
+of those: name only IT Act/foreign law (not DPDP),12
+notice states a regulator complaint route: Y (Board) / P (any regulator),"Y 2, P 5 of 60"
+D8b (response period <= 90 days) among notices,8/60 = 13.3% [6.9-24.2]
+core five strict among notices,2/60 = 3.3% [0.9-11.4]
+core five lenient among notices,7/60 = 11.7% [5.8-22.2]
+mean core items met (strict) among notices; schools; edtech,2.35; 1.58; 2.71
+notices with a date/version shown (regex S7=Y),39/60 = 65.0% [52.4-75.8]
+notices naming a retention period/practice (regex S3=Y),39/60 = 65.0% [52.4-75.8]
+kind of pages fetched but not notices,"{'EMPTY': 3, 'NONE': 2, 'TERMS': 1, 'THIRD_PARTY': 1}"

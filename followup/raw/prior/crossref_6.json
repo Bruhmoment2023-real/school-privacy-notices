@@ -1,0 +1,421 @@
+{
+ "q": "edtech student data privacy India",
+ "items": [
+  {
+   "DOI": "10.70382/ajsitr.v9i9.041",
+   "title": [
+    "Enhancing Security and Privacy in EdTech Tools: Safeguarding Student Data in the Digital Learning Era"
+   ],
+   "author": [
+    {
+     "family": "Binitie Amaka Patience",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "family": "Onyemenem Sunday Innocent",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "family": "Okoh Felix Jigiedous",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Science Innovation and Technology Research"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.70382/ajsitr.v9i9.041",
+   "abstract": "<jats:p>The rapid shift to digital learning during and after the COVID-19 pandemic has led to widespread adoption of educational technologies (EdTech) in higher education, including in Nigeria. This trend, while improving access and flexibility, raises serious concerns about the security and privacy of sensitive student data. In Nigeria\u2019s context, these concerns are compounded by nascent legal frameworks and varying awareness among stakeholders. This study investigates the security and privacy issues faced by undergraduate students using EdTech tools in Delta State, Nigeria, aiming to identify key threats and propose measures to protect student data. A cross-sectional survey was administered to a sample of Delta State undergraduates, gathering perceptions of security risks, privacy awareness, and recommended safeguards. Descriptive statistics (mean and standard deviation) were computed for questionnaire items related to three research questions. The results indicate high levels of student concern about data breaches and unauthorized access limited trust in privacy practices and awareness of data protection laws, and strong support for institutional measures like encryption and training to improve security. These findings are consistent with global literature on EdTech vulnerabilities. The study concludes that stakeholders in Nigerian higher education must urgently implement robust data protection policies, technical safeguards, and awareness programs to uphold student privacy. Recommendations include enforcing Nigeria\u2019s new Data Protection Act, training faculty and students on privacy rights, and adopting privacy-by-design approaches in EdTech deployment.</jats:p>"
+  },
+  {
+   "DOI": "10.4135/9781483393377.n4",
+   "title": [
+    "The Student Learner\n\t\t\t\t\tPerspective"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "container-title": [
+    "The Missing Voices in EdTech: Bringing Diversity Into EdTech"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4135/9781483393377.n4"
+  },
+  {
+   "DOI": "10.1109/idciot59759.2024.10467871",
+   "title": [
+    "Contemplating Cybersecurity Breaches in EdTech Products with a Focus on Student Privacy and Security"
+   ],
+   "author": [
+    {
+     "given": "Neethu",
+     "family": "Tressa",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "V",
+     "family": "Asha",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jincy C",
+     "family": "Mathew",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vijay R",
+     "family": "Ghorpade",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Suman",
+     "family": "Senapati",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ujwal",
+     "family": "K",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "New Horiznon College of Engineering,Department of Master of Computer Applications,Bengaluru,India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      4
+     ]
+    ]
+   },
+   "container-title": [
+    "2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/idciot59759.2024.10467871"
+  },
+  {
+   "DOI": "10.51388/20.500.12265/301",
+   "title": [
+    "EdTech Quality Indicators Guide: Leveraging the Five EdTech Quality Indicators to save time and money, reduce risk, and improve student outcomes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.51388/20.500.12265/301",
+   "abstract": "<jats:p>Developed by the EdTech Quality Collaborative, the EdTech Quality Indicators Guide helps education leaders bridge the gap across technology selection, piloting, and procurement to support evidence-based decision making. It centers on five core quality indicators\u2014Safety, Evidence, Inclusivity, Usability, and Interoperability\u2014and leverages third-party validations from the EdTech Index to streamline product vetting. The guide outlines a comprehensive, data-driven six-step framework to analyze district needs, pilot interventions, plan rollouts, and evaluate return on investment. It features practical templates and evaluation rubrics designed to optimize resource allocation, reduce risk, and improve student outcomes.</jats:p>"
+  },
+  {
+   "DOI": "10.67060/jssl.2026.2103",
+   "title": [
+    "Consumer (Student) Trust and Privacy Concerns in AI-Driven Retargeting Ads by EdTech Platforms and Universities"
+   ],
+   "author": [
+    {
+     "given": "Ashma",
+     "family": "Sadia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sentulal",
+     "family": "Debbarma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Science, Society and Language"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.67060/jssl.2026.2103"
+  },
+  {
+   "DOI": "10.5771/9781475845266",
+   "title": [
+    "Student Data Privacy"
+   ],
+   "author": [
+    {
+     "given": "Linnette",
+     "family": "Attai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.5771/9781475845266",
+   "abstract": "<p>How do education institutions protect student data privacy while working with technology providers? Often times, the work is clouded by a good deal of fear and uncertainty. In Student Data Privacy: Managing Vendor Relationships, Linnette Attai leverages her decades of experience working with technology providers and education institutions to provide the guidance education technology providers can use to manage their privacy responsibilities from a position of strength. </p>\n          <p>Understand how defining your own data privacy and security requirements is the best pathway to creating actionable requirements for technology companies. Learn how to build collaborative partnerships with technology companies without compromising on data privacy. Leverage company knowledge to improve your own data protection program, and sharpen your negotiating skills so you can move ahead with the privacy requirements you need solidly in place. In doing so, you\u2019ll be on the right path to identifying the technology provider practices that are the right fit for your organization, and for the students and parents you serve.</p>"
+  },
+  {
+   "DOI": "10.54676/xvkh9740",
+   "title": [
+    "Adoption of quality edtech products in India: a case study of government implementation towards a sustainable edtech ecosystem"
+   ],
+   "author": [
+    {
+     "name": "GEM Report UNESCO",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "edited-book",
+   "URL": "https://doi.org/10.54676/xvkh9740"
+  },
+  {
+   "DOI": "10.5040/9798216457954.0007",
+   "title": [
+    "Epilogue"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "container-title": [
+    "Student Data Privacy"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216457954.0007"
+  },
+  {
+   "DOI": "10.5040/9798216457954.ch-008",
+   "title": [
+    "Negotiation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "container-title": [
+    "Student Data Privacy"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216457954.ch-008"
+  },
+  {
+   "DOI": "10.5040/9798216457954",
+   "title": [
+    "Student Data Privacy"
+   ],
+   "author": [
+    {
+     "given": "Linnette",
+     "family": "Attai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.5040/9798216457954",
+   "abstract": "<JATS1:p>How do education institutions protect student data privacy while working with technology providers? Often times, the work is clouded by a good deal of fear and uncertainty. In Student Data Privacy: Managing Vendor Relationships, Linnette Attai leverages her decades of experience working with technology providers and education institutions to provide the guidance education technology providers can use to manage their privacy responsibilities from a position of strength.</JATS1:p>\n                  <JATS1:p>Understand how defining your own data privacy and security requirements is the best pathway to creating actionable requirements for technology companies. Learn how to build collaborative partnerships with technology companies without compromising on data privacy. Leverage company knowledge to improve your own data protection program, and sharpen your negotiating skills so you can move ahead with the privacy requirements you need solidly in place. In doing so, you\u2019ll be on the right path to identifying the technology provider practices that are the right fit for your organization, and for the students and parents you serve.</JATS1:p>"
+  },
+  {
+   "DOI": "10.5040/9798216457954.0008",
+   "title": [
+    "Notes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "container-title": [
+    "Student Data Privacy"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216457954.0008"
+  },
+  {
+   "DOI": "10.5040/9798216457954.0006",
+   "title": [
+    "Introduction"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "container-title": [
+    "Student Data Privacy"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216457954.0006"
+  }
+ ]
+}

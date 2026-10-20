@@ -1,0 +1,49 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"privacy policies 10.4
+gdpr 4.1
+general data protection regulation 2.7
+personal data 1.8
+online privacy 1.8
+privacy regulation 1.7
+data protection regulation 1.6
+california consumer privacy act 1.5
+informed consent 1.5
+regulatory compliance 1.4","privacy policies
+gdpr
+general data protection regulation",83,3.85114361570263,16.404409717655,3,1,"privacy policies","#E41A1C80",1582
+2,"india 8.3
+digital personal data protection act 2023 5.9
+data protection 4.5
+data protection law 4.2
+personal data protection 3.7
+right to privacy 3.3
+privacy 2.2
+information technology act 2000 1.8
+cross-border data flows 1.4
+privacy law 1.2","india
+digital personal data protection act 2023
+data protection",86,4.83197005411158,22.7523020401111,4,4,"india","#377EB880",1807
+3,"data privacy 8.2
+student privacy 5.5
+educational technology 3.3
+data breaches 3.1
+data security 2.3
+data governance 2
+algorithmic bias 2
+artificial intelligence in education 1.7
+learning analytics 1.6
+ferpa 1.4","data privacy
+student privacy
+educational technology",50,2.88248449109876,21.9781785804929,2,3,"data privacy","#4DAF4A80",723
+4,"coppa 6.3
+children's online privacy 5.1
+parental consent 4.9
+digital literacy 3.3
+children's rights 3.2
+children's privacy 2.7
+child online safety 2
+social networking sites 1.9
+united states 1.7
+eu data protection law 1.6","coppa
+children's online privacy
+parental consent",31,2.39143378625871,17.7260933745223,1,2,"coppa","#984EA380",445

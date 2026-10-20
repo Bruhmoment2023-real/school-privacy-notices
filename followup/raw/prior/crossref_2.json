@@ -1,0 +1,754 @@
+{
+ "q": "privacy policies of educational apps content analysis",
+ "items": [
+  {
+   "DOI": "10.3233/faia210486",
+   "title": [
+    "Content Analysis of Medical and Health Apps\u2019 Privacy Policies"
+   ],
+   "author": [
+    {
+     "given": "Bo\u0161tjan",
+     "family": "Brumen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Maribor (www.um.si), Faculty of Electrical Engineering and Computer science, Smetanova 17, Si-2000 Maribor, Slovenia, [email removed]"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      14
+     ]
+    ]
+   },
+   "container-title": [
+    "Frontiers in Artificial Intelligence and Applications",
+    "Information Modelling and Knowledge Bases XXXIII"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.3233/faia210486",
+   "abstract": "<jats:p>Privacy is a fundamental human right and is widely end extensively protected in the western industrialized world. The recent advances in technologies, especially in the use of applications developed and designed for mobile devices, have led to the rise of its abuse on one hand and a higher awareness of the importance of privacy on the other side. Legal texts protecting privacy have attempted to rectify some of the problems, but the ecosystem giants and mobile apps developers adapted. In this paper, we analyze which data mobile apps developers are collecting. We have focused on a sample of apps in the medical and health field. The research was done using collocations analysis. A relationship between a base word and its collocative partners was sought. The initial visual results have led us to more detailed studies that unveiled some worrying patterns. Namely, applications are collect data about the users and their activities, but also about their family members, medical diagnoses, treatments, and alike, going well beyond the \u201cneed to function\u201d / functionality threshold.</jats:p>"
+  },
+  {
+   "DOI": "10.5220/0012635000003687",
+   "title": [
+    "An Analysis of Privacy Issues and Policies of eHealth Apps"
+   ],
+   "author": [
+    {
+     "given": "Omar",
+     "family": "Haggag",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "HumaniSE Lab, Department of Software Systems and Cybersecurity, Faculty of IT, Monash University, Australia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "John",
+     "family": "Grundy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "HumaniSE Lab, Department of Software Systems and Cybersecurity, Faculty of IT, Monash University, Australia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mohamed",
+     "family": "Abdelrazek",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "A2I2, Deakin University, Australia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 19th International Conference on Evaluation of Novel Approaches to Software Engineering"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0012635000003687"
+  },
+  {
+   "DOI": "10.2196/preprints.33735",
+   "title": [
+    "Privacy, Data Sharing, and Data Security Policies of Women\u2019s mHealth Apps: Scoping Review and Content Analysis (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9949-5335",
+     "authenticated-orcid": false,
+     "given": "Najd",
+     "family": "Alfawzan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8378-9366",
+     "authenticated-orcid": false,
+     "given": "Markus",
+     "family": "Christen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6812-0979",
+     "authenticated-orcid": false,
+     "given": "Giovanni",
+     "family": "Spitale",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7661-1324",
+     "authenticated-orcid": false,
+     "given": "Nikola",
+     "family": "Biller-Andorno",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      21
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.33735",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>Women\u2019s mobile health (mHealth) is a growing phenomenon in the mobile app global market. An increasing number of women worldwide use apps geared to female audiences (female technology). Given the often private and sensitive nature of the data collected by such apps, an ethical assessment from the perspective of data privacy, sharing, and security policies is warranted.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>The purpose of this scoping review and content analysis was to assess the privacy policies, data sharing, and security policies of women\u2019s mHealth apps on the current international market (the App Store on the Apple operating system [iOS] and Google Play on the Android system).</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>We reviewed the 23 most popular women\u2019s mHealth apps on the market by focusing on publicly available apps on the App Store and Google Play. The 23 downloaded apps were assessed manually by 2 independent reviewers against a variety of user data privacy, data sharing, and security assessment criteria.</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>All 23 apps collected personal health-related data. All apps allowed behavioral tracking, and 61% (14/23) of the apps allowed location tracking. Of the 23 apps, only 16 (70%) displayed a privacy policy, 12 (52%) requested consent from users, and 1 (4%) had a pseudoconsent. In addition, 13% (3/23) of the apps collected data before obtaining consent. Most apps (20/23, 87%) shared user data with third parties, and data sharing information could not be obtained for the 13% (3/23) remaining apps. Of the 23 apps, only 13 (57%) provided users with information on data security.</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>Many of the most popular women\u2019s mHealth apps on the market have poor data privacy, sharing, and security standards. Although regulations exist, such as the European Union General Data Protection Regulation, current practices do not follow them. The failure of the assessed women\u2019s mHealth apps to meet basic data privacy, sharing, and security standards is not ethically or legally acceptable.</p>\n                </sec>"
+  },
+  {
+   "DOI": "10.2196/preprints.51517",
+   "title": [
+    "Exploration of Reproductive Health Apps\u2019 Data Privacy Policies and the Risks Posed to Users: Qualitative Content Analysis (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-0802-1345",
+     "authenticated-orcid": false,
+     "given": "Nina",
+     "family": "Zadushlivy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3286-3332",
+     "authenticated-orcid": false,
+     "given": "Rizwana",
+     "family": "Biviji",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6545-8299",
+     "authenticated-orcid": false,
+     "given": "Karmen S",
+     "family": "Williams",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      2
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.51517",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>Mobile health apps often require the collection of identifiable information. Subsequently, this places users at significant risk of privacy breaches when the data are misused or not adequately stored and secured. These issues are especially concerning for users of reproductive health apps in the United States as protection of sensitive user information is affected by shifting governmental regulations such as the overruling of &lt;i&gt;Roe v Wade&lt;/i&gt; and varying state-level abortion laws. Limited studies have analyzed the data privacy policies of these apps and considered the safety issues associated with a lack of user transparency and protection.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>This study aimed to evaluate popular reproductive health apps, assess their individual privacy policies, analyze federal and state data privacy laws governing these apps in the United States and the European Union (EU), and recommend best practices for users and app developers to ensure user data safety.</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>In total, 4 popular reproductive health apps\u2014Clue, Flo, Period Tracker by GP Apps, and Stardust\u2014as identified from multiple web sources were selected through convenience sampling. This selection ensured equal representation of apps based in the United States and the EU, facilitating a comparative analysis of data safety practices under differing privacy laws. A qualitative content analysis of the apps and a review of the literature on data use policies, governmental data privacy regulations, and best practices for mobile app data privacy were conducted between January 2023 and July 2023. The apps were downloaded and systematically evaluated using the Transparency, Health Content, Excellent Technical Content, Security/Privacy, Usability, Subjective (THESIS) evaluation tool to assess their privacy and security practices.</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>The overall privacy and security scores for the EU-based apps, Clue and Flo, were both 3.5 of 5. In contrast, the US-based apps, Period Tracker by GP Apps and Stardust, received scores of 2 and 4.5, respectively. Major concerns regarding privacy and data security primarily involved the apps\u2019 use of IP address tracking and the involvement of third parties for advertising and marketing purposes, as well as the potential misuse of data.</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>Currently, user expectations for data privacy in reproductive health apps are not being met. Despite stricter privacy policies, particularly with state-specific adaptations, apps must be transparent about data storage and third-party sharing even if just for marketing or analytical purposes. Given the sensitivity of reproductive health data and recent state restrictions on abortion, apps should minimize data collection, exceed encryption and anonymization standards, and reduce IP address tracking to better protect users.</p>\n                </sec>"
+  },
+  {
+   "DOI": "10.2196/51517",
+   "title": [
+    "Exploration of Reproductive Health Apps\u2019 Data Privacy Policies and the Risks Posed to Users: Qualitative Content Analysis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-0802-1345",
+     "authenticated-orcid": false,
+     "given": "Nina",
+     "family": "Zadushlivy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3286-3332",
+     "authenticated-orcid": false,
+     "given": "Rizwana",
+     "family": "Biviji",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6545-8299",
+     "authenticated-orcid": false,
+     "given": "Karmen S",
+     "family": "Williams",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Medical Internet Research"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/51517",
+   "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Mobile health apps often require the collection of identifiable information. Subsequently, this places users at significant risk of privacy breaches when the data are misused or not adequately stored and secured. These issues are especially concerning for users of reproductive health apps in the United States as protection of sensitive user information is affected by shifting governmental regulations such as the overruling of Roe v Wade and varying state-level abortion laws. Limited studies have analyzed the data privacy policies of these apps and considered the safety issues associated with a lack of user transparency and protection.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This study aimed to evaluate popular reproductive health apps, assess their individual privacy policies, analyze federal and state data privacy laws governing these apps in the United States and the European Union (EU), and recommend best practices for users and app developers to ensure user data safety.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>In total, 4 popular reproductive health apps\u2014Clue, Flo, Period Tracker by GP Apps, and Stardust\u2014as identified from multiple web sources were selected through convenience sampling. This selection ensured equal representation of apps based in the United States and the EU, facilitating a comparative analysis of data safety practices under differing privacy laws. A qualitative content analysis of the apps and a review of the literature on data use policies, governmental data privacy regulations, and best practices for mobile app data privacy were conducted between January 2023 and July 2023. The apps were downloaded and systematically evaluated using the Transparency, Health Content, Excellent Technical Content, Security/Privacy, Usability, Subjective (THESIS) evaluation tool to assess their privacy and security practices.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The overall privacy and security scores for the EU-based apps, Clue and Flo, were both 3.5 of 5. In contrast, the US-based apps, Period Tracker by GP Apps and Stardust, received scores of 2 and 4.5, respectively. Major concerns regarding privacy and data security primarily involved the apps\u2019 use of IP address tracking and the involvement of third parties for advertising and marketing purposes, as well as the potential misuse of data.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Currently, user expectations for data privacy in reproductive health apps are not being met. Despite stricter privacy policies, particularly with state-specific adaptations, apps must be transparent about data storage and third-party sharing even if just for marketing or analytical purposes. Given the sensitivity of reproductive health data and recent state restrictions on abortion, apps should minimize data collection, exceed encryption and anonymization standards, and reduce IP address tracking to better protect users.</jats:p>\n                  </jats:sec>"
+  },
+  {
+   "DOI": "10.2196/33735",
+   "title": [
+    "Privacy, Data Sharing, and Data Security Policies of Women\u2019s mHealth Apps: Scoping Review and Content Analysis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9949-5335",
+     "authenticated-orcid": false,
+     "given": "Najd",
+     "family": "Alfawzan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8378-9366",
+     "authenticated-orcid": false,
+     "given": "Markus",
+     "family": "Christen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6812-0979",
+     "authenticated-orcid": false,
+     "given": "Giovanni",
+     "family": "Spitale",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7661-1324",
+     "authenticated-orcid": false,
+     "given": "Nikola",
+     "family": "Biller-Andorno",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "JMIR mHealth and uHealth"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/33735",
+   "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Women\u2019s mobile health (mHealth) is a growing phenomenon in the mobile app global market. An increasing number of women worldwide use apps geared to female audiences (female technology). Given the often private and sensitive nature of the data collected by such apps, an ethical assessment from the perspective of data privacy, sharing, and security policies is warranted.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>The purpose of this scoping review and content analysis was to assess the privacy policies, data sharing, and security policies of women\u2019s mHealth apps on the current international market (the App Store on the Apple operating system [iOS] and Google Play on the Android system).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We reviewed the 23 most popular women\u2019s mHealth apps on the market by focusing on publicly available apps on the App Store and Google Play. The 23 downloaded apps were assessed manually by 2 independent reviewers against a variety of user data privacy, data sharing, and security assessment criteria.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>All 23 apps collected personal health-related data. All apps allowed behavioral tracking, and 61% (14/23) of the apps allowed location tracking. Of the 23 apps, only 16 (70%) displayed a privacy policy, 12 (52%) requested consent from users, and 1 (4%) had a pseudoconsent. In addition, 13% (3/23) of the apps collected data before obtaining consent. Most apps (20/23, 87%) shared user data with third parties, and data sharing information could not be obtained for the 13% (3/23) remaining apps. Of the 23 apps, only 13 (57%) provided users with information on data security.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Many of the most popular women\u2019s mHealth apps on the market have poor data privacy, sharing, and security standards. Although regulations exist, such as the European Union General Data Protection Regulation, current practices do not follow them. The failure of the assessed women\u2019s mHealth apps to meet basic data privacy, sharing, and security standards is not ethically or legally acceptable.</jats:p>\n                  </jats:sec>"
+  },
+  {
+   "DOI": "10.2196/preprints.21572",
+   "title": [
+    "COVID-19 Contact-Tracing Apps: Analysis of the Readability of Privacy Policies (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8385-2345",
+     "authenticated-orcid": false,
+     "given": "Melvyn",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2377-4506",
+     "authenticated-orcid": false,
+     "given": "Aloysius",
+     "family": "Chow",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1883-6124",
+     "authenticated-orcid": false,
+     "given": "Helen",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      18
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.21572",
+   "abstract": "<sec>\n                    <title>UNSTRUCTURED</title>\n                        <p>Apps that enable contact-tracing are instrumental in mitigating the transmission of COVID-19, but there have been concerns among users about the data collected by these apps and their management. Contact tracing is of paramount importance when dealing with a pandemic, as it allows for rapid identification of cases based on the information collected from infected individuals about other individuals they may have had recent contact with. Advances in digital technology have enabled devices such as mobile phones to be used in the contract-tracing process. However, there is a potential risk of users\u2019 personal information and sensitive data being stolen should hackers be in the near vicinity of these devices. Thus, there is a need to develop privacy-preserving apps. Meanwhile, privacy policies that outline the risk associated with the use of contact-tracing apps are needed, in formats that are easily readable and comprehensible by the public. To our knowledge, no previous study has examined the readability of privacy policies of contact-tracings apps. Therefore, we performed a readability analysis to evaluate the comprehensibility of privacy policies of 7 contact-tracing apps currently in use. The contents of the privacy policies of these apps were assessed for readability using Readability Test Tool, a free web-based reliability calculator, which computes scores based on a number of statistics (ie, word count and the number of complex words) and indices (ie, Flesch Reading Ease, Flesch-Kincaid Reading Grade Level, Gunning Fog Index, and Simplified Measure of Gobbledygook index). Our analysis revealed that explanations used in the privacy policies of these apps require a reading grade between 7 and 14, which is considerably higher than the reading ability of the average individual. We believe that improving the readability of privacy policies of apps could be potentially reassuring for users and may help facilitate the increased use of such apps.</p>\n                </sec>"
+  },
+  {
+   "DOI": "10.2139/ssrn.5511602",
+   "title": [
+    "Three models of big data governance: A comparative analysis of privacy policies of contact tracing apps in China, Singapore, and Germany"
+   ],
+   "author": [
+    {
+     "given": "Bian",
+     "family": "Xiong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Fen",
+     "family": "Lin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5511602"
+  },
+  {
+   "DOI": "10.1007/978-3-030-02547-2_1",
+   "title": [
+    "Which Apps Have Privacy Policies?"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3174-2563",
+     "authenticated-orcid": false,
+     "given": "Peter",
+     "family": "Story",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2500-2681",
+     "authenticated-orcid": false,
+     "given": "Sebastian",
+     "family": "Zimmeck",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4829-5533",
+     "authenticated-orcid": false,
+     "given": "Norman",
+     "family": "Sadeh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "container-title": [
+    "Lecture Notes in Computer Science",
+    "Privacy Technologies and Policy"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-030-02547-2_1"
+  },
+  {
+   "DOI": "10.1109/gem56474.2022.10017750",
+   "title": [
+    "An Analysis of Mobile Gaming Apps' Privacy Policies"
+   ],
+   "author": [
+    {
+     "given": "Tian",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Information Sciences, University of Illinois,Champaign,USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Carol Mullins",
+     "family": "Hayes",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Sciences, University of Illinois,Champaign,USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chen",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Sciences, University of Illinois,Champaign,USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Masooda",
+     "family": "Bashir",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Information Sciences, University of Illinois,Champaign,USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      27
+     ]
+    ]
+   },
+   "container-title": [
+    "2022 IEEE Games, Entertainment, Media Conference (GEM)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/gem56474.2022.10017750"
+  },
+  {
+   "DOI": "10.1109/policy.2012.20",
+   "title": [
+    "Content Analysis of Privacy Policies for Health Social Networks"
+   ],
+   "author": [
+    {
+     "given": "Pratik",
+     "family": "Savla",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lorenzo D.",
+     "family": "Martino",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "2012 IEEE International Symposium on Policies for Distributed Systems and Networks"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/policy.2012.20"
+  },
+  {
+   "DOI": "10.2196/preprints.12364",
+   "title": [
+    "Features and Educational Content Related to Milk Production in Breastfeeding Apps: Content Analysis Informed by Social Cognitive Theory (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7433-3727",
+     "authenticated-orcid": false,
+     "given": "Suhail",
+     "family": "Sidhu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1656-6968",
+     "authenticated-orcid": false,
+     "given": "Kaoer",
+     "family": "Ma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5049-8319",
+     "authenticated-orcid": false,
+     "given": "Anna",
+     "family": "Sadovnikova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.12364",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>Low milk production is one of the main reasons for premature breastfeeding cessation. Smartphone apps have the potential to assist mothers with promoting, interpreting, tracking, or learning about milk production. It is not known whether breastfeeding apps contain high-quality, engaging, and diverse content and features that could be used by mothers to increase their breastfeeding self-efficacy and answer their questions about milk production.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>The overarching objective of this study was to identify and evaluate features and content within breastfeeding apps that could be used by mothers to increase breastfeeding self-efficacy and answer their questions about milk production. The secondary objectives were to quantify the diversity of representation of breastfeeding experiences within breastfeeding apps and to define the type of organization that is most likely to create free apps and/or apps with high-quality, engaging, and diverse features and content related to milk production.</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>Breastfeeding apps were identified in the Apple App Store. All features that assist mothers with tracking, promoting, or interpreting milk production in the first 0-6 months postpartum were noted. Every screen containing educational information about milk production was identified and saved for review. Images of mothers and caretakers within the selected screenshots were assessed. Three scoresheets informed by Social Cognitive Theory were created to evaluate all identified features, educational content, and images representing the breastfeeding experience.</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>Forty-one breastfeeding apps were reviewed. Only seven apps contained both features and educational content related to milk production. Thirteen apps that contained educational content related to milk production received a mean combined content and cultural diversity score of 15.3 of 78. Of the 48 photos reviewed in screenshots that contained educational content on milk production, 87.5% (n=42) were of white women and their infants. For-profit companies and large organizations were most likely to create free apps and apps that received high scores on the combined content and diversity or features scoresheet, respectively.</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>Features and educational content related to milk production and breastfeeding imagery within breastfeeding apps were evaluated using three novel scoresheets informed by Social Cognitive Theory. Few apps contained both features that promote breastfeeding self-efficacy and high-quality, engaging, educational content with images of diverse caretakers. Thus, it is likely that parents, especially those from minority or low-income groups, have limited options when selecting a breastfeeding app. App developers could use the scoresheets and findings in this review to develop breastfeeding apps that assist mothers with interpreting, tracking, or learning about milk production through high-quality and engaging features, content, and imagery.</p>\n                </sec>"
+  }
+ ]
+}

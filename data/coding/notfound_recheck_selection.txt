@@ -1,0 +1,19 @@
+seed 20261020; 14 of 92 NOT_FOUND
+CB-030
+CB-035
+CB-043
+CB-061
+CB-062
+CB-069
+CI-008
+CI-029
+CI-034
+CI-035
+CI-043
+GV-013
+GV-014
+OT-010
+RESULT (hand check of saved homepage HTML, anchors matching polic*/terms/disclos*/legal/cookie/data/conditions/disclaimer/safety):
+13 of 14 had no privacy-related link at all (several had only "Mandatory Public Disclosure" pages, which are CBSE disclosures, not privacy notices).
+1 of 14 (CI-035) had a "Privacy Policy" link with href "#" (inactive placeholder; no notice retrievable) and a "Terms & Condition" link with href "#".
+=> NOT_FOUND precision 13/14 (Wilson 95% CI 69-99%); the one miss is an inactive link, not a retrievable notice.

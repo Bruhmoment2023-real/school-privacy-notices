@@ -1,0 +1,151 @@
+id	label	description	url	cluster	weight<Citations in corpus>	score<Pub. year>
+1	wilson (2016.0)	The Creation and Analysis of a Website Privacy Policy Corpus	https://doi.org/10.18653/v1/p16-1126	1	54	2016.0
+2	jensen (2004.0)	Privacy policies as decision-making tools	https://doi.org/10.1145/985692.985752	2	38	2004.0
+3	zimmeck (2019.0)	MAPS: Scaling Privacy Compliance Analysis to a Million Apps	https://doi.org/10.2478/popets-2019-0037	1	33	2019.0
+4	reyes (2018.0)	“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale	https://doi.org/10.1515/popets-2018-0021	1	30	2018.0
+5	harkous (2018.0)	Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning	https://doi.org/10.48550/arxiv.1802.02561	1	30	2018.0
+6	milne (2004.0)	Strategies for reducing online privacy risks: Why consumers read (or don't read) online privacy notices	https://doi.org/10.1002/dir.20009	3	29	2004.0
+7	zimmeck (2017.0)	Automated Analysis of Privacy Requirements for Mobile Apps	https://doi.org/10.14722/ndss.2017.23034	1	28	2017.0
+8	slavin (2016.0)	Toward a framework for detecting privacy policy violations in android application code	https://doi.org/10.1145/2884781.2884855	1	25	2016.0
+9	thomas (2020.0)	The Privacy Policy Landscape After the GDPR	https://doi.org/10.2478/popets-2020-0004	1	25	2020.0
+10	mačėnaitė (2017.0)	Consent for processing children’s personal data in the EU: following in US footsteps?	https://doi.org/10.1080/13600834.2017.1321096	4	24	2017.0
+11	obar (2016.0)	The Biggest Lie on the Internet: Ignoring the Privacy Policies and Terms of Service Policies of Social Networking Services	https://doi.org/10.1080/1369118x.2018.1486870	1	23	2016.0
+12	lupton (2017.0)	The datafied child: The dataveillance of children and implications for their rights	https://doi.org/10.1177/1461444816686328	4	22	2017.0
+13	reeve (2015.0)	Solutions to problematic polypharmacy: learning from the expertise of patients	https://doi.org/10.3399/bjgp15x685465	2	21	2015.0
+14	fabian (2017.0)	Large-scale readability analysis of privacy policies	https://doi.org/10.1145/3106426.3106427	1	21	2017.0
+15	tesfay (2018.0)	PrivacyGuide	https://doi.org/10.1145/3180445.3180447	1	19	2018.0
+16	earp (2005.0)	Examining Internet Privacy Policies Within the Context of User Privacy Values	https://doi.org/10.1109/tem.2005.844927	3	19	2005.0
+17	kelley (2010.0)	Standardizing privacy notices	https://doi.org/10.1145/1753326.1753561	2	18	2010.0
+18	kelley (2009.0)	A "nutrition label" for privacy	https://doi.org/10.1145/1572532.1572538	2	18	2009.0
+19	ifenthaler (2016.0)	Student perceptions of privacy principles for learning analytics	https://doi.org/10.1007/s11423-016-9477-y	4	17	2016.0
+20	mcdonald (2009.0)	A Comparative Study of Online Privacy Policies and Formats	https://doi.org/10.1007/978-3-642-03168-7_3	1	17	2009.0
+21	milne (2006.0)	A Longitudinal Assessment of Online Privacy Notice Readability	https://doi.org/10.1509/jppm.25.2.238	3	16	2006.0
+22	smith (2011.0)	Information Privacy Research: an Interdisciplinary Review1	https://doi.org/10.2307/41409970	3	16	2011.0
+23	tsai (2010.0)	The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study	https://doi.org/10.1287/isre.1090.0260	3	16	2010.0
+24	antón (2004.0)	Financial privacy policies and the need for standardization	https://doi.org/10.1109/msecp.2004.1281243	2	16	2004.0
+25	oltramari (2017.0)	PrivOnto: A semantic framework for the analysis of privacy policies	https://doi.org/10.3233/sw-170283	1	15	2017.0
+26	reagle (1999.0)	The platform for privacy preferences	https://doi.org/10.1145/293411.293455	2	15	1999.0
+27	culnan (1999.0)	Information Privacy Concerns, Procedural Fairness, and Impersonal Trust: An Empirical Investigation	https://doi.org/10.1287/orsc.10.1.104	3	15	1999.0
+28	warren (1890.0)	11. The Right to Privacy	https://doi.org/10.1515/9780295803661-014	3	15	1890.0
+29	pardo (2014.0)	Ethical and privacy principles for learning analytics	https://doi.org/10.1111/bjet.12152	4	15	2014.0
+30	pollach (2007.0)	What's wrong with online privacy policies?	https://doi.org/10.1145/1284621.1284627	2	15	2007.0
+31	sunyaev (2014.0)	Availability and quality of mobile health app privacy policies	https://doi.org/10.1136/amiajnl-2013-002605	1	15	2014.0
+32	cranor (2012.0)	Necessary But Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice.	https://openalex.org/W2405832514	2	15	2012.0
+33	zaeem (2018.0)	PrivacyCheck	https://doi.org/10.1145/3127519	1	15	2018.0
+34	reidenberg (2014.0)	Disagreeable Privacy Policies: Mismatches between Meaning and Users’ Understanding	https://doi.org/10.2139/ssrn.2418297	1	14	2014.0
+35	sathyendra (2017.0)	Identifying the Provision of Choices in Privacy Policy Text	https://doi.org/10.18653/v1/d17-1294	1	14	2017.0
+36	degeling (2019.0)	We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR's Impact on Web Privacy	https://doi.org/10.14722/ndss.2019.23378	1	14	2019.0
+37	miyazaki (2000.0)	Internet Privacy and Security: An Examination of Online Retailer Disclosures	https://doi.org/10.1509/jppm.19.1.54.16942	3	14	2000.0
+38	law; (2021.0)	Full Issue - Volume 39, Issue 1	https://doi.org/10.15779/z384k33	2	14	2021.0
+39	steinfeld (2015.0)	“I agree to the terms and conditions”: (How) do users read privacy policies online? An eye-tracking experiment	https://doi.org/10.1016/j.chb.2015.09.038	3	14	2015.0
+40	slade (2013.0)	Learning Analytics	https://doi.org/10.1177/0002764213479366	4	13	2013.0
+41	westin (1967.0)	Privacy and Freedom	https://openalex.org/W3184218770	3	13	1967.0
+42	solove (2006.0)	A Taxonomy of Privacy	https://doi.org/10.2307/40041279	4	13	2006.0
+43	dinev (2006.0)	An Extended Privacy Calculus Model for E-Commerce Transactions	https://doi.org/10.1287/isre.1060.0080	3	13	2006.0
+44	costante (2012.0)	A machine learning solution to assess privacy policy completeness	https://doi.org/10.1145/2381966.2381979	1	13	2012.0
+45	smith (1996.0)	Information Privacy: Measuring Individuals’ Concerns About Organizational Practices1	https://doi.org/10.2307/249477	3	13	1996.0
+46	mcdonald (2008.0)	The Cost of Reading Privacy Policies	https://openalex.org/W7018197807	2	13	2008.0
+47	zimmeck (2014.0)	Privee: An Architecture for Automatically Analyzing Web Privacy Policies	https://openalex.org/W2207751595	1	13	2014.0
+48	mcdonald (2009.0)	A comparative study of online privacy policies and formats	https://doi.org/10.1145/1572532.1572586	2	13	2009.0
+49	nissenbaum (2011.0)	A Contextual Approach to Privacy Online	https://doi.org/10.1162/daed_a_00113	2	12	2011.0
+50	graber (2002.0)	Reading level of privacy policies on Internet health Web sites.	https://openalex.org/W2418038528	2	12	2002.0
+51	ravichander (2019.0)	Question Answering for Privacy Policies: Combining Computational and Legal Perspectives	https://doi.org/10.18653/v1/d19-1500	1	12	2019.0
+52	amos (2021.0)	Privacy Policies over Time: Curation and Analysis of a Million-Document Dataset	https://doi.org/10.1145/3442381.3450048	1	12	2021.0
+53	cranor (2002.0)	Web Privacy with P3p	https://openalex.org/W1505817364	2	12	2002.0
+54	fan (2020.0)	An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps	https://doi.org/10.1109/issre5003.2020.00032	1	12	2020.0
+55	nissenbaum (2009.0)	Privacy in Context	https://doi.org/10.1515/9780804772891	4	12	2009.0
+56	jones (2020.0)	“We're being tracked at all times”: Student perspectives of their privacy in relation to learning analytics in higher education	https://doi.org/10.1002/asi.24358	4	12	2020.0
+57	malhotra (2004.0)	Internet Users' Information Privacy Concerns (IUIPC): The Construct, the Scale, and a Causal Model	https://doi.org/10.1287/isre.1040.0032	3	12	2004.0
+58	milne (2002.0)	Using the Content of Online Privacy Notices to Inform Public Policy: A Longitudinal Analysis of the 1998-2001 U.S. Web Surveys	https://doi.org/10.1080/01972240290108168	3	12	2002.0
+59	wu (2012.0)	The effect of online privacy policy on consumer privacy concern and trust	https://doi.org/10.1016/j.chb.2011.12.008	3	12	2012.0
+60	drachsler (2016.0)	Privacy and analytics	https://doi.org/10.1145/2883851.2883893	4	12	2016.0
+61	kumar (2020.0)	Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text	https://doi.org/10.1145/3366423.3380262	1	11	2020.0
+62	wagner (2023.0)	Privacy Policies across the Ages: Content of Privacy Policies 1996–2021	https://doi.org/10.1145/3590152	1	11	2023.0
+63	wang (2018.0)	GUILeak	https://doi.org/10.1145/3180155.3180196	1	11	2018.0
+64	utz (2019.0)	(Un)informed Consent	https://doi.org/10.1145/3319535.3354212	1	11	2019.0
+65	braun (2006.0)	Using thematic analysis in psychology	https://doi.org/10.1191/1478088706qp063oa	4	11	2006.0
+66	rubel (2016.0)	Student privacy in learning analytics: An information ethics perspective	https://doi.org/10.1080/01972243.2016.1130502	4	11	2016.0
+67	wilson (2016.0)	Crowdsourcing Annotations for Websites' Privacy Policies	https://doi.org/10.1145/2872427.2883035	2	11	2016.0
+68	bhatia (2016.0)	A Theory of Vagueness and Privacy Risk Perception	https://doi.org/10.1109/re.2016.20	1	10	2016.0
+69	schaub (2017.0)	Designing Effective Privacy Notices and Controls	https://doi.org/10.1109/mic.2017.75	2	10	2017.0
+70	kokolakis (2015.0)	Privacy attitudes and privacy behaviour: A review of current research on the privacy paradox phenomenon	https://doi.org/10.1016/j.cose.2015.07.002	3	10	2015.0
+71	robillard (2019.0)	Availability, readability, and content of privacy policies and terms of agreements of mental health apps	https://doi.org/10.1016/j.invent.2019.100243	1	10	2019.0
+72	sarne (2019.0)	Unsupervised Topic Extraction from Privacy Policies	https://doi.org/10.1145/3308560.3317585	1	10	2019.0
+73	nejad (2020.0)	Establishing a Strong Baseline for Privacy Policy Classification	https://doi.org/10.1007/978-3-030-58201-2_25	1	10	2020.0
+74	williamson (2017.0)	Big Data in Education: The digital future of learning, policy and practice	https://doi.org/10.4135/9781529714920	4	10	2017.0
+75	williamson (2020.0)	The datafication of teaching in Higher Education: critical issues and perspectives	https://doi.org/10.1080/13562517.2020.1748811	4	10	2020.0
+76	podsakoff (2003.0)	Common method biases in behavioral research: A critical review of the literature and recommended remedies.	https://doi.org/10.1037/0021-9010.88.5.879	3	10	2003.0
+77	andow (2019.0)	Policylint: Investigating internal privacy policy contradictions on google play	https://openalex.org/W2964378348	1	10	2019.0
+78	cranor (2006.0)	User interfaces for privacy agents	https://doi.org/10.1145/1165734.1165735	2	10	2006.0
+79	miyazaki (2002.0)	Internet Seals of Approval: Effects on Online Privacy Policies and Consumer Perceptions	https://doi.org/10.1111/j.1745-6606.2002.tb00419.x	3	10	2002.0
+80	reidenberg (2016.0)	Ambiguity in Privacy Policies and the Impact of Regulation	https://doi.org/10.1086/688669	2	10	2016.0
+81	bhatia (2016.0)	Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition	https://doi.org/10.1145/2907942	2	10	2016.0
+82	acquisti (2015.0)	Privacy and human behavior in the age of information	https://doi.org/10.1126/science.aaa1465	2	10	2015.0
+83	zaeem (2020.0)	The Effect of the GDPR on Privacy Policies	https://doi.org/10.1145/3389685	1	10	2020.0
+84	cranor (2016.0)	A Large-Scale Evaluation of U.S. Financial Institutions’ Standardized Privacy Notices	https://doi.org/10.1145/2911988	2	9	2016.0
+85	barth (2006.0)	Privacy and contextual integrity: framework and applications	https://doi.org/10.1109/sp.2006.32	2	9	2006.0
+86	ahmad (2020.0)	PolicyQA: A Reading Comprehension Dataset for Privacy Policies	https://doi.org/10.18653/v1/2020.findings-emnlp.66	1	9	2020.0
+87	westin (1970.0)	Privacy and Freedom	https://openalex.org/W1480201135	3	9	1970.0
+88	tesfay (2018.0)	I Read but Don't Agree	https://doi.org/10.1145/3184558.3186969	1	9	2018.0
+89	lebanoff (2018.0)	Automatic Detection of Vague Words and Sentences in Privacy Policies	https://doi.org/10.18653/v1/d18-1387	1	9	2018.0
+90	englehardt (2016.0)	Online Tracking	https://doi.org/10.1145/2976749.2978313	1	9	2016.0
+91	dionysios (2018.0)	AI-Assisted Pipeline for Dynamic Generation of Trustworthy Health Supplement Content at Scale	https://doi.org/10.4230/lipics.cosit.2022.18	1	9	2018.0
+92	bélanger (2002.0)	Trustworthiness in electronic commerce: the role of privacy, security, and site attributes	https://doi.org/10.1016/s0963-8687(02)00018-5	3	9	2002.0
+93	bowers (2017.0)	Regulators, mount up! analysis of privacy policies for mobile money services	https://openalex.org/W2740143083	1	9	2017.0
+94	cranor (2002.0)	The platform for privacy preferences 1.0 (p3p1.0) specification	https://openalex.org/W1557915535	2	9	2002.0
+95	jensen (2005.0)	Privacy practices of Internet users: Self-reports versus observed behavior	https://doi.org/10.1016/j.ijhcs.2005.04.019	2	9	2005.0
+96	razaghpanah (2018.0)	Apps, Trackers, Privacy, and Regulators: A Global Study of the Mobile Tracking Ecosystem	https://doi.org/10.14722/ndss.2018.23353	1	9	2018.0
+97	das (2018.0)	Privacy Policies for Apps Targeted Toward Youth: Descriptive Analysis of Readability	https://doi.org/10.2196/mhealth.7626	1	9	2018.0
+98	acquisti (2016.0)	The Economics of Privacy	https://doi.org/10.1257/jel.54.2.442	2	9	2016.0
+99	livingstone (2017.0)	Children and young people’s rights in the digital age: An emerging agenda	https://doi.org/10.1177/1461444816686318	4	8	2017.0
+100	schaub (2018.0)	A Design Space for Effective Privacy Notices*	https://doi.org/10.1017/9781316831960.021	2	8	2018.0
+101	libert (2018.0)	An Automated Approach to Auditing Disclosure of Third-Party Data Collection in Website Privacy Policies	https://doi.org/10.1145/3178876.3186087	1	8	2018.0
+102	schwaig (2006.0)	Compliance to the fair information practices: How are the Fortune 500 handling online privacy disclosures?	https://doi.org/10.1016/j.im.2006.07.003	3	8	2006.0
+103	yu (2018.0)	PPChecker: Towards Accessing the Trustworthiness of Android Apps’ Privacy Policies	https://doi.org/10.1109/tse.2018.2886875	1	8	2018.0
+104	bui (2021.0)	Automated Extraction and Presentation of Data Practices in Privacy Policies	https://doi.org/10.2478/popets-2021-0019	1	8	2021.0
+105	jones (2019.0)	Learning analytics and higher education: a proposed model for establishing informed consent mechanisms to promote student privacy and autonomy	https://doi.org/10.1186/s41239-019-0155-0	4	8	2019.0
+106	pennington (2014.0)	Glove: Global Vectors for Word Representation	https://doi.org/10.3115/v1/d14-1162	1	8	2014.0
+107	fornell (1981.0)	Evaluating Structural Equation Models with Unobservable Variables and Measurement Error	https://doi.org/10.1177/002224378101800104	3	8	1981.0
+108	xu (2011.0)	Information Privacy Concerns: Linking Individual Perceptions with Institutional Privacy Assurances	https://doi.org/10.17705/1jais.00281	3	8	2011.0
+109	javed (2020.0)	A Study of South Asian Websites on Privacy Compliance	https://doi.org/10.1109/access.2020.3019334	1	8	2020.0
+110	culnan (2003.0)	Consumer Privacy: Balancing Economic and Justice Considerations	https://doi.org/10.1111/1540-4560.00067	3	8	2003.0
+111	liu (2004.0)	Beyond concern—a privacy-trust-behavioral intention model of electronic commerce	https://doi.org/10.1016/j.im.2004.01.003	3	8	2004.0
+112	meinert (2006.0)	Privacy Policy Statements and Consumer Willingness to Provide Personal Information	https://doi.org/10.4018/jeco.2006010101	3	8	2006.0
+113	phelps (2000.0)	Privacy Concerns and Consumer Willingness to Provide Personal Information	https://doi.org/10.1509/jppm.19.1.27.16941	3	8	2000.0
+114	blei (2003.0)	Latent dirichlet allocation	https://doi.org/10.5555/944919.944937	2	8	2003.0
+115	marotta‐wurgler (2016.0)	Self-Regulation and Competition in Privacy Policies	https://doi.org/10.1086/689753	3	8	2016.0
+116	nouwens (2020.0)	Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence	https://doi.org/10.1145/3313831.3376321	1	8	2020.0
+117	wilson (2018.0)	Analyzing Privacy Policies at Scale	https://doi.org/10.1145/3230665	1	8	2018.0
+118	lippi (2019.0)	CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service	https://doi.org/10.1007/s10506-019-09243-2	1	8	2019.0
+119	srinath (2021.0)	Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies	https://doi.org/10.18653/v1/2021.acl-long.532	1	8	2021.0
+120	thelisson (2018.0)	The General Data Protection Regulation	https://doi.org/10.1145/3170427.3170632	1	8	2018.0
+121	cate (2010.0)	The Limits of Notice and Choice	https://doi.org/10.1109/msp.2010.84	2	8	2010.0
+122	yu (2016.0)	Can We Trust the Privacy Policies of Android Apps?	https://doi.org/10.1109/dsn.2016.55	1	8	2016.0
+123	hoke (2015.0)	Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies	https://openalex.org/W298756085	2	8	2015.0
+124	flesch (1948.0)	A new readability yardstick.	https://doi.org/10.1037/h0057532	2	7	1948.0
+125	a (2003.0)	A Toolkit for Managing Enterprise Privacy Policies	https://doi.org/10.1007/978-3-540-39650-5_10	2	7	2003.0
+126	rifon (2005.0)	Your Privacy Is Sealed: Effects of Web Privacy Seals on Trust and Personal Disclosures	https://doi.org/10.1111/j.1745-6606.2005.00018.x	3	7	2005.0
+127	evans (2017.0)	An Evaluation of Constituency-Based Hyponymy Extraction from Privacy Policies	https://doi.org/10.1109/re.2017.87	1	7	2017.0
+128	reidenberg (2014.0)	Privacy Harms and the Effectiveness of the Notice and Choice Framework	https://doi.org/10.2139/ssrn.2418247	2	7	2014.0
+129	sweeney (2002.0)	k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY	https://doi.org/10.1142/s0218488502001648	2	7	2002.0
+130	o'loughlin (2018.0)	Reviewing the data security and privacy policies of mobile apps for depression	https://doi.org/10.1016/j.invent.2018.12.001	1	7	2018.0
+131	liu (2021.0)	Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13	https://doi.org/10.1145/3442381.3450022	1	7	2021.0
+132	anon. (2008.0)	Understanding privacy	https://doi.org/10.5860/choice.46-1562	3	7	2008.0
+133	dijck (2014.0)	Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology	https://doi.org/10.24908/ss.v12i2.4776	4	7	2014.0
+134	reidenberg (2018.0)	Achieving big data privacy in education	https://doi.org/10.1177/1477878518805308	4	7	2018.0
+135	degeling (2019.0)	We Value Your Privacy ... Now Take Some Cookies	https://doi.org/10.1007/s00287-019-01201-1	1	7	2019.0
+136	liu (2018.0)	A Step Towards Usable Privacy Policy: Automatic Alignment of Privacy Statements	https://doi.org/10.1184/r1/6472991	1	7	2018.0
+137	huckvale (2019.0)	Assessment of the Data Sharing and Privacy Practices of Smartphone Apps for Depression and Smoking Cessation	https://doi.org/10.1001/jamanetworkopen.2019.2542	1	7	2019.0
+138	aı̈meur (2016.0)	When changing the look of privacy policies affects user trust: An experimental study	https://doi.org/10.1016/j.chb.2015.11.014	3	7	2016.0
+139	li (2019.0)	The Impact of GDPR on Global Technology Development	https://doi.org/10.1080/1097198x.2019.1569186	1	7	2019.0
+140	andow (2020.0)	Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck	https://openalex.org/W3048993947	1	7	2020.0
+141	proctor (2008.0)	Examining Usability of Web Privacy Policies	https://doi.org/10.1080/10447310801937999	2	7	2008.0
+142	chang (2002.0)	An Examination of Privacy Policies in Fortune 500 Web Sites	https://doi.org/10.1108/19355181200200001	3	7	2002.0
+143	sathyendra (2016.0)	Automatic extraction of opt-out choices from privacy policies	https://openalex.org/W2781599780	1	7	2016.0
+144	norberg (2007.0)	The Privacy Paradox: Personal Information Disclosure Intentions versus Behaviors	https://doi.org/10.1111/j.1745-6606.2006.00070.x	2	7	2007.0
+145	zhao (2019.0)	`I make up a silly name'	https://doi.org/10.1145/3290605.3300336	1	7	2019.0
+146	ackerman (1999.0)	Privacy in e-commerce	https://doi.org/10.1145/336992.336995	2	7	1999.0
+147	ryker (2002.0)	Online Privacy Policies: An Assessment of the Fortune E-50	https://doi.org/10.1080/08874417.2002.11647048	3	7	2002.0
+148	nissenbaum (2012.0)	A Contextual Approach to Privacy Online	https://doi.org/10.3233/978-1-61499-057-4-219	2	7	2012.0
+149	westin (2003.0)	Social and Political Dimensions of Privacy	https://doi.org/10.1111/1540-4560.00072	3	7	2003.0
+150	solove (2002.0)	Conceptualizing Privacy	https://doi.org/10.2307/3481326	4	7	2002.0

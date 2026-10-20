@@ -1,0 +1,781 @@
+{
+ "q": "children's privacy policies readability compliance mobile apps",
+ "items": [
+  {
+   "DOI": "10.2196/preprints.21572",
+   "title": [
+    "COVID-19 Contact-Tracing Apps: Analysis of the Readability of Privacy Policies (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8385-2345",
+     "authenticated-orcid": false,
+     "given": "Melvyn",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2377-4506",
+     "authenticated-orcid": false,
+     "given": "Aloysius",
+     "family": "Chow",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1883-6124",
+     "authenticated-orcid": false,
+     "given": "Helen",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      18
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.21572",
+   "abstract": "<sec>\n                    <title>UNSTRUCTURED</title>\n                        <p>Apps that enable contact-tracing are instrumental in mitigating the transmission of COVID-19, but there have been concerns among users about the data collected by these apps and their management. Contact tracing is of paramount importance when dealing with a pandemic, as it allows for rapid identification of cases based on the information collected from infected individuals about other individuals they may have had recent contact with. Advances in digital technology have enabled devices such as mobile phones to be used in the contract-tracing process. However, there is a potential risk of users\u2019 personal information and sensitive data being stolen should hackers be in the near vicinity of these devices. Thus, there is a need to develop privacy-preserving apps. Meanwhile, privacy policies that outline the risk associated with the use of contact-tracing apps are needed, in formats that are easily readable and comprehensible by the public. To our knowledge, no previous study has examined the readability of privacy policies of contact-tracings apps. Therefore, we performed a readability analysis to evaluate the comprehensibility of privacy policies of 7 contact-tracing apps currently in use. The contents of the privacy policies of these apps were assessed for readability using Readability Test Tool, a free web-based reliability calculator, which computes scores based on a number of statistics (ie, word count and the number of complex words) and indices (ie, Flesch Reading Ease, Flesch-Kincaid Reading Grade Level, Gunning Fog Index, and Simplified Measure of Gobbledygook index). Our analysis revealed that explanations used in the privacy policies of these apps require a reading grade between 7 and 14, which is considerably higher than the reading ability of the average individual. We believe that improving the readability of privacy policies of apps could be potentially reassuring for users and may help facilitate the increased use of such apps.</p>\n                </sec>"
+  },
+  {
+   "DOI": "10.1109/re63999.2025.00038",
+   "title": [
+    "GDPR Compliance in Privacy Policies of Mobile Apps: An Overview of the State-of-Practice"
+   ],
+   "author": [
+    {
+     "given": "Orlando Amaral",
+     "family": "Cejas",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Luxembourg Institute of Science and Technology"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sallam",
+     "family": "Abualhaija",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nicolas",
+     "family": "Sannier",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marcello",
+     "family": "Ceci",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Domenico",
+     "family": "Bianculli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "2025 IEEE 33rd International Requirements Engineering Conference (RE)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/re63999.2025.00038"
+  },
+  {
+   "DOI": "10.14763/2024.2.1757",
+   "title": [
+    "The death of privacy policies: How app stores shape GDPR compliance of apps"
+   ],
+   "author": [
+    {
+     "given": "Julia",
+     "family": "Kr\u00e4mer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Internet Policy Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.14763/2024.2.1757"
+  },
+  {
+   "DOI": "10.4018/978-1-4666-2068-1.ch004",
+   "title": [
+    "Evaluating the Readability of Privacy Policies in Mobile Environments"
+   ],
+   "author": [
+    {
+     "given": "R. I.",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Sumeeth",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Miller",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Developments in Technologies for Human-Centric Mobile Computing and Applications"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4018/978-1-4666-2068-1.ch004"
+  },
+  {
+   "DOI": "10.2196/21572",
+   "title": [
+    "COVID-19 Contact-Tracing Apps: Analysis of the Readability of Privacy Policies"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8385-2345",
+     "authenticated-orcid": false,
+     "given": "Melvyn",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2377-4506",
+     "authenticated-orcid": false,
+     "given": "Aloysius",
+     "family": "Chow",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1883-6124",
+     "authenticated-orcid": false,
+     "given": "Helen",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Medical Internet Research"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/21572",
+   "abstract": "<jats:p>Apps that enable contact-tracing are instrumental in mitigating the transmission of COVID-19, but there have been concerns among users about the data collected by these apps and their management. Contact tracing is of paramount importance when dealing with a pandemic, as it allows for rapid identification of cases based on the information collected from infected individuals about other individuals they may have had recent contact with. Advances in digital technology have enabled devices such as mobile phones to be used in the contract-tracing process. However, there is a potential risk of users\u2019 personal information and sensitive data being stolen should hackers be in the near vicinity of these devices. Thus, there is a need to develop privacy-preserving apps. Meanwhile, privacy policies that outline the risk associated with the use of contact-tracing apps are needed, in formats that are easily readable and comprehensible by the public. To our knowledge, no previous study has examined the readability of privacy policies of contact-tracings apps. Therefore, we performed a readability analysis to evaluate the comprehensibility of privacy policies of 7 contact-tracing apps currently in use. The contents of the privacy policies of these apps were assessed for readability using Readability Test Tool, a free web-based reliability calculator, which computes scores based on a number of statistics (ie, word count and the number of complex words) and indices (ie, Flesch Reading Ease, Flesch-Kincaid Reading Grade Level, Gunning Fog Index, and Simplified Measure of Gobbledygook index). Our analysis revealed that explanations used in the privacy policies of these apps require a reading grade between 7 and 14, which is considerably higher than the reading ability of the average individual. We believe that improving the readability of privacy policies of apps could be potentially reassuring for users and may help facilitate the increased use of such apps.</jats:p>"
+  },
+  {
+   "DOI": "10.2196/mhealth.7626",
+   "title": [
+    "Privacy Policies for Apps Targeted Toward Youth: Descriptive Analysis of Readability"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9101-0882",
+     "authenticated-orcid": false,
+     "given": "Gitanjali",
+     "family": "Das",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1743-6890",
+     "authenticated-orcid": false,
+     "given": "Cynthia",
+     "family": "Cheung",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6819-1796",
+     "authenticated-orcid": false,
+     "given": "Camille",
+     "family": "Nebeker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7782-3887",
+     "authenticated-orcid": false,
+     "given": "Matthew",
+     "family": "Bietz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1315-8387",
+     "authenticated-orcid": false,
+     "given": "Cinnamon",
+     "family": "Bloss",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      1,
+      4
+     ]
+    ]
+   },
+   "container-title": [
+    "JMIR mHealth and uHealth"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/mhealth.7626"
+  },
+  {
+   "DOI": "10.4018/jmhci.2011010104",
+   "title": [
+    "Evaluating the Readability of Privacy Policies in Mobile Environments"
+   ],
+   "author": [
+    {
+     "given": "R. I.",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Sumeeth",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Miller",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Alberta, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      1,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Mobile Human Computer Interaction"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4018/jmhci.2011010104",
+   "abstract": "<p>Recent work has suggested that the current \u201cbreed\u201d of privacy policy represents a significant challenge in terms of comprehension to the average Internet-user. Due to display limitations, it is easy to represent the conjecture that this comprehension level should drop when these policies are moved into a mobile environment. This paper explores the question of how much does comprehension decrease when privacy policies are viewed on mobile versus desktop environments and does this decrease make them useless in their current format? It reports on a formal subject-based experiment, which seeks to evaluate how readable are privacy policy statements found on the Internet but presented in mobile environments. This experiment uses fifty participants and privacy policies collected from ten of the most popular web sites on the Internet. It evaluates, using a Cloze test, the subject\u2019s ability to comprehend the content of these privacy policies.</p>"
+  },
+  {
+   "DOI": "10.14264/51ad221",
+   "title": [
+    "Privacy compliance of virtual personal assistant apps ecosystem"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5446-3081",
+     "authenticated-orcid": true,
+     "given": "Fuman",
+     "family": "Xie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00rqy9422",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "department": [
+        "School of Electrical Engineering and Computer Science"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/51ad221"
+  },
+  {
+   "DOI": "10.1109/icosst51357.2020.9332991",
+   "title": [
+    "Privacy Policies' Readability Analysis of Contemporary Free Healthcare Apps"
+   ],
+   "author": [
+    {
+     "given": "Emmen",
+     "family": "Farooq",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M. Ahmad",
+     "family": "Nawaz UI Ghani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zuhaib",
+     "family": "Naseer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shaukat",
+     "family": "Iqbal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      16
+     ]
+    ]
+   },
+   "container-title": [
+    "2020 14th International Conference on Open Source Systems and Technologies (ICOSST)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icosst51357.2020.9332991"
+  },
+  {
+   "DOI": "10.1515/9783110305036.137",
+   "title": [
+    "Kapitel 4: Compliance: Rechtliche Anforderungen an Apps"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Mobile Apps"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1515/9783110305036.137"
+  },
+  {
+   "DOI": "10.1145/3501712.3535278",
+   "title": [
+    "KOALA Hero: Inform Children of Privacy Risks of Mobile Apps"
+   ],
+   "author": [
+    {
+     "given": "Jun",
+     "family": "Zhao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, University of Oxford, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Blanche",
+     "family": "Duron",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, University of Oxford, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ge",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, University of Oxford, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      27
+     ]
+    ]
+   },
+   "container-title": [
+    "Interaction Design and Children"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3501712.3535278"
+  },
+  {
+   "DOI": "10.3390/electronics15091922",
+   "title": [
+    "Evaluating Privacy Policies in Local and Global E-Commerce Platforms: Insights on Compliance, Readability, and Transparency for Saudi Users"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2795-1714",
+     "authenticated-orcid": false,
+     "given": "Norah D.",
+     "family": "Alotaibi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
+      },
+      {
+       "name": "Department of Information Technology, College of Computer and Information Sciences, Majmaah University, Al-Majmaah 11952, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7817-8947",
+     "authenticated-orcid": false,
+     "given": "Maysoon",
+     "family": "Abulkhair",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5247-3326",
+     "authenticated-orcid": false,
+     "given": "Manal",
+     "family": "Bayousef",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah 21589, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Electronics"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.3390/electronics15091922",
+   "abstract": "<jats:p>In recent years, electronic commerce (e-commerce) platforms catering to Saudi users have experienced significant growth. Analyzing the privacy policies of these platforms is crucial to ensure data protection and transparency for Saudi users, especially in light of Saudi Arabia\u2019s Vision 2030. However, existing studies on these platforms are limited in scope and fail to address key dimensions comprehensively. This study investigates the current state of privacy policies across 500 e-commerce websites serving Saudi users. The analysis focuses on policy availability, language, readability, and compliance with Saudi Arabia\u2019s Personal Data Protection Law (PDPL). The findings reveal that 19.40% of websites lack privacy policies, and 2.01% fail to provide an Arabic version. On average, the privacy policies are lengthy, with approximately 981 words and 115 sentences, and are written in complex language that is difficult for users to understand. This study also identifies gaps in compliance with the PDPL, particularly in clarifying how data is collected and processed, and in explaining user rights. This study highlights the need for clearer, more accessible, and legally compliant privacy policies to enhance user trust and data protection.</jats:p>"
+  }
+ ]
+}

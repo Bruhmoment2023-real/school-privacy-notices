@@ -1,0 +1,336 @@
+{
+ "q": "school privacy notices audit compliance data protection",
+ "items": [
+  {
+   "DOI": "10.1142/9789819800285_0005",
+   "title": [
+    "Privacy Protection and Data Security Compliance"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      14
+     ]
+    ]
+   },
+   "container-title": [
+    "Data Security and Privacy Protection"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1142/9789819800285_0005"
+  },
+  {
+   "DOI": "10.69554/peqp3161",
+   "title": [
+    "Amendment 13 of Israel\u2019s Privacy Protection Law: A game-changer for data protection compliance?"
+   ],
+   "author": [
+    {
+     "given": "Dalit",
+     "family": "Ben-Israel",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Naschitz Brandes Amir",
+       "place": [
+        "Israel"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Data Protection &amp; Privacy"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.69554/peqp3161",
+   "abstract": "<jats:p xml:lang=\"en\">This paper explores Amendment 13 of Israel\u2019s Privacy Protection Law (PPL) and its potential impact on data protection in Israel. It examines how the amendment aligns Israeli privacy law with global privacy standards, particularly the General Data Protection Regulation (GDPR), and provides a framework for imposing new administrative fines. The paper discusses the broader implications of these changes for businesses and government entities, as well as the compliance challenges they present. Key reforms include stronger enforcement mechanisms, new criminal offences, and the introduction of the obligation to appoint data protection officers. The analysis includes actionable recommendations for policy makers, businesses and legal practitioners in adapting to these significant regulatory shifts. This paper is also included in The Business &amp; Management Collection which can be accessed at https://hstalks.com/business/</jats:p>"
+  },
+  {
+   "DOI": "10.1201/9781003543992-8",
+   "title": [
+    "Data privacy and protection"
+   ],
+   "author": [
+    {
+     "given": "Michael",
+     "family": "Brass",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      6
+     ]
+    ]
+   },
+   "container-title": [
+    "Governance, Risk and Compliance"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003543992-8"
+  },
+  {
+   "DOI": "10.2307/j.ctt1trkk7x.5",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR): An Implementation and Compliance Guide - Second edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctt1trkk7x.5"
+  },
+  {
+   "DOI": "10.1109/isc2.2018.8656877",
+   "title": [
+    "Audit Process Framework for Data Protection and Privacy Compliance Using Artificial Intelligence and Cognitive Services in Smart Cities"
+   ],
+   "author": [
+    {
+     "given": "Jose",
+     "family": "Huerta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pablo",
+     "family": "Salazar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "2018 IEEE International Smart Cities Conference (ISC2)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/isc2.2018.8656877"
+  },
+  {
+   "DOI": "10.2307/j.ctvr7fcwb.8",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      31
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR), third edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctvr7fcwb.8"
+  },
+  {
+   "DOI": "10.2307/j.ctv17f12pc.8",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR) \u2013 An implementation and compliance guide, fourth edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctv17f12pc.8"
+  },
+  {
+   "DOI": "10.1093/idpl/ipu020",
+   "title": [
+    "Transboundary data protection and international business compliance"
+   ],
+   "author": [
+    {
+     "given": "J.",
+     "family": "Kulesza",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "International Data Privacy Law"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/idpl/ipu020"
+  },
+  {
+   "DOI": "10.1017/9781108942485.006",
+   "title": [
+    "Data Privacy and Data Protection Issues in Cloud Computing"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      12,
+      16
+     ]
+    ]
+   },
+   "container-title": [
+    "Government Cloud Procurement"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1017/9781108942485.006"
+  },
+  {
+   "DOI": "10.2139/ssrn.5495701",
+   "title": [
+    "Risk Appetite in Privacy and Data Protection: How Enforcement Shapes Compliance Behavior"
+   ],
+   "author": [
+    {
+     "given": "Markus",
+     "family": "Sullivan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5495701"
+  },
+  {
+   "DOI": "10.3030/787034",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      5,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.3030/787034"
+  },
+  {
+   "DOI": "10.69554/ehod8985",
+   "title": [
+    "Take notice! The legal and commercial impact of the General Data Protection Regulation\u2019s rules on privacy notices"
+   ],
+   "author": [
+    {
+     "given": "Simon",
+     "family": "Morrissey",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      12,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Data Protection &amp; Privacy"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.69554/ehod8985",
+   "abstract": "<jats:p xml:lang=\"en\">Privacy notices have a key role to play in data protection compliance: they form one of the means by which data controllers can comply with their obligations to obtain the informed consent of the data subject and they are also one of the means by which data controllers can comply with the new transparency requirements under the General Data Protection Regulation (GDPR) 2016/679. This paper examines the impact that the GDPR will have on the content and communication of existing Privacy Notices by contrasting the new privacy notice requirements under the GDPR, with the current requirements under the Data Protection Act 1998.</jats:p>"
+  }
+ ]
+}

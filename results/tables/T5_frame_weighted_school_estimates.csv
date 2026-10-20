@@ -1,0 +1,7 @@
+outcome,frame,weighted_pct,ci_lo,ci_hi,frame_N
+has_notice,CBSE,16.9,4.1,29.8,27026
+has_notice,CISCE,13.9,4.1,23.7,1098
+has_notice,CBSE+CISCE,16.8,4.4,29.2,28124
+core5_S,CBSE,0.0,0.0,0.0,27026
+core5_S,CISCE,0.0,0.0,0.0,1098
+core5_S,CBSE+CISCE,0.0,0.0,0.0,28124

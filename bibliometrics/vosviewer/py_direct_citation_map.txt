@@ -1,0 +1,370 @@
+id	label	description	url	cluster	weight<Local citations>	weight<Global citations>	score<Pub. year>
+1	blenner (2016)	Privacy Policies of Android Diabetes Apps and Sharing of Health Information	https://doi.org/10.1001/jama.2015.19426	1	3	95	2016
+2	walsh (2026)	Three Systemic Problems With the Privacy Notice Ecosystem	https://doi.org/10.1002/poi3.70042	1	0	0	2026
+3	costello (2015)	Information quality, privacy policies, and data safety practices in online social networks for health: A longitudinal analysis	https://doi.org/10.1002/pra2.2015.145052010058	1	1	4	2015
+4	eiza (2024)	Secure semi‐automated GDPR compliance service with restrictive fine‐grained access control	https://doi.org/10.1002/spy2.451	1	0	1	2024
+5	becher (2020)	Law in Books and Law in Action: The Readability of Privacy Policies and the GDPR	https://doi.org/10.1007/978-3-030-49028-7_9	1	5	32	2020
+6	timan (2021)	Data Protection in the Era of Artificial Intelligence: Trends, Existing Solutions and Recommendations for Privacy-Preserving Technologies	https://doi.org/10.1007/978-3-030-68176-0_7	1	0	52	2021
+7	degeling (2019)	We Value Your Privacy ... Now Take Some Cookies	https://doi.org/10.1007/s00287-019-01201-1	1	7	68	2019
+8	rodríguez (2024)	Large language models: a new approach for privacy policy analysis at scale	https://doi.org/10.1007/s00607-024-01331-9	1	2	52	2024
+9	sadeh (2008)	Understanding and capturing people’s privacy policies in a mobile social networking application	https://doi.org/10.1007/s00779-008-0214-3	1	1	318	2008
+10	ali (2023)	The rise of “security and privacy”: bibliometric analysis of computer privacy research	https://doi.org/10.1007/s10207-023-00761-4	1	0	12	2023
+11	chen (2024)	VioDroid-Finder: automated evaluation of compliance and consistency for Android apps	https://doi.org/10.1007/s10664-024-10470-8	1	2	5	2024
+12	regan (2018)	Ethical challenges of edtech, big data and personalized learning: twenty-first century student sorting and tracking	https://doi.org/10.1007/s10676-018-9492-2	2	3	281	2018
+13	gistri (2025)	Transparency in mobile apps for value co-creation: how privacy notice communications shape user perception	https://doi.org/10.1007/s11002-025-09788-0	1	1	3	2025
+14	green (2024)	Strategic Indeterminacy and Online Privacy Policies: (Un)informed Consent and the General Data Protection Regulation	https://doi.org/10.1007/s11196-024-10132-4	1	0	9	2024
+15	vallée (2023)	Protecting Students: Data Privacy in the African Union	https://doi.org/10.1007/s11528-023-00834-0	2	0	3	2023
+16	liu (2022)	APPCorp: a corpus for Android privacy policy document structure analysis	https://doi.org/10.1007/s11704-022-1627-2	1	2	12	2022
+17	jones (2022)	A measurement of faculty views on the meaning and value of student privacy	https://doi.org/10.1007/s12528-022-09320-7	2	1	7	2022
+18	dixon (2017)	A Failure to “Do No Harm” -- India’s Aadhaar biometric ID program and its inability to protect privacy in relation to measures in Europe and the U.S.	https://doi.org/10.1007/s12553-017-0202-6	1	1	60	2017
+19	alhazmi (2024)	Privacy practices of popular websites in Saudi Arabia	https://doi.org/10.1007/s43995-024-00085-x	1	0	8	2024
+20	danster (2026)	Recent advances in machine learning and deep learning methodologies for responsible artificial intelligence and mobile application privacy transparency	https://doi.org/10.1007/s44163-026-01331-y	1	0	1	2026
+21	osodein (2026)	Developing an Algorithmic Accountability and Data Sovereignty Framework for the governance of Artificial Intelligence platforms in United States education	https://doi.org/10.1007/s44217-026-01875-2	4	0	0	2026
+22	keskin (2026)	Digital privacy socialization in early childhood through a qualitative intervention study in Türkiye	https://doi.org/10.1007/s44217-026-02082-9	2	0	0	2026
+23	xu (2025)	Learners' perception of data privacy when using AI language models: Reflective diary analysis of undergraduates in China	https://doi.org/10.1016/j.actpsy.2025.105491	4	0	6	2025
+24	cai (2013)	Online advertising on popular children’s websites: Structural features and privacy issues	https://doi.org/10.1016/j.chb.2013.01.013	2	1	20	2013
+25	lievens (2017)	Looking for needles in a haystack: Key issues affecting children's rights in the General Data Protection Regulation	https://doi.org/10.1016/j.clsr.2017.09.007	2	4	65	2017
+26	akanfe (2020)	Assessing country-level privacy risk for digital payment systems	https://doi.org/10.1016/j.cose.2020.102065	1	2	45	2020
+27	shafei (2024)	Measuring privacy policy compliance in the Alexa ecosystem: In-depth analysis	https://doi.org/10.1016/j.cose.2024.103963	1	2	7	2024
+28	bélanger (2012)	POCKET: A tool for protecting children's privacy online	https://doi.org/10.1016/j.dss.2012.11.010	2	2	22	2012
+29	chatsuwan (2023)	Personal data protection compliance assessment: A privacy policy scoring approach and empirical evidence from Thailand's SMEs	https://doi.org/10.1016/j.heliyon.2023.e20648	1	0	23	2023
+30	karat (2005)	Privacy in information technology: Designing to enable privacy policy management in organizations	https://doi.org/10.1016/j.ijhcs.2005.04.011	1	3	73	2005
+31	schwaig (2006)	Compliance to the fair information practices: How are the Fortune 500 handling online privacy disclosures?	https://doi.org/10.1016/j.im.2006.07.003	1	8	71	2006
+32	kim (2023)	A privacy scoring framework: Automation of privacy compliance and risk evaluation with standard indicators	https://doi.org/10.1016/j.jksuci.2022.12.019	1	1	11	2023
+33	chua (2017)	Compliance to personal data protection principles: A study of how organizations frame privacy policy notices	https://doi.org/10.1016/j.tele.2017.01.008	1	5	70	2017
+34	samavi (2018)	Publishing Privacy Logs to Facilitate Transparency and Accountability	https://doi.org/10.1016/j.websem.2018.02.001	1	0	22	2018
+35	janssen (2026)	Online platforms’ shaping of data access under the GDPR: an empirical study of the uses of data download packages	https://doi.org/10.1017/dap.2026.10078	1	0	1	2026
+36	sharma (2024)	Regulating Children’s Personal Data Protection in India: No Child’s Play	https://doi.org/10.1057/s41301-024-00402-w	2	0	2	2024
+37	gao (2022)	GDPR and the cloud: examining readability deficiencies in cloud computing providers’ privacy policies	https://doi.org/10.1080/01442872.2022.2129046	1	0	5	2022
+38	bareh (2022)	Privacy Policy Analysis for Compliance and Readability of Library Vendors in India	https://doi.org/10.1080/0361526x.2022.2143467	1	6	11	2022
+39	zimmerle (2019)	What's in a Policy? Evaluating the Privacy Policies of Children's Apps and Websites	https://doi.org/10.1080/07380569.2019.1565628	1	2	13	2019
+40	zimmerle (2021)	Safe, Sound, and Private: Promoting Data Protection for Students	https://doi.org/10.1080/07380569.2021.1882203	2	0	9	2021
+41	simmons (2007)	Protecting Children While Silencing Them: The Children's Online Privacy Protection Act and Children's Free Speech Rights	https://doi.org/10.1080/10811680701266492	2	1	5	2007
+42	mačėnaitė (2017)	Consent for processing children’s personal data in the EU: following in US footsteps?	https://doi.org/10.1080/13600834.2017.1321096	2	21	114	2017
+43	collaco (2024)	Contours of data protection in India: the consent dilemma	https://doi.org/10.1080/13600869.2024.2364991	3	0	3	2024
+44	makulilo (2020)	The long arm of GDPR in Africa: reflection on data privacy law reform and practice in Mauritius	https://doi.org/10.1080/13642987.2020.1783532	1	2	6	2020
+45	zhang (2007)	A Cross-Cultural Analysis of Privacy Notices of the Global 2000	https://doi.org/10.1080/15536548.2007.10855814	1	2	18	2007
+46	lupton (2021)	‘Honestly no, I’ve never looked at it’: teachers’ understandings and practices related to students’ personal data in digitised health and physical education	https://doi.org/10.1080/17439884.2021.1896541	2	2	30	2021
+47	arantes (2023)	Educational data brokers: using the walkthrough method to identify data brokering by edtech platforms	https://doi.org/10.1080/17439884.2022.2160986	4	0	17	2023
+48	kaur (2018)	A comprehensive keyword analysis of online privacy policies	https://doi.org/10.1080/19393555.2019.1606368	1	6	26	2018
+49	reidenberg (2016)	Ambiguity in Privacy Policies and the Impact of Regulation	https://doi.org/10.1086/688669	1	10	99	2016
+50	marotta‐wurgler (2016)	Self-Regulation and Competition in Privacy Policies	https://doi.org/10.1086/689753	1	8	45	2016
+51	greenleaf (2010)	Promises and illusions of data protection in Indian law	https://doi.org/10.1093/idpl/ipq006	3	2	13	2010
+52	jasmontaite (2014)	The EU, children under 13 years, and parental consent: a human rights analysis of a new, age-based bright-line for the protection of children on the Internet	https://doi.org/10.1093/idpl/ipu029	2	1	39	2014
+53	m (2020)	The Personal Data Protection Bill, 2018: India’s regulatory journey towards a comprehensive data protection law	https://doi.org/10.1093/ijlit/eaaa003	3	4	23	2020
+54	javed (2025)	Evaluating privacy policies of AI-powered mHealth iOS applications	https://doi.org/10.1093/jamia/ocaf130	1	0	3	2025
+55	coss (2019)	Cloud privacy objectives a value based approach	https://doi.org/10.1108/ics-05-2017-0034	1	1	13	2019
+56	swartz (2021)	Validating an information privacy governance questionnaire to measure the perception of employees	https://doi.org/10.1108/ics-08-2020-0135	1	0	10	2021
+57	hoel (2019)	Privacy engineering for learning analytics in a global market	https://doi.org/10.1108/ijilt-02-2019-0025	4	1	14	2019
+58	naithani (2024)	Analysis of India’s Digital Personal Data Protection Act, 2023	https://doi.org/10.1108/ijlma-05-2024-0174	3	1	25	2024
+59	mann (2023)	Tracking transparency: an exploratory review of Florida academic library privacy policies	https://doi.org/10.1108/ils-04-2023-0038	1	0	3	2023
+60	fox (2022)	Enhancing consumer perceptions of privacy and trust: a GDPR label perspective	https://doi.org/10.1108/itp-09-2021-0706	1	2	40	2022
+61	gistri (2026)	How privacy communication formats shape sensitive data disclosure in AI applications	https://doi.org/10.1108/md-10-2025-2959	1	0	0	2026
+62	javed (2020)	A Study of South Asian Websites on Privacy Compliance	https://doi.org/10.1109/access.2020.3019334	1	6	25	2020
+63	oh (2021)	Will EU’s GDPR Act as an Effective Enforcer to Gain Consent?	https://doi.org/10.1109/access.2021.3083897	1	0	11	2021
+64	elluri (2021)	A BERT Based Approach to Measure Web Services Policies Compliance With GDPR	https://doi.org/10.1109/access.2021.3123950	1	1	24	2021
+65	rahman (2022)	PermPress: Machine Learning-Based Pipeline to Evaluate Permissions in App Privacy Policies	https://doi.org/10.1109/access.2022.3199882	1	6	23	2022
+66	mcconkey (2023)	Runtime and Design Time Completeness Checking of Dangerous Android App Permissions Against GDPR	https://doi.org/10.1109/access.2023.3347194	1	3	14	2023
+67	linn (2005)	Technology and web user data privacy - a survey of risks and countermeasures	https://doi.org/10.1109/msp.2005.27	1	1	32	2005
+68	kagal (2010)	Preserving Privacy Based on Semantic Policy Tools	https://doi.org/10.1109/msp.2010.89	1	1	23	2010
+69	lu (2023)	PrivData Network: A Privacy-Preserving On-Chain Data Factory and Trading Market	https://doi.org/10.1109/tdsc.2023.3284565	1	1	11	2023
+70	tang (2026)	A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers	https://doi.org/10.1109/tdsc.2026.3677283	1	0	0	2026
+71	vail (2008)	An Empirical Study of Consumer Perceptions and Comprehension of Web Site Privacy Policies	https://doi.org/10.1109/tem.2008.922634	1	6	97	2008
+72	akanfe (2020)	Design of a Compliance Index for Privacy Policies: A Study of Mobile Wallet and Remittance Services	https://doi.org/10.1109/tem.2020.3015222	1	2	19	2020
+73	basu (2020)	COPPTCHA: COPPA Tracking by Checking Hardware-Level Activity	https://doi.org/10.1109/tifs.2020.2983287	2	0	10	2020
+74	markel (2006)	Safe harbor and privacy protection: a looming issue for IT professionals	https://doi.org/10.1109/tpc.2006.870462	1	1	14	2006
+75	amaral (2021)	AI-Enabled Automation for Completeness Checking of Privacy Policies	https://doi.org/10.1109/tse.2021.3124332	1	2	5	2021
+76	liu (2023)	Understanding privacy and data protection issues in learning analytics using a systematic review	https://doi.org/10.1111/bjet.13388	4	0	80	2023
+77	kim (2009)	Is Privacy at Risk when Commercial Websites Target Primary School Children? A Case Study in Korea	https://doi.org/10.1111/j.1099-0860.2009.00248.x	1	0	2	2009
+78	garrison (2012)	Designing Evidence‐based Disclosures: A Case Study of Financial Privacy Notices	https://doi.org/10.1111/j.1745-6606.2012.01226.x	1	2	29	2012
+79	tangari (2021)	Mobile health and privacy: cross sectional study	https://doi.org/10.1136/bmj.n1248	1	1	157	2021
+80	schwaig (2005)	Privacy, fair information practices and the fortune 500	https://doi.org/10.1145/1047070.1047075	1	2	39	2005
+81	bhatia (2016)	Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition	https://doi.org/10.1145/2907942	1	10	51	2016
+82	fabian (2017)	Large-scale readability analysis of privacy policies	https://doi.org/10.1145/3106426.3106427	5	21	116	2017
+83	wilson (2018)	Analyzing Privacy Policies at Scale	https://doi.org/10.1145/3230665	1	8	46	2018
+84	zaeem (2020)	The Effect of the GDPR on Privacy Policies	https://doi.org/10.1145/3389685	1	10	175	2020
+85	akanfe (2020)	Design of an Inclusive Financial Privacy Index (INF-PIE): A Financial Privacy and Digital Financial Inclusion Perspective	https://doi.org/10.1145/3403949	1	3	21	2020
+86	kretschmer (2021)	Cookie Banners and Privacy Policies: Measuring the Impact of the GDPR on the Web	https://doi.org/10.1145/3466722	1	6	95	2021
+87	kotut (2022)	The TL;DR Charter: Speculatively Demystifying Privacy Policy Documents and Terms Agreements	https://doi.org/10.1145/3492842	1	0	9	2022
+88	petelka (2022)	Generating Practices: Investigations into the Double Embedding of GDPR and Data Access Policies	https://doi.org/10.1145/3555631	1	0	10	2022
+89	wagner (2023)	Privacy Policies across the Ages: Content of Privacy Policies 1996–2021	https://doi.org/10.1145/3590152	1	11	51	2023
+90	zhou (2024)	Understanding Chinese Internet Users' Perceptions of, and Online Platforms' Compliance with, the Personal Information Protection Law (PIPL)	https://doi.org/10.1145/3637415	1	0	9	2024
+91	jha (2025)	Privacy Policies and Consent Management Platforms: Growth and Users' Interactions over Time	https://doi.org/10.1145/3725737	1	0	6	2025
+92	liu (2022)	Evaluating the Privacy Policy of Android Apps: A Privacy Policy Compliance Study for Popular Apps in China and Europe	https://doi.org/10.1155/2022/2508690	1	3	14	2022
+93	singh (2024)	The Digital Personal Data Protection Act, 2023: An Ambitious Government Step Towards Ensuring Its Wide Reach	https://doi.org/10.1177/00195561241271533	3	1	5	2024
+94	malhotra (2024)	Putting Interests of Digital Nagriks First: Digital Personal Data Protection (DPDP) Act 2023 of India	https://doi.org/10.1177/00195561241271575	3	0	24	2024
+95	c. (2024)	Strengthening India’s Cybersecurity and Data Privacy Landscape: A Comprehensive Overview	https://doi.org/10.1177/00195561241271616	3	0	5	2024
+96	karmwar (2025)	The Dilemma Between Digital Identity and Privacy in Modern Governance: Comparing South Africa and India	https://doi.org/10.1177/00219096251352368	3	0	1	2025
+97	krueger (2015)	New technology “clouds” student data privacy	https://doi.org/10.1177/0031721715569464	2	4	13	2015
+98	schlosser (2022)	Choosing the Right Educational Technology Tool for Your Teaching: A Data-Privacy Review and Pedagogical Perspective into Teaching with Technology	https://doi.org/10.1177/00472395221137298	4	0	10	2022
+99	reidenberg (2018)	Achieving big data privacy in education	https://doi.org/10.1177/1477878518805308	4	6	126	2018
+100	mougiakou (2025)	Artificial intelligence in educational games and consent under general data protection regulation	https://doi.org/10.1177/18724981251322884	4	0	4	2025
+101	davis (2024)	Filling the Void: How E.U. Privacy Law Spills Over to the U.S.	https://doi.org/10.1177/2755323x241237619	1	0	6	2024
+102	huckvale (2015)	Unaddressed privacy risks in accredited health and wellness apps: a cross-sectional systematic assessment	https://doi.org/10.1186/s12916-015-0444-y	1	4	375	2015
+103	kotal (2021)	The Effect of Text Ambiguity on creating Policy Knowledge Graphs	https://doi.org/10.13016/m2qt7r-unmb	1	0	0	2021
+104	vijayakumar (2025)	The illusion of informed consent: legal and ethical impact of data mining by social media platforms in India	https://doi.org/10.1365/s43439-025-00142-8	3	0	0	2025
+105	sonkar (2025)	The Digital Personal Data Protection Act, 2023: Analysing Its Implications, Challenges, and Future Prospects	https://doi.org/10.1365/s43439-025-00164-2	3	0	2	2025
+106	bareh (2024)	Reviewing the Privacy Implications of Indias Digital Personal Data Protection Act (2023) from Library Contexts	https://doi.org/10.14429/djlit.44.1.18410	1	2	6	2024
+107	alkhamsi (2024)	Compliance Framework for Personal Data Protection Law Standards	https://doi.org/10.14569/ijacsa.2024.0150751	1	0	5	2024
+108	krämer (2024)	The death of privacy policies: How app stores shape GDPR compliance of apps	https://doi.org/10.14763/2024.2.1757	1	1	6	2024
+109	martinović (2007)	Privacy issues in educational systems	https://doi.org/10.1504/ijitst.2007.014838	4	0	4	2007
+110	agarwal (2012)	Privacy and data protection laws in India	https://doi.org/10.1504/ijlse.2012.051949	3	1	4	2012
+111	sheng (2014)	Effects of perceived privacy protection: does reading privacy notices matter?	https://doi.org/10.1504/ijss.2014.061059	1	1	5	2014
+112	sheehan (2005)	In Poor Health: An Assessment of Privacy Policies at Direct-to-Consumer Web Sites	https://doi.org/10.1509/jppm.2005.24.2.273	1	4	56	2005
+113	reyes (2018)	“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale	https://doi.org/10.1515/popets-2018-0021	2	23	186	2018
+114	dylan (2016)	Edtech and Student Privacy: California Law as a Model	https://doi.org/10.15779/z381g4b	2	1	15	2016
+115	tandon (2025)	Informational Privacy in the Age of Artificial Intelligence: A Critical Analysis of India’s DPDP Act, 2023	https://doi.org/10.17323/2713-2749.2025.2.87.117	3	1	7	2025
+116	vijayalakshmi (2025)	Stakeholder Theory and the Reconfiguration of Power, Responsibility, and Compliance under India’s DPDP Act 2023	https://doi.org/10.18311/dbijb/2025/53046	3	0	0	2025
+117	valentine (2022)	An Examination of Academic Library Privacy Policy Compliance with Professional Guidelines	https://doi.org/10.18438/eblip30122	1	3	5	2022
+118	yacobson (2021)	De-identification is Insufficient to Protect Student Privacy, or – What Can a Field Trip Reveal?	https://doi.org/10.18608/jla.2021.7353	2	1	20	2021
+119	wilson (2016)	The Creation and Analysis of a Website Privacy Policy Corpus	https://doi.org/10.18653/v1/p16-1126	5	54	282	2016
+120	nafiah (2020)	Comparative Study of Children’s Personal Data Protection Regulation on COPPA (Children’s Online Privacy Protection Act) and Children and GDPR	https://doi.org/10.20885/khazanah.vol12.iss2.art64	2	1	1	2020
+121	deyoung (2010)	Privacy Policy Specification and Audit in a Fixed-Point Logic - How to Enforce HIPAA, GLBA and All That	https://doi.org/10.21236/ada571959	1	0	6	2010
+122	reidenberg (2009)	Children's Educational Records and Privacy: A Study of Elementary and Secondary School State Reporting Systems	https://doi.org/10.2139/ssrn.1495743	2	1	3	2009
+123	thierer (2011)	Kids, Privacy, Free Speech & the Internet: Finding the Right Balance	https://doi.org/10.2139/ssrn.1909261	2	0	4	2011
+124	thierer (2011)	[Filing] Comments of Adam Thierer - Mercatus Center - FTC Coppa 2011 Ammendments	https://doi.org/10.2139/ssrn.1976275	2	1	7	2011
+125	topelson (2013)	Privacy and Children's Data - An Overview of the Children's Online Privacy Protection Act and the Family Educational Rights and Privacy Act	https://doi.org/10.2139/ssrn.2354339	2	2	16	2013
+126	reidenberg (2014)	Privacy Harms and the Effectiveness of the Notice and Choice Framework	https://doi.org/10.2139/ssrn.2418247	1	7	47	2014
+127	waldman (2016)	Privacy, Notice, and Design	https://doi.org/10.2139/ssrn.2780305	1	2	31	2016
+128	greenleaf (2018)	Data Protection: A Necessary Part of Indiaas Fundamental Inalienable Right of Privacy Submission on the White Paper of the Committee of Experts on a Data Protection Framework for India	https://doi.org/10.2139/ssrn.3102810	3	1	3	2018
+129	contissa (2018)	Claudette Meets GDPR: Automating the Evaluation of Privacy Policies Using Artificial Intelligence	https://doi.org/10.2139/ssrn.3208596	1	4	57	2018
+130	determann (2018)	India’s Personal Data Protection Act, 2018: Comparison with the General Data Protection Regulation and the California Consumer Privacy Act of 2018	https://doi.org/10.2139/ssrn.3244203	3	1	5	2018
+131	shvartzshnaider (2018)	Analyzing Privacy Policies Using Contextual Integrity Annotations	https://doi.org/10.2139/ssrn.3244876	1	1	14	2018
+132	bailey (2018)	Disclosures in Privacy Policies: Does 'Notice and Consent' Work?	https://doi.org/10.2139/ssrn.3328289	1	1	5	2018
+133	regan (2019)	Big Data, Privacy and Education Applications	https://doi.org/10.2139/ssrn.3501191	4	1	7	2019
+134	greenleaf (2020)	India’s Personal Data Protection Bill, 2019 Needs Closer Adherence to Global Standards (Submission to Joint Committee, Parliament of India)	https://doi.org/10.2139/ssrn.3539432	3	1	1	2020
+135	lemmer (2020)	Alexa, Are You Friends With My Kid? Smart Speakers and Children’s Privacy Under the GDPR	https://doi.org/10.2139/ssrn.3627478	2	0	1	2020
+136	schnell (2022)	Hunting for the Privacy Policy – Hospital Website Design	https://doi.org/10.2139/ssrn.4068445	5	0	2	2022
+137	ganglmair (2023)	Regulatory Compliance with Limited Enforceability: Evidence from Privacy Policies	https://doi.org/10.2139/ssrn.4600876	1	0	3	2023
+138	srivastava (2019)	India ∙ Data Protection Law in India: The Search for Goldilocks Effect	https://doi.org/10.21552/edpl/2019/3/16	3	1	2	2019
+139	flors-sidro (2020)	Analysis of Diabetes Apps to Assess Privacy-Related Permissions: Systematic Search of Apps	https://doi.org/10.2196/16146	1	0	13	2020
+140	ni (2020)	Privacy Policy Compliance of Chronic Disease Management Apps in China: Scale Development and Content Evaluation	https://doi.org/10.2196/23409	1	4	18	2020
+141	jiang (2023)	Personal Information Protection and Privacy Policy Compliance of Health Code Apps in China: Scale Development and Content Analysis	https://doi.org/10.2196/48714	1	1	15	2023
+142	lin (2025)	Quality and Privacy Policy Compliance of Mental Health Care Apps in China: Cross-Sectional Evaluation Study	https://doi.org/10.2196/66762	1	0	5	2025
+143	zimmeck (2019)	MAPS: Scaling Privacy Compliance Analysis to a Million Apps	https://doi.org/10.2478/popets-2019-0037	1	33	176	2019
+144	linden (2020)	The Privacy Policy Landscape After the GDPR	https://doi.org/10.2478/popets-2020-0004	1	2	24	2020
+145	feal (2020)	Angel or Devil? A Privacy Study of Mobile Parental Control Apps	https://doi.org/10.2478/popets-2020-0029	1	6	58	2020
+146	mazmudar (2020)	Mitigator: Privacy policy compliance using trusted hardware	https://doi.org/10.2478/popets-2020-0049	1	1	7	2020
+147	bui (2021)	Automated Extraction and Presentation of Data Practices in Privacy Policies	https://doi.org/10.2478/popets-2021-0019	1	8	50	2021
+148	hosseini (2021)	Unifying Privacy Policy Detection	https://doi.org/10.2478/popets-2021-0081	1	3	15	2021
+149	ta (2021)	DataProVe: Fully Automated Conformance Verification Between Data Protection Policies and System Architectures	https://doi.org/10.2478/popets-2022-0028	1	1	3	2021
+150	hasan (2022)	Understanding Utility and Privacy of Demographic Data in Education Technology by Causal Analysis and Adversarial-Censoring	https://doi.org/10.2478/popets-2022-0044	4	1	13	2022
+151	bernike (2023)	Presence of Age Restrictions for Children to Have Social Media Accounts in Law Number 27 of 2022 Concerning Personal Data Protection	https://doi.org/10.24815/jr.v6i1.29208	2	1	1	2023
+152	ali (2024)	Unveiling the tapestry: a comparative investigation into data-protection legislation in India and Pakistan	https://doi.org/10.25143/socr.28.2024.1.01-08	3	0	3	2024
+153	lin (2024)	Automated Analysis of Changes in Privacy Policies: a Structured Self-Attentive Sentence Embedding Approach	https://doi.org/10.25300/misq/2024/17115	1	1	40	2024
+154	torres-hernández (2022)	Pre-service teachers’ perceptions of data protection in primary education	https://doi.org/10.30935/cedtech/12658	4	0	16	2022
+155	atabey (2024)	Ethics in EdTech: Consolidating Standards For Responsible Data Handling And Usercentric Design	https://doi.org/10.31265/usps.283	4	0	3	2024
+156	poplavska (2020)	From Prescription to Description: Mapping the GDPR to a Privacy Policy Corpus Annotation Scheme	https://doi.org/10.3233/faia200874	1	5	20	2020
+157	oltramari (2017)	PrivOnto: A semantic framework for the analysis of privacy policies	https://doi.org/10.3233/sw-170283	1	15	95	2017
+158	kashyap (2023)	Cyber security laws and safety in e-commerce in India	https://doi.org/10.32631/pb.2023.2.19	3	1	9	2023
+159	ayub (2020)	RIGHT OF ONLINE INFORMATIONAL PRIVACY OF CHILDREN IN MALAYSIA: A STATUTORY PERSPECTIVE	https://doi.org/10.32890/uumjls.9.2018.9116	2	0	10	2020
+160	ahmed (2026)	Stakeholder perceptions of India’s Digital Personal Data Protection Act of 2023: an empirical study across legal, banking, and corporate sectors	https://doi.org/10.3389/fsoc.2026.1753383	3	0	0	2026
+161	sánchez (2021)	Automatic Assessment of Privacy Policies under the GDPR	https://doi.org/10.3390/app11041762	1	3	26	2021
+162	javed (2021)	Privacy Policy Analysis of Banks and Mobile Money Services in the Middle East	https://doi.org/10.3390/fi13010010	1	1	10	2021
+163	fragkiadakis (2025)	Quantifying Website Privacy Posture Through Technical and Policy-Based Assessment	https://doi.org/10.3390/fi17100463	1	0	0	2025
+164	belcheva (2023)	Understanding Website Privacy Policies—A Longitudinal Analysis Using Natural Language Processing	https://doi.org/10.3390/info14110622	1	1	12	2023
+165	chen (2025)	Trust, Privacy Fatigue, and the Informed Consent Dilemma in Mobile App Privacy Pop-Ups: A Grounded Theory Approach	https://doi.org/10.3390/jtaer20030179	1	0	14	2025
+166	alamri (2022)	Do the Right Thing: A Privacy Policy Adherence Analysis of over Two Million Apps in Apple iOS App Store	https://doi.org/10.3390/s22228964	1	4	10	2022
+167	- (2024)	Data Privacy Vis- A- Vis the Digital Personal Data Protection Act, 2023	https://doi.org/10.36948/ijfmr.2024.v06i03.23530	3	1	2	2024
+168	dragomir (2026)	AI, Cybersecurity and Students’ Rights in EU Digital Education Governance	https://doi.org/10.37497/rev.artif.intell.educ.v7ii.97	2	0	0	2026
+169	boldt (2019)	Analysis and Text Classification of Privacy Policies From Rogue and Top-100 Fortune Global Companies	https://doi.org/10.4018/ijisp.2019040104	1	3	5	2019
+170	baalous (2021)	Utilizing Sentence Embedding for Dangerous Permissions Detection in Android Apps' Privacy Policies	https://doi.org/10.4018/ijisp.2021010109	1	2	3	2021
+171	murmann (2019)	Eliciting Design Guidelines for Privacy Notifications in mHealth Environments	https://doi.org/10.4018/ijmhci.2019100106	1	0	6	2019
+172	peslak (2006)	Internet Privacy Policies of the Largest International Companies	https://doi.org/10.4018/jeco.2006070103	1	4	36	2006
+173	chail (2026)	India’s Digital Personal Data Protection (DPDP) Act 2023 and draft Digital Personal Data Protection rules 2025: Operational considerations for psychiatric practice in India	https://doi.org/10.4103/ipj.ipj_423_25	3	0	1	2026
+174	younas (2021)	Does The GDPR Achieve Its Goal of “Protection of Youth”?	https://doi.org/10.47191/ijmra/v4-i8-16	1	0	0	2021
+175	santana (2023)	DATA PROTECTION AND PRIVACY AS A FUNDAMENTAL RIGHT: A COMPARATIVE STUDY OF BRAZIL AND INDIA	https://doi.org/10.47305/jlia2393555cs	3	1	4	2023
+176	anon. (2021)	CURRENT PRIVACY POLICY ATTITUDES AND FAIR INFORMATION PRACTICE PRINCIPLES: A MACRO AND MICRO ANALYSIS	https://doi.org/10.48009/3_iis_2021_159-174	1	1	3	2021
+177	harkous (2018)	Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning	https://doi.org/10.48550/arxiv.1802.02561	1	30	220	2018
+178	liu (2018)	Modeling Language Vagueness in Privacy Policies using Deep Neural Networks	https://doi.org/10.48550/arxiv.1805.10393	1	2	56	2018
+179	qamar (2021)	Detecting Compliance of Privacy Policies with Data Protection Laws	https://doi.org/10.48550/arxiv.2102.12362	1	2	10	2021
+180	trimananda (2021)	OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR	https://doi.org/10.48550/arxiv.2106.05407	1	3	32	2021
+181	rahat (2021)	Automated Detection of GDPR Disclosure Requirements in Privacy Policies using Deep Active Learning	https://doi.org/10.48550/arxiv.2111.04224	1	0	4	2021
+182	wagner (2022)	Privacy Policies Across the Ages: Content and Readability of Privacy Policies 1996--2021	https://doi.org/10.48550/arxiv.2201.08739	1	2	6	2022
+183	cui (2022)	PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs (Journal Version)	https://doi.org/10.48550/arxiv.2210.06746	1	1	10	2022
+184	wang (2024)	Do as You Say: Consistency Detection of Data Practice in Program Code and Privacy Policy in Mini-App	https://doi.org/10.1109/tse.2024.3479288	1	0	14	2024
+185	samarin (2023)	Lessons in VCR Repair: Compliance of Android App Developers with the California Consumer Privacy Act (CCPA)	https://doi.org/10.56553/popets-2023-0072	1	0	15	2023
+186	al-khalifa (2023)	The Saudi Privacy Policy Dataset	https://doi.org/10.48550/arxiv.2304.02757	1	2	3	2023
+187	pan (2023)	Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps	https://doi.org/10.48550/arxiv.2305.03271	1	1	3	2023
+188	choksi (2024)	Student Privacy Activism	https://doi.org/10.5325/jinfopoli.14.2024.0017	2	0	1	2024
+189	kumar (2025)	Impact of Digitalization on Consumer Rights in India: Legal Frameworks & Issues	https://doi.org/10.54873/jolets.v5i1.222	3	0	0	2025
+190	saurabh (2024)	THE DIGITAL PERSONAL DATA PROTECTION ACT OF 2023: STRENGTHENING PRIVACY IN THE DIGITAL AGE	https://doi.org/10.54934/ijlcw.v3i2.84	3	2	4	2024
+191	banerjee (2024)	“Digital Personal Data Protection Act”—A Strudel Served Raw!	https://doi.org/10.55574/mowt9922	3	1	2	2024
+192	alomar (2022)	Developers Say the Darnedest Things: Privacy Compliance Processes Followed by Developers of Child-Directed Apps	https://doi.org/10.56553/popets-2022-0108	2	1	36	2022
+193	kunz (2023)	Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis	https://doi.org/10.56553/popets-2023-0046	1	1	17	2023
+194	adhikari (2023)	Evolution of Composition, Readability, and Structure of Privacy Policies over Two Decades	https://doi.org/10.56553/popets-2023-0074	1	2	18	2023
+195	hasan (2023)	Understanding EdTech's Privacy and Security Issues: Understanding the Perception and Awareness of Education Technologies' Privacy and Security Issues	https://doi.org/10.56553/popets-2023-0110	4	0	18	2023
+196	mhaidli (2023)	Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities	https://doi.org/10.56553/popets-2023-0111	1	0	20	2023
+197	yan (2023)	On the Quality of Privacy Policy Documents of Virtual Personal Assistant Applications	https://doi.org/10.56553/popets-2024-0028	1	0	5	2023
+198	hosseini (2024)	A Bilingual Longitudinal Analysis of Privacy Policies Measuring the Impacts of the GDPR and the CCPA/CPRA	https://doi.org/10.56553/popets-2024-0058	1	0	9	2024
+199	chanenson (2025)	Automating Governing Knowledge Commons and Contextual Integrity (GKC-CI) Privacy Policy Annotations with Large Language Models	https://doi.org/10.56553/popets-2025-0062	1	1	2	2025
+200	reis (2023)	Data practices in apps from Brazil: What do privacy policies inform us about?	https://doi.org/10.5753/jis.2023.2954	1	0	7	2023
+201	tello (2023)	Quantitative Evaluation of Android Application Privacy Security Based on Privacy Policy and Behaviour	https://doi.org/10.58346/jowua.2023.i3.019	1	0	3	2023
+202	li (2014)	Online Privacy Policy of the Thirty Dow Jones Corporations: Compliance with FTC Fair Information Practice Principles and Readability Assessment	https://doi.org/10.58729/1941-6687.1194	1	4	22	2014
+203	saha (2024)	A New Age of Data Privacy Laws in India: Review of Digital Personal Data Protection Act, 2023	https://doi.org/10.60143/ijls.v10.i1.2024.114	3	1	4	2024
+204	sharmila (2026)	Data Protection And The Right To Information: Section 44(3) In India	https://doi.org/10.63090/ijjr/3139.177x.0022	3	0	0	2026
+205	john (2025)	The Legal Architecture Of Digital Public Infrastructures: Consent, Accountability, And Data Sovereignty In India's Aadhaar And UPI Systems	https://doi.org/10.63090/ijjsrs/3049.0618.0028	3	1	1	2025
+206	aparna (2026)	Digital Governance and Constitutional Rights in India: Reconciling Administrative Efficiency with Privacy, Equality and Due Process	https://doi.org/10.64823/ijlpg.2601009	3	0	0	2026
+207	novović (2023)	Privacy nutrition labels, App Store and the GDPR: Unintended consequences?	https://doi.org/10.69554/frkj2284	1	1	2	2023
+208	gupta (2023)	What is left of consent when it is deemed consent: A data protection experiment in India	https://doi.org/10.69554/yvka2636	3	1	2	2023
+209	böyük (2024)	USER DATA AND DIGITAL PRIVACY: PRIVACY POLICIES OF SOCIAL MEDIA PLATFORMS	https://doi.org/10.7456/tojdac.1569287	1	1	8	2024
+210	zulfiqar (2026)	A Review of Privacy, Ethics, and Governance Challenges Associated With Camera-Based AI Surveillance in Primary Schools	https://doi.org/10.7759/s44389-026-00146-3	4	0	0	2026
+211	bondre (2021)	Protecting Mental Health Data Privacy in India: The Case of Data Linkage With Aadhaar	https://doi.org/10.9745/ghsp-d-20-00346	3	0	29	2021
+212	groom (2011)	Reversing the Privacy Paradox: An Experimental Study	https://openalex.org/W1556746475	1	1	13	2011
+213	polonetsky (2014)	Who Is Reading Whom Now: Privacy in Education from Books to MOOCs	https://openalex.org/W1653119218	4	3	21	2014
+214	calo (2011)	Against Notice Skepticism In Privacy (And Elsewhere)	https://openalex.org/W1874887324	1	4	74	2011
+215	lee (2008)	Privacy apis: formal models for analyzing legal privacy requirements	https://openalex.org/W205521783	1	1	3	2008
+216	barth (2008)	Design and analysis of privacy policies	https://openalex.org/W2150244101	1	1	9	2008
+217	bian (2007)	NEW APPROACHES FOR ENSURING USER ONLINE PRIVACY	https://openalex.org/W2187144468	1	0	0	2007
+218	zimmeck (2014)	Privee: An Architecture for Automatically Analyzing Web Privacy Policies	https://openalex.org/W2207751595	1	13	81	2014
+219	madaio (2017)	Exploring student control over data privacy through speculative design	https://openalex.org/W2624908819	2	0	0	2017
+220	liu (2018)	Towards Automatic Classification of Privacy Policy Text	https://doi.org/10.1184/r1/6626285	1	5	31	2018
+221	castro (2012)	Comments to the FTC on the Children's Online Privacy Protection Act (COPPA Rule)	https://openalex.org/W2917944873	2	1	6	2012
+222	kununka (2019)	User centric privacy policy modelling	https://openalex.org/W2971047459	1	1	2	2019
+223	finnegan (2020)	How Facebook Beat the Children's Online Privacy Protection Act: A Look into the Continued Ineffectiveness of COPPA and How to Hold Social Media Sites Accountable in the Future	https://openalex.org/W3000181686	2	1	5	2020
+224	keymanesh (2020)	Toward Domain-Guided Controllable Summarization of Privacy Policies.	https://openalex.org/W3082603752	1	3	14	2020
+225	sheng (2018)	An Evaluation of the Effect of US Financial Privacy Legislation Through the Analysis of Privacy Policies	https://doi.org/10.1184/r1/6621047	1	4	16	2018
+226	liu (2018)	A Step Towards Usable Privacy Policy: Automatic Alignment of Privacy Statements	https://doi.org/10.1184/r1/6472991	1	7	38	2018
+227	cormack (2016)	A Data Protection Framework for Learning Analytics	https://doi.org/10.18608/jla.2016.31.6	4	1	64	2016
+228	wirtz (2007)	Causes and consequences of consumer online privacy concern	https://doi.org/10.1108/09564230710778128	1	3	195	2007
+229	steeves (2007)	Closing the Barn Door: The Effect of Parental Supervision on Canadian Children's Online Privacy	https://doi.org/10.1177/0270467607311488	1	1	35	2007
+230	piasecki (2022)	Complying with the GDPR when vulnerable people use smart devices	https://doi.org/10.1093/idpl/ipac001	1	0	37	2022
+231	prinsloo (2022)	Data privacy on the African continent: Opportunities, challenges and implications for learning analytics	https://doi.org/10.1111/bjet.13226	4	3	50	2022
+232	prinsloo (2024)	Dimensions of privacy and its implications for learning analytics. Preliminary insights from/for African higher education	https://doi.org/10.1080/17439884.2024.2321437	4	0	7	2024
+233	marshall (2022)	Implementing next generation privacy and ethics research in education technology	https://doi.org/10.1111/bjet.13224	4	2	50	2022
+234	marín (2020)	Pre‐service teachers’ perceptions of social media data privacy policies	https://doi.org/10.1111/bjet.13035	1	2	58	2020
+235	sanfilippo (2023)	Privacy governance not included: analysis of third parties in learning management systems	https://doi.org/10.1108/ils-04-2023-0033	4	1	11	2023
+236	trainor (2015)	Student data privacy is cloudy today, clearer tomorrow	https://doi.org/10.1177/0031721715569463	2	1	14	2015
+237	singh (2016)	Student data protection in a South African ODL university context: risks, challenges and lessons from comparative jurisdictions	https://doi.org/10.1080/01587919.2016.1184397	2	1	16	2016
+238	prinsloo (2022)	The answer is (not only) technological: Considering student data privacy in learning analytics	https://doi.org/10.1111/bjet.13216	2	3	76	2022
+239	hoke (2015)	Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies	https://openalex.org/W298756085	1	8	51	2015
+240	breaux (2013)	Eddy, a formal language for specifying and analyzing data flow specifications for conflicting privacy requirements	https://doi.org/10.1007/s00766-013-0190-7	1	7	76	2013
+241	schaub (2018)	A Design Space for Effective Privacy Notices*	https://doi.org/10.1017/9781316831960.021	1	8	270	2018
+242	reidenberg (2016)	Automated Comparisons of Ambiguity in Privacy Policies and the Impact of Regulation	https://doi.org/10.2139/ssrn.2715164	1	3	10	2016
+243	neisse (2016)	A privacy enforcing framework for Android applications	https://doi.org/10.1016/j.cose.2016.07.005	1	1	22	2016
+244	cranor (2016)	A Large-Scale Evaluation of U.S. Financial Institutions’ Standardized Privacy Notices	https://doi.org/10.1145/2911988	1	9	32	2016
+245	solove (2013)	The FTC and the New Common Law of Privacy	https://doi.org/10.2139/ssrn.2312913	1	2	179	2013
+246	bansal (2008)	The Moderating Influence of Privacy Concern on the Efficacy of Privacy Assurance Mechanisms for Building Trust: A Multiple-Context Investigation	https://openalex.org/W137483831	1	2	96	2008
+247	sunyaev (2014)	Availability and quality of mobile health app privacy policies	https://doi.org/10.1136/amiajnl-2013-002605	1	15	359	2014
+248	bansal (2008)	Efficacy of Privacy Assurance Mechanisms in the Context of Disclosing Health Information Online	https://openalex.org/W1571857009	1	1	12	2008
+249	pollach (2007)	What's wrong with online privacy policies?	https://doi.org/10.1145/1284621.1284627	1	15	183	2007
+250	singh (2010)	A user-centric evaluation of the readability of privacy policies in popular web sites	https://doi.org/10.1007/s10796-010-9228-2	1	5	31	2010
+251	jensen (2005)	Privacy practices of Internet users: Self-reports versus observed behavior	https://doi.org/10.1016/j.ijhcs.2005.04.019	1	9	413	2005
+252	peterson (2007)	Consumer trust: privacy policies and third‐party seals	https://doi.org/10.1108/14626000710832758	1	2	63	2007
+253	oglaza (2014)	KAPUER: A Decision Support System for Privacy Policies Specification	https://doi.org/10.1007/s40745-014-0027-3	1	1	5	2014
+254	antón (2007)	A roadmap for comprehensive online privacy policy management	https://doi.org/10.1145/1272516.1272522	1	2	85	2007
+255	proctor (2008)	Examining Usability of Web Privacy Policies	https://doi.org/10.1080/10447310801937999	1	7	68	2008
+256	tsai (2010)	The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study	https://doi.org/10.1287/isre.1090.0260	1	16	855	2010
+257	hui (2007)	The Value of Privacy Assurance: An Exploratory Field Experiment1	https://doi.org/10.2307/25148779	1	7	612	2007
+258	jafar (2011)	Exploratory Analysis Of The Readability Of Information Privacy Statement Of The Primary Social Networks	https://doi.org/10.19030/jber.v7i12.2371	1	3	16	2011
+259	cadogan (2011)	An Imbalance Of Power: The Readability Of Internet Privacy Policies	https://doi.org/10.19030/jber.v2i3.2864	1	6	21	2011
+260	schaub (2017)	Designing Effective Privacy Notices and Controls	https://doi.org/10.1109/mic.2017.75	1	10	140	2017
+261	huikai-lung (2007)	The value of privacy assurance	https://doi.org/10.5555/2017327.2017330	1	3	14	2007
+262	estrada (2006)	Are Privacy Issues Important in Mexican Online Markets? An Empirical Investigation into Published Online Privacy Statements of Mexican Web Sites	https://openalex.org/W1547380127	1	2	2	2006
+263	beldad (2009)	When the bureaucrat promises to safeguard your online privacy: Dissecting the contents of privacy statements on Dutch municipal websites	https://doi.org/10.1016/j.giq.2009.05.002	1	3	23	2009
+264	rains (2009)	Privacy and Health in the Information Age: A Content Analysis of Health Web Site Privacy Policy Statements	https://doi.org/10.1080/10410230903023485	1	3	18	2009
+265	desai (2012)	E‐commerce policies and customer privacy: a longitudinal study (2000‐2010)	https://doi.org/10.1108/09685221211247325	1	1	15	2012
+266	shalhoub (2006)	Content Analysis of Web Privacy Policies in the GCC Countries	https://doi.org/10.1201/1086.1065898x/46183.15.3.20060701/94186.6	1	3	5	2006
+267	alhomod (2012)	Privacy Policy in E Government Websites: A Case Study of Saudi Arabia	https://doi.org/10.5539/cis.v5n2p88	1	3	11	2012
+268	dias (2013)	Privacy Policies in Web Sites of Portuguese Municipalities: An Empirical Study	https://doi.org/10.1007/978-3-642-36981-0_9	1	1	10	2013
+269	kuzma (2016)	An Examination of Privacy Policies of Global On-line E-pharmacies	https://openalex.org/W2527625434	1	1	2	2016
+270	zaeem (2017)	A study of web privacy policies across industries	https://doi.org/10.1080/15536548.2017.1394064	1	6	23	2017
+271	mcdonald (2008)	The Cost of Reading Privacy Policies	https://openalex.org/W7018197807	1	13	305	2008
+272	reidenberg (2014)	Disagreeable Privacy Policies: Mismatches between Meaning and Users’ Understanding	https://doi.org/10.2139/ssrn.2418297	1	14	120	2014
+273	milne (2006)	A Longitudinal Assessment of Online Privacy Notice Readability	https://doi.org/10.1509/jppm.25.2.238	1	16	169	2006
+274	tene (2008)	What Google Knows: Privacy and Internet Search Engines	https://doi.org/10.5072/ulr.v2008i4.136	4	1	28	2008
+275	zaeem (2018)	PrivacyCheck	https://doi.org/10.1145/3127519	1	15	109	2018
+276	shipp (2020)	How private is your period?: A systematic analysis of menstrual app privacy policies	https://doi.org/10.2478/popets-2020-0083	1	4	95	2020
+277	barth (2022)	Understanding Online Privacy—A Systematic Review of Privacy Visualizations and Privacy by Design Guidelines	https://doi.org/10.1145/3502288	1	4	76	2022
+278	álamo (2022)	A systematic mapping study on automated analysis of privacy policies	https://doi.org/10.1007/s00607-022-01076-3	1	6	41	2022
+279	ammar (2018)	Automatic Categorization of Privacy Policies: A Pilot Study	https://doi.org/10.1184/r1/6473072	1	5	36	2018
+280	cranor (2006)	User interfaces for privacy agents	https://doi.org/10.1145/1165734.1165735	1	10	254	2006
+281	cranor (2008)	Expandable grids: a user interface visualization technique and a policy semantics to support fast, accurate security and privacy policy authoring	https://openalex.org/W2117733963	1	1	21	2008
+282	cranor (2012)	Necessary But Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice.	https://openalex.org/W2405832514	1	15	212	2012
+283	hübner (2010)	UI Prototypes : Policy Administration and Presentation - Version 2	https://openalex.org/W2917123092	1	1	12	2010
+284	magi (2010)	A Content Analysis of Library Vendor Privacy Policies: Do They Meet Our Standards?	https://doi.org/10.5860/0710254	1	5	36	2010
+285	aı̈meur (2016)	When changing the look of privacy policies affects user trust: An experimental study	https://doi.org/10.1016/j.chb.2015.11.014	1	7	89	2016
+286	lambert (2015)	Library patron privacy in jeopardy an analysis of the privacy policies of digital content vendors	https://doi.org/10.1002/pra2.2015.145052010044	1	4	28	2015
+287	chang (2018)	The role of privacy policy on consumers’ perceived privacy	https://doi.org/10.1016/j.giq.2018.04.002	1	5	140	2018
+288	obrien (2018)	Protecting privacy on the web	https://doi.org/10.1108/oir-02-2018-0056	1	2	27	2018
+289	de (2020)	Privacy policies of e‐governance initiatives: Evidence from India	https://doi.org/10.1002/pa.2160	1	1	11	2020
+290	avuglah (2020)	Privacy Issues in Libraries with Online Services: Attitudes and Concerns of Academic Librarians and University Students in Ghana	https://doi.org/10.5860/crl.81.6.997	2	1	14	2020
+291	mckinnon (2022)	Are library vendors doing enough to protect users? A content analysis of major ILS privacy policies	https://doi.org/10.1016/j.acalib.2022.102505	1	1	12	2022
+292	gupta (2024)	Digital Personal Data Protection Act, 2023	https://doi.org/10.4324/9781003505723-3	3	6	48	2024
+293	li (2022)	What Do We Know About Website Privacy Policies? An Exploratory Study Based on Text Mining	https://doi.org/10.2139/ssrn.4239233	1	0	0	2022
+294	cevallos-salas (2025)	GPT vs human legal texts annotations: A comparative study with privacy policies	https://doi.org/10.1007/s10506-025-09488-0	1	0	2	2025
+295	alkoby (2026)	Structuring privacy policy: an AI approach	https://doi.org/10.3389/frai.2025.1720547	1	0	1	2026
+296	taneski (2026)	Readability and vagueness of privacy policies in mHealth applications: a multi-country analysis	https://doi.org/10.1007/s10207-025-01203-z	1	0	0	2026
+297	wang (2025)	Taking disagreements into consideration: human annotation variability in privacy policy analysis	https://doi.org/10.47989/ir30iconf47581	1	1	2	2025
+298	hosseini (2021)	Analyzing privacy policies through syntax-driven semantic analysis of information types	https://doi.org/10.1016/j.infsof.2021.106608	1	2	24	2021
+299	audich (2021)	Improving Readability of Online Privacy Policies through DOOP: A Domain Ontology for Online Privacy	https://doi.org/10.3390/digital1040015	1	1	15	2021
+300	kuznetsov (2024)	Modelling user notification scenarios in privacy policies	https://doi.org/10.1186/s42400-024-00234-8	1	0	4	2024
+301	kanamori (2023)	Construction of a Support Tool for Japanese User Reading of Privacy Policies and Assessment of its User Impact	https://doi.org/10.1587/transinf.2022dap0002	1	0	2	2023
+302	mohan (2023)	Impact of Users’ Comprehension of the Privacy Policy of FemTech Apps on their Information Disclosure Intentions: The Mediating Effects of Privacy Fatigue and Privacy Data Control	https://doi.org/10.4038/cbj.v14i2.160	1	0	3	2023
+303	stangl (2022)	Privacy Concerns for Visual Assistance Technologies	https://doi.org/10.1145/3517384	1	0	35	2022
+304	novikova (2025)	What are your privacy risks? Privacy risk assessment based on privacy policies analysis	https://doi.org/10.1016/j.eswa.2025.127270	1	0	5	2025
+305	hadan (2025)	Immersive Invaders: Privacy Threats from Deceptive Design in Virtual Reality Games and Applications	https://doi.org/10.1145/3757612	1	0	2	2025
+306	contu (2021)	AI-Based Analysis of Policies and Images for Privacy-Conscious Content Sharing	https://doi.org/10.3390/fi13060139	1	0	3	2021
+307	kats (2022)	Who Knows I Like Jelly Beans? An Investigation Into Search Privacy	https://doi.org/10.2478/popets-2022-0053	1	0	4	2022
+308	shankar (2023)	PrivacyGLUE: A Benchmark Dataset for General Language Understanding in Privacy Policies	https://doi.org/10.3390/app13063701	1	2	8	2023
+309	eroğlu (2026)	Measuring Transparency: Evaluating Privacy and Data Protection Practices on Academic Library Websites in Türkiye	https://doi.org/10.1016/j.acalib.2026.103200	1	0	0	2026
+310	wang (2025)	Evaluating privacy policy compliance through user perception: A case study of Chinese social media applications	https://doi.org/10.1016/j.dsim.2025.05.003	1	0	1	2025
+311	wang (2024)	Text analysis and optimization strategy of an app’s privacy policy from the perspective of dual perception: taking Chinese shopping apps as an example	https://doi.org/10.1108/idd-04-2024-0060	1	1	1	2024
+312	koul (2024)	Privacy Preferences of Consumer and Lender: A Case of Digital Credit Systems in India	https://doi.org/10.1080/15332861.2024.2418175	1	0	7	2024
+313	nikkhah (2025)	Does Culture Affect Post-Adoption Privacy Concerns of Mobile Cloud Computing App Users? Insights from the US, the UK, and India	https://doi.org/10.1007/s10796-025-10579-1	1	0	1	2025
+314	dorfleitner (2021)	Promise Not Fulfilled: Fintech Data Privacy, and the GDPR	https://doi.org/10.2139/ssrn.3950094	1	0	15	2021
+315	javed (2024)	A Systematic Review of Privacy Policy Literature	https://doi.org/10.1145/3698393	1	1	15	2024
+316	ramadorai (2019)	Privacy Policies and Consumer Data Extraction: Evidence From U.S. Firms	https://doi.org/10.2139/ssrn.3352175	1	1	6	2019
+317	sas (2023)	Informing Children about Privacy: A Review and Assessment of Age-Appropriate Information Designs in Kids-Oriented F2P Video Games	https://doi.org/10.1145/3611036	2	1	15	2023
+318	ebert (2021)	Bolder is Better: Raising User Awareness through Salient and Concise Privacy Notices	https://doi.org/10.1145/3411764.3445516	1	1	47	2021
+319	knoppers (2021)	The omics of our lives: practices and policies of direct-to-consumer epigenetic and microbiomic testing companies	https://doi.org/10.1080/14636778.2021.1997576	1	0	17	2021
+320	kolenbrander (2024)	Use & Abuse of Personal Information, Part II: Robust Generation of Fake IDs for Privacy Experimentation	https://doi.org/10.3390/jcp4030026	1	0	7	2024
+321	tang (2021)	Defining Privacy: How Users Interpret Technical Terms in Privacy Policies	https://doi.org/10.2478/popets-2021-0038	1	1	37	2021
+322	ibdah (2021)	“Why Should I Read the Privacy Policy, I Just Need the Service”: A Study on Attitudes and Perceptions Toward Privacy Policies	https://doi.org/10.1109/access.2021.3130086	1	4	57	2021
+323	cecere (2025)	Privacy and Platform Governance: The Case of Apps For Young Children	https://doi.org/10.5465/amp.2023.0435	2	0	1	2025
+324	zhao (2025)	AI-driven Content Recommendation Systems for Children: Privacy Protection and Algorithm Governance in TikTok	https://doi.org/10.63802/jlpcs.v1.i1.31	2	0	1	2025
+325	ingber (2024)	Protecting Children of the TikTok Era: A Discourse Analysis in the Absence of Law	https://doi.org/10.1002/poi3.431	2	1	7	2024
+326	gelman (2024)	Children’s Understanding of Digital Tracking and Digital Privacy	https://doi.org/10.1007/978-3-031-69362-5_87	2	1	2	2024
+327	zararsız (2025)	Children's Privacy in Digital Games: A Study of Free Games on the Google Play Store	https://doi.org/10.37679/trta.1668215	1	0	0	2025
+328	fuente (2023)	Analysis of security and privacy issues in wearables for minors	https://doi.org/10.1007/s11276-022-03211-6	2	0	17	2023
+329	ekambaranathan (2023)	How Can We Design Privacy-Friendly Apps for Children? Using a Research through Design Process to Understand Developers' Needs and Challenges	https://doi.org/10.1145/3610066	2	0	17	2023
+330	solera-cotanilla (2022)	Security and Privacy Analysis of Youth-Oriented Connected Devices	https://doi.org/10.3390/s22113967	2	1	13	2022
+331	andrews (2023)	Helping Youth Navigate Privacy Protection: Developing and Testing the Children's Online Privacy Scale	https://doi.org/10.1177/07439156231165250	1	0	11	2023
+332	milkaite (2019)	Child-friendly transparency of data processing in the EU: from legal requirements to platform policies	https://doi.org/10.1080/17482798.2019.1701055	1	4	34	2019
+333	alashwali (2022)	Saudi parents’ privacy concerns about their children’s smart device applications	https://doi.org/10.1016/j.ijcci.2022.100486	2	0	11	2022
+334	han (2020)	The Price is (Not) Right: Comparing Privacy in Free and Paid Apps	https://doi.org/10.2478/popets-2020-0050	1	2	37	2020
+335	cecere (2022)	Privacy, Data and Competition: The Case of Apps for Young Children	https://doi.org/10.2139/ssrn.4073931	2	0	2	2022
+336	sanfilippo (2020)	Disaster privacy/privacy disaster	https://doi.org/10.1002/asi.24353	1	1	35	2020
+337	mori (2023)	Analysis of Privacy Compliance by Classifying Policies Before and After the Japanese Law Revision	https://doi.org/10.2197/ipsjjip.31.829	1	0	0	2023
+338	ye (2023)	Research on Privacy Policy Compliance of Third-Party Payment Platforms	https://doi.org/10.2991/978-94-6463-210-1_39	1	0	0	2023
+339	pałka (2025)	Make privacy policies longer and appoint LLM readers	https://doi.org/10.1007/s10506-025-09442-0	1	0	4	2025
+340	schyff (2024)	Privacy policy analysis: A scoping review and research agenda	https://doi.org/10.1016/j.cose.2024.104065	1	1	20	2024
+341	maitra (2023)	Understanding the Insights of Privacy Policies Using BERT	https://doi.org/10.1007/978-981-19-9228-5_54	1	0	1	2023
+342	kim (2022)	Impact of mobile messenger privacy policy on loyalty of users	https://doi.org/10.9728/dcs.2022.23.7.1247	1	0	1	2022
+343	wu (2022)	Child Safety and Data Privacy in Smart Homes With Speakers: Comparison of Privacy Policies in the United States and China	https://doi.org/10.1109/msec.2022.3187946	1	0	1	2022
+344	hettche (2023)	The Notice-and-Choice Privacy Gamble: Game Theory, Consumer Agency, and Implications for GDPR	https://doi.org/10.33423/jmdc.v17i3.6555	1	0	0	2023
+345	mannan (2024)	Data Privacy in E-Commerce	https://doi.org/10.4018/979-8-3693-9491-5.ch017	1	0	1	2024
+346	silva (2025)	Privacy in Chatbot Conversation-Driven Development: A Comprehensive Review and Requirements Proposal	https://doi.org/10.1145/3730578	1	0	5	2025
+347	marín (2022)	Social media and data privacy in education: an international comparative study of perceptions among pre-service teachers	https://doi.org/10.1007/s40692-022-00243-x	4	0	27	2022
+348	balboni (2024)	Personal Privacy Policies	https://doi.org/10.1016/b978-0-443-13223-0.00055-2	1	0	1	2024
+349	jiang (2022)	Online Privacy Policy Disclosure: An Empirical Investigation	https://doi.org/10.1080/08874417.2022.2095542	1	0	5	2022
+350	iwaya (2022)	On the privacy of mental health apps	https://doi.org/10.1007/s10664-022-10236-0	1	1	107	2022
+351	raibulet (2025)	Awareness of privacy and data collection: exploring privacy policy effectiveness in Google Maps	https://doi.org/10.3389/fcomp.2025.1568179	1	0	3	2025
+352	xu (2026)	Personalized transparency: A scoping review of approaches to personalized privacy disclosures	https://doi.org/10.1016/j.clsr.2026.106265	1	0	1	2026
+353	paul (2025)	Bidirectional Privacy Preservation in Web Services	https://doi.org/10.3390/computers14110484	1	0	0	2025
+354	sofian (2021)	A Brief Review: Children Online Privacy Protection in Indonesia	https://doi.org/10.22158/assc.v3n3p12	2	1	2	2021
+355	kraljić (2025)	Children's Right to Privacy in the Virtual World of Apps	https://doi.org/10.18690/um.pf.8.2025.11	2	0	0	2025
+356	milkaite (2025)	Advancing Children’s Privacy and Data Protection Rights: Emerging Data Protection Trends and Challenges in Selected CEE Countries	https://doi.org/10.1007/978-3-032-07092-0_16	2	1	3	2025
+357	彭 (2024)	Improving the Protection System of Children’s Personal Information in the Era of Big Data	https://doi.org/10.12677/ds.2024.105293	2	0	0	2024
+358	li (2025)	Reflection on data right protection for minors in the digital age	https://doi.org/10.1016/j.childyouth.2025.108167	2	0	3	2025
+359	abdulraheem (2025)	Children in Digital Spaces Safety, Privacy, and Protection in the Age of AI	https://doi.org/10.4018/979-8-3373-2716-7.ch001	2	0	0	2025
+360	sasono (2025)	Child Maltreatment Protection : A Comparative Analysis with the United Kingdom and United States in Addressing OCSEA	https://doi.org/10.31004/obsesi.v9i5.7351	2	0	0	2025
+361	châu (2025)	Processing of children’s personal data: a comparative study of the EU legal framework and Vietnamese law	https://doi.org/10.2478/bjes-2025-0020	2	0	1	2025
+362	mačėnaitė (2018)	Protecting Children Online: Combining the Rationale and Rules of Personal Data Protection Law and Consumer Protection Law	https://doi.org/10.1007/978-3-662-57646-5_13	2	0	0	2018
+363	iskül (2021)	Child Right to Privacy and Social Media – Personal Information Oversharing Parents	https://doi.org/10.2478/bjlp-2021-0012	2	2	13	2021
+364	savirimuthu (2019)	Datafication as parenthesis: reconceptualising the best interests of the child principle in data protection law	https://doi.org/10.1080/13600869.2019.1590926	2	0	4	2019
+365	özkul (2022)	Children’s mobile communicative practices and locational privacy	https://doi.org/10.1093/jcmc/zmac015	2	0	9	2022
+366	крылова (2019)	Peculiarities of legal protection of personal data of minors in the field of electronic communication in the European Union	https://doi.org/10.17803/1994-1471.2019.100.3.194-199	2	0	1	2019
+367	crepax (2022)	Upgrading the protection of children from manipulative and addictive strategies in online games	https://doi.org/10.29173/irie480	2	1	8	2022
+368	lin (2022)	Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies	https://doi.org/10.1016/j.cose.2022.102606	1	2	16	2022
+369	alibeigi (2025)	Bridging the Gap: Assessing India's Digital Personal Data Protection Act in Light of the EU GDPR	https://doi.org/10.1007/s42979-025-04269-7	3	0	1	2025

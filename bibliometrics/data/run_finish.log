@@ -1,0 +1,52 @@
+
+[05:47:42] R bibliometrix
+[keywords] ok
+[trend_topics] ok
+[cooccurrence_network] ok
+[thematic_map] ok
+[thematic_evolution] ok
+[cocitation_references] ok
+[cocitation_sources] ok
+[bibliographic_coupling] ok
+[historiograph] FAILED: arguments imply differing number of rows: 0, 1
+[collaboration_authors] ok
+[collaboration_institutions] ok
+[collaboration_countries] ok
+[three_field_plot] ok
+There were 50 or more warnings (use warnings() to see the first 50)
+R analysis finished: 26 ok of 27 
+[05:59:38] python figures
+prisma ok
+year_sub ok
+timeline ok
+db ok
+geography ok
+citation_network ok
+main_path ok
+cocitation ok
+vosviewer: VOSviewer command line produced layouts for: keyword_cooccurrence, coauthorship_authors. py_cocitation_references: VOSviewer command line timed out. 
+captions.md written with 45 entries
+[06:04:22] law supplement
+[06:04:22] evidence select
+57 evidence rows; 10 prior-work papers in corpus; quotas {'A_policy_measurement': 17, 'B_children_apps': 10, 'C_india_dpdp': 14, 'D_edtech_schools': 7}
+[06:04:25] pdf download
+FAILED: HTTP 403 at doi.org | Stakeholder Theory and the Reconfiguration of Power, Responsibility, a
+downloaded | Privacy without Cost Inflation: Applying Global Data Protection Lesson
+FAILED: HTTP 403 at ijmec.com | Personalized Learning in Indian Schools through Artificial Intelligenc
+downloaded | Mitigating Security Threats in Cloud Computing: A Compliance-Centric A
+FAILED: HTTP 403 at doi.org | Grounds for Lawful Processing of Personal Data in GDPR and Personal Da
+downloaded | Establishing Consumer Trust Through Data Protection Law as a Competiti
+downloaded | Consent or Coercion? Dark Patterns and the Illusion of User Autonomy u
+downloaded | Unlocking the Future Classroom: Exploring the Landscape of Digital Edu
+downloaded | AI Training and Copyright Infringement in India: Issues of Ownership, 
+downloaded | Dilemma between Cyber Protection and Information Access in Schools
+downloaded | A Review of Privacy, Ethics, and Governance Challenges Associated With
+FAILED: not a PDF (HTML landing page) at doi.org | Developing an Algorithmic Accountability and Data Sovereignty Framewor
+downloaded | Ethics in EdTech: Consolidating Standards For Responsible Data Handlin
+FAILED: not a PDF (HTML landing page) at doi.org | Learners' perception of data privacy when using AI language models: Re
+PDFs: 27/57 core papers; folder size 56.0 MB
+[06:06:56] evidence table
+evidence-table.csv: 57 rows
+[06:06:59] docs
+docs written: D:\Research-Publishing\11-school-privacy-notices\bibliometrics\search-protocol.md D:\Research-Publishing\11-school-privacy-notices\bibliometrics\README.md
+[06:07:01] FINISHED

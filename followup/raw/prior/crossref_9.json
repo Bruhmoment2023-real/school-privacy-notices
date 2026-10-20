@@ -1,0 +1,462 @@
+{
+ "q": "GDPR privacy notice compliance schools websites audit",
+ "items": [
+  {
+   "DOI": "10.4324/9780429449970-14",
+   "title": [
+    "Privacy Notice(s)"
+   ],
+   "author": [
+    {
+     "given": "Andrew",
+     "family": "Denley",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mark",
+     "family": "Foulsham",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Brian",
+     "family": "Hitchen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      1,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "GDPR \u2013 How to Achieve and Maintain Compliance"
+   ],
+   "type": "book-section",
+   "URL": "https://doi.org/10.4324/9780429449970-14"
+  },
+  {
+   "DOI": "10.1002/9781119594307.ch10",
+   "title": [
+    "Creating a GDPR Compliance Department"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      21
+     ]
+    ]
+   },
+   "container-title": [
+    "Data Privacy and GDPR Handbook"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119594307.ch10"
+  },
+  {
+   "DOI": "10.2478/popets-2022-0046",
+   "title": [
+    "Checking Websites\u2019 GDPR Consent Compliance for Marketing Emails"
+   ],
+   "author": [
+    {
+     "given": "Karel",
+     "family": "Kub\u00ed\u010dek",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jakob",
+     "family": "Merane",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Carlos",
+     "family": "Cotrini",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alexander",
+     "family": "Stremitzer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Stefan",
+     "family": "Bechtold",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Basin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ETH Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings on Privacy Enhancing Technologies"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2478/popets-2022-0046",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The sending of marketing emails is regulated to protect users from unsolicited emails. For instance, the European Union\u2019s ePrivacy Directive states that marketers must obtain users\u2019 prior consent, and the General Data Protection Regulation (GDPR) specifies further that such consent must be freely given, specific, informed, and unambiguous.</jats:p>\n               <jats:p>Based on these requirements, we design a labeling of legal characteristics for websites and emails. This leads to a simple decision procedure that detects potential legal violations. Using our procedure, we evaluated 1000 websites and the 5000 emails resulting from registering to these websites. Both datasets and evaluations are available upon request. We find that 21.9% of the websites contain potential violations of privacy and unfair competition rules, either in the registration process (17.3%) or email communication (17.7%). We demonstrate with a statistical analysis the possibility of automatically detecting such potential violations.</jats:p>"
+  },
+  {
+   "DOI": "10.21275/sr220511110820",
+   "title": [
+    "Salesforce and GDPR Compliance: Ensuring Data Privacy and Security"
+   ],
+   "author": [
+    {
+     "given": "Arun",
+     "family": "Kumar Mittapelly",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/sr220511110820"
+  },
+  {
+   "DOI": "10.5220/0010521300002998",
+   "title": [
+    "Protecting End User\u2019s Privacy When using Social Login through GDPR Compliance"
+   ],
+   "author": [
+    {
+     "given": "Carlos",
+     "family": "Villar\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marta",
+     "family": "Beltr\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 18th International Conference on Security and Cryptography"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0010521300002998"
+  },
+  {
+   "DOI": "10.2307/j.ctt1trkk7x.5",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR): An Implementation and Compliance Guide - Second edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctt1trkk7x.5"
+  },
+  {
+   "DOI": "10.2307/j.ctv17f12pc.8",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR) \u2013 An implementation and compliance guide, fourth edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctv17f12pc.8"
+  },
+  {
+   "DOI": "10.5220/0010521304280435",
+   "title": [
+    "Protecting End User\u2019s Privacy When using Social Login through GDPR Compliance"
+   ],
+   "author": [
+    {
+     "given": "Carlos",
+     "family": "Villar\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marta",
+     "family": "Beltr\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 18th International Conference on Security and Cryptography"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0010521304280435"
+  },
+  {
+   "DOI": "10.2307/j.ctvr7fcwb.8",
+   "title": [
+    "PRIVACY COMPLIANCE FRAMEWORKS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      31
+     ]
+    ]
+   },
+   "container-title": [
+    "EU General Data Protection Regulation (GDPR), third edition"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctvr7fcwb.8"
+  },
+  {
+   "DOI": "10.7717/peerj-cs.3701/fig-6",
+   "title": [
+    "Figure 6: Percentage of websites based on their compliance with privacy guidelines."
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.7717/peerj-cs.3701/fig-6"
+  },
+  {
+   "DOI": "10.7717/peerj-cs.3701/table-5",
+   "title": [
+    "Table 5: Websites in full or partial compliance with the privacy guidelines."
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.7717/peerj-cs.3701/table-5"
+  },
+  {
+   "DOI": "10.1201/9780429325939-8",
+   "title": [
+    "The Business Opportunities of GDPR"
+   ],
+   "author": [
+    {
+     "given": "Kenneth N.",
+     "family": "Rashbaum",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      21
+     ]
+    ]
+   },
+   "container-title": [
+    "The GDPR Challenge"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9780429325939-8"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+unit_id,kind,D1,D2,D3,D4,D5,D6,D6b,D7,D8a,D8b,D9,K1,K2a,K2b,K3,K4,K5,S1,S2,S3,S4,S5,S6,S7,S8,note
+CB-008,TERMS,N,N,N,N,N,Y,N,P,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,page titled Privacy Policy is website terms of use; only the line 'privacy policy is subject to change'; contact email/phone in footer
+CB-010,PRIV,Y,P,N,N,N,Y,N,P,N,N,P,N,N,NA,N,N,N,N,-,N,Y,Y,N,Y,Y,ERP-vendor combined terms+privacy+data protection page; itemised data list; purposes generic
+CB-016,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,N,"GDPR,CCPA",N,Y,N,N,N,Y,generator template (CCPA/GDPR/under-13 clause); rights with email; no school-specific purposes
+CB-019,THIRD_PARTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,school's privacy link points to a multinational's global policy on another company's domain; not the school's own notice; items coded N for the school
+CB-025,PRIV,P,P,N,P,N,Y,N,Y,P,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,Y,Apple-style template with school name substituted; named Grievance Officer with email/phone but grievance scope = content/terms
+CB-033,PRIV,Y,P,N,N,N,Y,N,P,N,N,Y,Y,Y,Y,P,P,N,N,-,N,Y,Y,N,Y,Y,generator template (2019); under-18 clause with parent approval
+CB-038,PRIV,Y,P,P,Y,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,Y,generic website template; review/correct/delete via email; marketing opt-out only
+CB-046,PRIV,Y,Y,N,N,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,Y,short school-specific notice (admission data used for report cards)
+CB-051,PRIV,Y,P,N,P,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,Y,unedited WordPress 'suggested text' placeholder policy
+CB-053,PRIV,Y,P,P,P,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,Y,generic generated policy; includes student ID and academic information among data types
+CB-058,PRIV,P,P,P,P,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N,GDPR_like,N,Y,N,N,Y,Y,MOOC-platform template (under 13 / under 16 EEA); data examples list absent from extracted text (collapsed content)
+CB-066,EMPTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,privacy-policy page link resolves to a page with navigation only (no policy text extracted)
+CB-068,EMPTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,privacy page contains menu only; policy text not in extracted page
+CI-002,PRIV,Y,P,N,P,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,N,generic website policy; correction via email
+CI-003,PRIV,Y,Y,P,N,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,Y,Y,"short school-specific website policy (applications, inquiries); dated 2025"
+CI-031,PRIV,Y,P,P,N,N,Y,N,P,N,N,Y,Y,Y,Y,N,N,N,N,"COPPA,CalOPPA,CANSPAM",N,Y,N,N,Y,Y,"US-template (CalOPPA, COPPA, CAN-SPAM pledge); age restriction 18 for site use; page text also contains injected spam links (site compromise)"
+CI-041,PRIV,Y,Y,N,P,N,Y,N,N,N,N,Y,Y,N,NA,Y,N,N,N,IT,N,Y,N,N,N,Y,"cites IT Act 2000 and 'Data Protection Rules, 2011'; parental consent where applicable; rights listed with no channel"
+CI-042,PRIV,N,Y,N,N,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,N,"school-ERP portal policy; purposes listed (billing, school notices); no data itemisation"
+CI-050,PRIV,Y,Y,N,P,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,Y,school-specific admission data list incl. medical ailment and payment info
+OT-007,PRIV,Y,Y,P,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,P,N,N,N,IT,Y,Y,N,N,N,Y,coaching/edtech-type company; named Grievance Officer under IT Act; minors not eligible but 'users warrant parent consent'
+OT-012,PRIV,Y,Y,Y,Y,P,Y,N,P,P,Y,Y,N,N,NA,N,N,N,N,"GDPR,UK_ICO",Y,Y,Y,N,N,Y,UK/EU (GDPR/ICO) template; 30-day query response; complaint route is the UK ICO
+OT-014,NONE,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,path-probe soft-404: /privacy-policy returned the homepage; site has no privacy policy text (only a footer 'privacy policy' word); treated as NOT FOUND
+OT-026,PRIV,Y,Y,P,Y,N,Y,N,Y,Y,N,Y,N,N,NA,N,N,N,N,IT_SPDI,N,Y,N,N,N,N,PDF; SPDI-style; named Grievance Officer with email; withdrawal of SPDI consent in writing
+GV-007,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,Y,Y,Y,N,Y,Y,generator template (under 13); rights via account settings or contact
+ED-001,PRIV,Y,P,N,N,N,Y,N,P,P,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,Y,adult-learner edtech (legal education); itemised list incl. government photo ID; 8-year retention; grievance email only
+ED-004,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,Y,Y,Y,N,Y,Y,school-app policy from generator template (under 13)
+ED-006,PRIV,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,DPDP,Y,Y,N,Y,Y,Y,"DPDP-aware: names the Act, Data Protection Board complaint route, Grievance Officer, 30-day response, nominate right; app limited to 18+"
+ED-007,PRIV,Y,P,P,N,N,Y,N,N,N,N,Y,Y,Y,N,N,N,P,N,"COPPA,FIP_US",N,Y,N,N,Y,Y,"US generator template (COPPA under 13, Fair Information Practices, AdSense/DART); last modified Dec 2020"
+ED-008,PRIV,Y,Y,N,Y,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,Y,DPDP,Y,Y,N,N,Y,Y,school-ERP SaaS; states it is a Data Processor and that the school (controller) obtains consents; DPDP mentioned only as a future reason to update policy; rights 'depending on jurisdiction' with support email
+ED-009,PRIV,Y,Y,P,Y,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,N,"NGO donor-data policy (donations, PAN for 80G), not learner data"
+ED-010,PRIV,Y,Y,Y,Y,P,Y,N,P,N,Y,Y,Y,Y,N,P,N,N,N,"GDPR,CCPA,COPPA,OAIC",Y,Y,Y,Y,Y,Y,multi-jurisdiction global template (EU/US/UK/Australia/Brazil rights; no India mention); complaint route = EU supervisory authority; 30-day response to rights requests
+ED-012,PRIV,Y,Y,Y,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,IT,Y,Y,N,N,Y,Y,"text mirrors DPDP s.5/s.6/Rule 10 concepts (consent records, parent adult verification, withdrawal comparable ease) without naming the Act or Board; header says last updated 21.08.2021 (inconsistent with content)"
+ED-014,PRIV,Y,P,N,P,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,Y,Y,N,N,N,Y,tutoring marketplace; WordPress default 'suggested text' policy
+ED-015,PRIV,P,P,N,N,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,N,-,N,Y,N,N,Y,Y,school-admin app; says no personal information collected by the app (school manages via portal); under-13 clause
+ED-016,PRIV,Y,Y,Y,Y,N,Y,N,P,N,Y,Y,N,N,NA,N,N,N,Y,DPDP,Y,Y,Y,N,Y,Y,"school-software vendor; policy covers only its marketing website, product data governed by separate DPA; names DPDP Act 2023; 30-day response"
+ED-017,PRIV,Y,Y,P,P,N,Y,N,Y,Y,N,Y,N,N,NA,N,N,N,N,"IT,GDPR_like",Y,Y,Y,Y,N,Y,coaching/edtech template shared with another sampled unit (OT-007); Grievance Officer under IT Act with email; lists Aadhaar/passport
+ED-018,PRIV,Y,Y,P,Y,N,Y,N,P,P,N,Y,Y,Y,Y,P,N,N,N,UAE_law,Y,Y,N,N,N,Y,large consumer edtech; under-18 users supervised by parent; UAE-specific terms appended; rights via privacy email
+ED-019,PRIV,Y,Y,P,Y,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,Y,Y,short admissions-counselling policy; email field is an unfilled placeholder '[Add Email ID]'; phones given; effective date equals collection date
+ED-021,PRIV,Y,Y,Y,Y,N,Y,N,Y,Y,N,Y,Y,N,NA,P,N,N,N,"IT,GDPR_like",Y,Y,Y,N,Y,Y,same long template as OT-007/ED-017; named DPO with email; withdraw consent in writing by email; parent consent only for testimonials; updated Feb 2024
+ED-022,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,N,Y,N,N,N,Y,school-management SaaS; under-13 clause with 'institutional or parental consent'; delete-account page
+ED-023,PRIV,Y,P,P,N,N,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,-,N,Y,N,N,N,Y,exam-prep platform; marketing opt-out only
+ED-025,PRIV,Y,Y,Y,Y,N,Y,N,P,N,N,Y,Y,N,NA,N,N,N,N,-,Y,Y,N,N,Y,Y,"daycare parent-teacher platform; itemises child data (name, DOB, attendance, photos); rights list includes withdraw consent; contact email obfuscated, postal address in the US"
+ED-026,EMPTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,N,N,N,N,N,N,privacy link yields navigation only
+ED-027,PRIV,Y,P,N,N,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,N,-,A,A,A,A,A,A,mobile-app policy template (under 13); support email; effective June 2023
+ED-029,PRIV,Y,Y,P,Y,N,Y,N,P,N,N,Y,Y,N,NA,P,N,N,N,-,A,A,A,A,A,A,school-ERP vendor; student data collected under the school's authorisation and schools are responsible for obtaining parental consent; parents directed to the school
+ED-033,PRIV,Y,Y,Y,Y,P,Y,N,Y,Y,N,Y,Y,N,NA,P,N,N,Y,"DPDP,IT",A,A,A,A,A,A,exam-prep app for school-aged students; lists DPDP Act among applicable laws; Grievance Officer section; regulator complaint generic; personalised ads possible on a platform aimed at school-aged children
+ED-034,PRIV,Y,Y,Y,Y,N,Y,N,Y,P,Y,Y,Y,Y,Y,Y,N,Y,Y,"DPDP,IT",A,A,A,A,A,A,pilot-stage K-12 startup; names DPDP Act and parent-consent; no Board complaint route; states final legal entity/retention windows not yet confirmed
+ED-035,PRIV,Y,Y,Y,Y,N,Y,N,P,N,N,Y,Y,Y,Y,N,N,N,N,-,A,A,A,A,A,A,adult (postgraduate) exam-prep app; discloses sharing study data with AI providers; consent-gated AI features
+ED-037,PRIV,Y,Y,P,Y,N,Y,N,P,N,N,Y,Y,Y,N,Y,P,Y,N,COPPA,A,A,A,A,A,A,app for children 4-8; parent registers by phone OTP; COPPA-framed; no advertising or profiling of children; audio recordings of children disclosed
+ED-040,PRIV,Y,Y,N,Y,N,Y,N,Y,P,N,Y,N,N,NA,N,N,N,N,IT,A,A,A,A,A,A,test-prep company; named Grievance Redressal Officer; grievance scope = content/terms; deletion by email
+ED-038,PRIV,Y,Y,Y,Y,N,Y,N,Y,P,N,P,Y,N,NA,P,N,Y,N,-,A,A,A,A,A,A,12k-word school-ERP product policy; roles school vs vendor; parental consent 'where required' via separate mechanism; defers to other notices (parent/student notices); unfilled placeholders '[Aionpixel Website]'; no Indian law named
+ED-042,PRIV,Y,Y,Y,Y,Y,Y,N,P,Y,Y,Y,Y,Y,Y,P,N,N,Y,"DPDP,DPDP_Rules",A,A,A,A,A,A,written explicitly for DPDP Act and Rules 2025; Data Protection Board named as escalation and for breach notice; nominate right; 30 days; parent consent only for under-18 referral programme; ad-measurement SDKs shared with Google/Meta
+ED-043,PRIV,Y,Y,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,N,-,A,A,A,A,A,A,medical-exam app; under-13 clause; 2024
+ED-044,PRIV,Y,Y,P,N,N,Y,N,Y,Y,N,Y,N,N,NA,N,N,N,N,IT,A,A,A,A,A,A,radiology-teaching company; Grievance Officer named with phone/email under IT Act; marketing email opt-out; no rights section
+ED-045,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,A,A,A,A,A,A,generator template (under 13)
+ED-046,PRIV,Y,Y,Y,Y,P,Y,N,P,N,N,Y,N,N,NA,N,N,N,N,"GDPR,CCPA,Swiss_FDPIC",A,A,A,A,A,A,Termly-style global template (EU/Swiss/California); no children's section
+ED-047,PRIV,Y,P,P,P,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,large exam-prep platform; deletion by email; opt-out of emails/push
+ED-048,PRIV,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,P,Y,Y,"DPDP,PIPEDA",A,A,A,A,A,A,'DPDP 2023/2026 compliant' statutory notice summary; Board named only for breach notice (no complaint route); Eighth Schedule translation on request; claims no behavioural tracking of minors but serves AdMob rewarded ads; cites DPDP sections
+ED-050,PRIV,Y,Y,P,Y,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,Y,DPDP,A,A,A,A,A,A,exam-prep product; names DPDP Act once ('choices provided consistent with'); AI provider sharing disclosed; under-13 clause
+ED-051,PRIV,Y,P,N,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,A,A,A,A,A,A,generator template (under 13)
+ED-052,PRIV,Y,Y,Y,Y,P,Y,N,Y,N,N,Y,Y,Y,N,N,N,N,N,"GDPR,CCPA,COPPA",A,A,A,A,A,A,global iOS focus app (not India-specific) listed on India storefront; GDPR/CCPA/COPPA template; dedicated privacy@ address
+ED-053,PRIV,P,Y,P,Y,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,COPPA,A,A,A,A,A,A,school-communication app; under-13 data 'managed through the school in compliance with COPPA'; rights via school or email
+ED-055,PRIV,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,DPDP,A,A,A,A,A,A,"names DPDPA 2023, under-18 = child, minor confirms parental consent, no targeted advertising to minors, Grievance Officer, 30 days; no Board complaint route"
+ED-056,OUT_OF_SCOPE,Y,P,N,N,N,Y,N,P,N,N,Y,Y,Y,N,P,N,N,N,-,A,A,A,A,A,A,"seller is Pakistan-based (CNIC, .edu.pk): not India-targeted; exclude from analysis"
+ED-058,PRIV,Y,Y,N,N,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,test-prep brand website policy; profiling and personalised advertisements disclosed
+ED-059,PRIV,Y,P,P,N,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,app policy; withdraw-consent option stated without channel; behavioural profiling of learning patterns
+ED-060,PRIV,Y,P,N,N,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,UPSC prep platform; no rights or contact section in extracted text
+ED-013,PRIV,Y,P,N,P,N,Y,N,N,N,N,Y,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,software-consultancy developer site; unedited WordPress default policy; seller is a development agency rather than a learning service
+ED-028,NONE,N,N,N,N,N,Y,N,N,N,N,N,N,N,NA,N,N,N,N,-,A,A,A,A,A,A,the app's privacy-policy link resolves to a parked domain page (registrar text only)

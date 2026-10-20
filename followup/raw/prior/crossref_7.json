@@ -1,0 +1,628 @@
+{
+ "q": "automated analysis privacy policies India GDPR compliance apps",
+ "items": [
+  {
+   "DOI": "10.2139/ssrn.5177016",
+   "title": [
+    "Research Report: Femtech Apps and Wearables and GDPR Compliance- An Empirical Study of Femtech's Privacy Policies and Terms of Service under the GDPR"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5360-2038",
+     "authenticated-orcid": true,
+     "given": "Maria",
+     "family": "Tzanou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6591-0676",
+     "authenticated-orcid": true,
+     "given": "Tsachi",
+     "family": "Keren-Paz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5177016",
+   "abstract": "<jats:p>&lt;p&gt;\u2018Femtech\u2019 is a multi-billion-dollar technology industry that offers a variety of technological tools to monitor and manage women\u2019s sexual and reproductive health and wellbeing. It encompasses a broad range of software (apps) and hardware (wearables) aimed at supporting women and gender minorities to manage their menstrual, reproductive and sexual health. This study examined the compliance of 42 femtech apps, including 15 wearable-associated apps, with data protection law and in particular with the European Union\u2019s (EU\u2019s) General Data Protection Regulation (GDPR). Compliance was assessed through an empirical analysis of the Privacy Policies and Terms and Conditions of the selected apps. The research showed that femtech\u2019s questionable data processing compliance with the GDPR is of serious concern and might result in data privacy gendered risks and harms. The report provides a number of Recommendations addressed to femtech industry actors/ controllers, to users, to regulators (Data Protection Authorities), to policy-makers, to courts and to civil society, media and academia.&lt;/p&gt;</jats:p>"
+  },
+  {
+   "DOI": "10.14763/2024.2.1757",
+   "title": [
+    "The death of privacy policies: How app stores shape GDPR compliance of apps"
+   ],
+   "author": [
+    {
+     "given": "Julia",
+     "family": "Kr\u00e4mer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Internet Policy Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.14763/2024.2.1757"
+  },
+  {
+   "DOI": "10.1109/re63999.2025.00038",
+   "title": [
+    "GDPR Compliance in Privacy Policies of Mobile Apps: An Overview of the State-of-Practice"
+   ],
+   "author": [
+    {
+     "given": "Orlando Amaral",
+     "family": "Cejas",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Luxembourg Institute of Science and Technology"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sallam",
+     "family": "Abualhaija",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nicolas",
+     "family": "Sannier",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marcello",
+     "family": "Ceci",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Domenico",
+     "family": "Bianculli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Luxembourg"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "2025 IEEE 33rd International Requirements Engineering Conference (RE)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/re63999.2025.00038"
+  },
+  {
+   "DOI": "10.1002/9781119594307.ch10",
+   "title": [
+    "Creating a GDPR Compliance Department"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      21
+     ]
+    ]
+   },
+   "container-title": [
+    "Data Privacy and GDPR Handbook"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119594307.ch10"
+  },
+  {
+   "DOI": "10.4324/9781003004790-7",
+   "title": [
+    "Privacy Policies and Notices"
+   ],
+   "author": [
+    {
+     "given": "Samantha",
+     "family": "Alford",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "GDPR: A Game of Snakes and Ladders"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003004790-7"
+  },
+  {
+   "DOI": "10.2139/ssrn.5583522",
+   "title": [
+    "User control and GDPR compliance in social media privacy policies: A comparison of Facebook, YouTube, Snapchat, WeChat, TikTok, and BeReal"
+   ],
+   "author": [
+    {
+     "given": "Nathalie",
+     "family": "Schabio",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Saif",
+     "family": "Shahin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5583522"
+  },
+  {
+   "DOI": "10.5040/9781509975976.ch-005",
+   "title": [
+    "GDPR Compliance on Autopilot: Checks and Balances of Automated Compliance of Subject Access Requests"
+   ],
+   "author": [
+    {
+     "given": "Desara",
+     "family": "Dushi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "container-title": [
+    "Data Protection and Privacy, Volume 16"
+   ],
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9781509975976.ch-005"
+  },
+  {
+   "DOI": "10.3390/info15090551",
+   "title": [
+    "Examining the Integrity of Apple\u2019s Privacy Labels: GDPR Compliance and Unnecessary Data Collection in iOS Apps"
+   ],
+   "author": [
+    {
+     "given": "Zaid Ahmad",
+     "family": "Surma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computing, Dublin City University, D09 V209 Dublin, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saiesha",
+     "family": "Gowdar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computing, Dublin City University, D09 V209 Dublin, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5068-3714",
+     "authenticated-orcid": false,
+     "given": "Harshvardhan J.",
+     "family": "Pandit",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ADAPT Centre, Dublin City University, D09 V209 Dublin, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Information"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.3390/info15090551",
+   "abstract": "<jats:p>This study investigates the effectiveness of Apple\u2019s privacy labels, introduced in iOS 14, in promoting transparency around app data collection practices with respect to the GDPR. Specifically, we address two key research questions: (1) What special categories of personal data, as regulated by the GDPR, are collected and used by apps, and for which purposes? (2) What disparities exist between app-stated permissions and the apparent unnecessary data gathering across various categories in the iOS App Store? By analyzing a comprehensive dataset of 541,662 iOS apps, we identify common practices related to prevalent use of sensitive and special categories of personal data, revealing widespread instances of unnecessary data collection, misuse, and potential GDPR violations. Furthermore, our analysis uncovers significant inconsistencies between the permissions stated by apps and the actual data they gather, highlighting a critical gap in user privacy protection within the iOS ecosystem. These findings underscore the need for stricter regulatory oversight of app stores and the necessity of effective privacy notices to build accountability and trust and ensure transparency. This study offers actionable insights for regulators, app developers, and users towards creating secure and transparent digital ecosystems.</jats:p>"
+  },
+  {
+   "DOI": "10.21275/sr220511110820",
+   "title": [
+    "Salesforce and GDPR Compliance: Ensuring Data Privacy and Security"
+   ],
+   "author": [
+    {
+     "given": "Arun",
+     "family": "Kumar Mittapelly",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/sr220511110820"
+  },
+  {
+   "DOI": "10.5220/0012599600003687",
+   "title": [
+    "Extending PriPoCoG: A Privacy Policy Editor for GDPR-Compliant Privacy Policies"
+   ],
+   "author": [
+    {
+     "given": "Jens",
+     "family": "Leicht",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Paluno - The Ruhr Institute for Software Technology, University of Duisburg-Essen, Germany, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Maritta",
+     "family": "Heisel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Paluno - The Ruhr Institute for Software Technology, University of Duisburg-Essen, Germany, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 19th International Conference on Evaluation of Novel Approaches to Software Engineering"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0012599600003687"
+  },
+  {
+   "DOI": "10.5220/0010521300002998",
+   "title": [
+    "Protecting End User\u2019s Privacy When using Social Login through GDPR Compliance"
+   ],
+   "author": [
+    {
+     "given": "Carlos",
+     "family": "Villar\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marta",
+     "family": "Beltr\u00e1n",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computing, ETSII, Universidad Rey Juan Carlos, Madrid, Spain, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 18th International Conference on Security and Cryptography"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0010521300002998"
+  },
+  {
+   "DOI": "10.5220/0010406100800091",
+   "title": [
+    "ConfIs: A Tool for Privacy and Security Analysis and Conflict Resolution for Supporting GDPR Compliance through Privacy-by-Design"
+   ],
+   "author": [
+    {
+     "given": "Duaa",
+     "family": "Alkubaisy",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Secure, Intelligent and Usable Systems, University of Brighton, U.K., --- Select a Country ---"
+      },
+      {
+       "name": "Imam Abdurrahman Bin Faisal University, Dammam, Saudi Arabia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Luca",
+     "family": "Piras",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computing, Robert Gordon University, Aberdeen, U.K., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammed",
+     "family": "Al-Obeidallah",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Sciences and Informatics, Amman Arab University, Jordan, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Karl",
+     "family": "Cox",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Secure, Intelligent and Usable Systems, University of Brighton, U.K., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haralambos",
+     "family": "Mouratidis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Secure, Intelligent and Usable Systems, University of Brighton, U.K., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 16th International Conference on Evaluation of Novel Approaches to Software Engineering"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0010406100800091"
+  }
+ ]
+}

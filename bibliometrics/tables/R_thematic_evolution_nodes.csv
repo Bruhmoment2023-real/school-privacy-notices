@@ -1,0 +1,18 @@
+"name","group","label","slice","color","id","sum","freq"
+"coppa","2005-2020","coppa--2005-2020","1","#E41A1C80",0,0.0745257452574526,158
+"data protection","2005-2020","data protection--2005-2020","1","#377EB880",1,0.272357723577236,258
+"personal data protection","2005-2020","personal data protection--2005-2020","1","#A6562880",2,0.0989159891598916,196
+"privacy policies","2005-2020","privacy policies--2005-2020","1","#4DAF4A80",3,0.350948509485095,542
+"student privacy","2005-2020","student privacy--2005-2020","1","#F781BF80",4,0.154471544715447,202
+"third-party data sharing","2005-2020","third-party data sharing--2005-2020","1","#66C2A580",5,0.0487804878048781,70
+"coppa","2021-2025","coppa--2021-2025","2","#E41A1C80",6,0.0694444444444444,194
+"data privacy","2021-2025","data privacy--2021-2025","2","#984EA380",7,0.143939393939394,405
+"india","2021-2025","india--2021-2025","2","#FF7F0080",8,0.433080808080808,896
+"privacy by design","2021-2025","privacy by design--2021-2025","2","#FC8D6280",9,0.0265151515151515,82
+"privacy policies","2021-2025","privacy policies--2021-2025","2","#4DAF4A80",10,0.327020202020202,786
+"ai regulation","2026-2026","ai regulation--2026-2026","3","#8DA0CB80",11,0.0480132450331126,141
+"data privacy","2026-2026","data privacy--2026-2026","3","#984EA380",12,0.158940397350993,276
+"digital literacy","2026-2026","digital literacy--2026-2026","3","#E41A1C80",13,0.0827814569536424,96
+"digital personal data protection act 2023","2026-2026","digital personal data protection act 2023--2026-2026","3","#FF7F0080",14,0.567880794701987,491
+"data protection","2026-2026","data protection--2026-2026","3","#377EB880",15,0.0910596026490066,102
+"artificial intelligence","2026-2026","artificial intelligence--2026-2026","3","#E78AC380",16,0.0513245033112583,62

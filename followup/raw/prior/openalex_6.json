@@ -1,0 +1,1591 @@
+{
+ "q": "EdTech products children's rights privacy investigation",
+ "status": 200,
+ "res": [
+  {
+   "id": "https://openalex.org/W2563977184",
+   "doi": "https://doi.org/10.15779/z381g4b",
+   "title": "Edtech and Student Privacy: California Law as a Model",
+   "publication_year": 2016,
+   "primary_location": {
+    "id": "pmh:oai:scholarship.law.berkeley.edu:btlj-2130",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://scholarship.law.berkeley.edu/btlj/vol31/iss2/23",
+    "pdf_url": "https://scholarship.law.berkeley.edu/btlj/vol31/iss2/23",
+    "source": {
+     "id": "https://openalex.org/S7407064349",
+     "display_name": "bepress Legal Repository",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Berkeley Technology Law Journal",
+    "raw_type": "text"
+   },
+   "cited_by_count": 15,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": null,
+      "display_name": "Peterson, Dylan",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Peterson, Dylan",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7214228208",
+   "doi": "https://doi.org/10.48550/arxiv.2609.28137",
+   "title": "\"We'll Fix It Later\": Education, AI, and the Deferral of Privacy in EdTech",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "pmh:oai:arXiv.org:2609.28137",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://arxiv.org/abs/2609.28137",
+    "pdf_url": "https://arxiv.org/pdf/2609.28137",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "cited_by_count": 0,
+   "type": "preprint",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5066536042",
+      "display_name": "Meghna Manoj Nair",
+      "orcid": "https://orcid.org/0000-0002-3428-844X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3428-844X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I57206974",
+       "display_name": "New York University",
+       "ror": "https://ror.org/0190ak572",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I57206974"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Nair, Meghna Manoj",
+     "raw_affiliation_strings": [
+      "New York University ( United States)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "New York University ( United States)",
+       "institution_ids": [
+        "https://openalex.org/I57206974"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5005882490",
+      "display_name": "Rachel Greenstadt",
+      "orcid": "https://orcid.org/0000-0002-1831-1785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1831-1785"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I57206974",
+       "display_name": "New York University",
+       "ror": "https://ror.org/0190ak572",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I57206974"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Greenstadt, Rachel",
+     "raw_affiliation_strings": [
+      "New York University ( United States)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "New York University ( United States)",
+       "institution_ids": [
+        "https://openalex.org/I57206974"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4399333457",
+   "doi": "https://doi.org/10.1016/j.caeo.2024.100195",
+   "title": "The Googlization of the classroom: Is the UK effective in protecting children's data and rights?",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.1016/j.caeo.2024.100195",
+    "doi": "https://doi.org/10.1016/j.caeo.2024.100195",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.caeo.2024.100195",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210232537",
+     "display_name": "Computers and Education Open",
+     "issn_l": "2666-5573",
+     "issn": [
+      "2666-5573"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-d",
+      "jufo-1",
+      "norway-1",
+      "poland-20",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320990",
+     "host_organization_name": "Elsevier BV",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320990"
+     ],
+     "host_organization_lineage_names": [
+      "Elsevier BV"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computers and Education Open",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 21,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5009184539",
+      "display_name": "Sonia Livingstone",
+      "orcid": "https://orcid.org/0000-0002-3248-9862",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3248-9862"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I909854389",
+       "display_name": "London School of Economics and Political Science",
+       "ror": "https://ror.org/0090zs177",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I124357947",
+        "https://openalex.org/I909854389"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Sonia Livingstone",
+     "raw_affiliation_strings": [
+      "Department of Media and Communications, London School of Economics and Political Science, Fawcett Tower, Houghton St, London, WC2A 2AE"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-3248-9862",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Media and Communications, London School of Economics and Political Science, Fawcett Tower, Houghton St, London, WC2A 2AE",
+       "institution_ids": [
+        "https://openalex.org/I909854389"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5022940978",
+      "display_name": "Kruakae Pothong",
+      "orcid": "https://orcid.org/0000-0002-1735-7941",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1735-7941"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I909854389",
+       "display_name": "London School of Economics and Political Science",
+       "ror": "https://ror.org/0090zs177",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I124357947",
+        "https://openalex.org/I909854389"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Kruakae Pothong",
+     "raw_affiliation_strings": [
+      "Department of Media and Communications, London School of Economics and Political Science, Fawcett Tower, Houghton St, London, WC2A 2AE"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Media and Communications, London School of Economics and Political Science, Fawcett Tower, Houghton St, London, WC2A 2AE",
+       "institution_ids": [
+        "https://openalex.org/I909854389"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5028611952",
+      "display_name": "Ay\u00e7a Atabey",
+      "orcid": "https://orcid.org/0000-0003-3165-6750",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3165-6750"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I98677209",
+       "display_name": "University of Edinburgh",
+       "ror": "https://ror.org/01nrxwf90",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I98677209"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ay\u00e7a Atabey",
+     "raw_affiliation_strings": [
+      "School of Law, University of Edinburgh, Old College, South Bridge, Edinburgh, EH8 9YL"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Law, University of Edinburgh, Old College, South Bridge, Edinburgh, EH8 9YL",
+       "institution_ids": [
+        "https://openalex.org/I98677209"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5099015325",
+      "display_name": "Louise Hooper",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Louise Hooper",
+     "raw_affiliation_strings": [
+      "Garden Court Chambers, 57-60 Lincoln's Inn Fields, London, WC2A 3LJ"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Garden Court Chambers, 57-60 Lincoln's Inn Fields, London, WC2A 3LJ",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5072430049",
+      "display_name": "Emma Day",
+      "orcid": "https://orcid.org/0000-0002-9598-6196",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9598-6196"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Emma Day",
+     "raw_affiliation_strings": [
+      "Tech Legality, Harju maakond, Tallinn, Kesklinna linnaosa, Tornim\u00e4e tn 3 // 5 // 7, Estonia 10145"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Tech Legality, Harju maakond, Tallinn, Kesklinna linnaosa, Tornim\u00e4e tn 3 // 5 // 7, Estonia 10145",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7172561441",
+   "doi": null,
+   "title": "Assessing the impact of using EdTech on children's learning: a scoping review of meta-analyses",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "pmh:oai:researchonline.lse.ac.uk:140402",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://orcid.org/0000-0003-4733-6487>,",
+    "pdf_url": "https://researchonline.lse.ac.uk/id/eprint/140402/1/Pothong_et_al_2026_Assessing_the_Impact_of_Ed_Kim_Ringmar_Sylwande_1.pdf",
+    "source": {
+     "id": "https://openalex.org/S4306401593",
+     "display_name": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I909854389",
+     "host_organization_name": "London School of Economics and Political Science",
+     "host_organization_lineage": [
+      "https://openalex.org/I909854389"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Report"
+   },
+   "cited_by_count": 0,
+   "type": "report",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5022940978",
+      "display_name": "Kruakae Pothong",
+      "orcid": "https://orcid.org/0000-0002-1735-7941",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1735-7941"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Pothong, Kruakae",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5024072753",
+      "display_name": "Kim Ringmar Sylwander",
+      "orcid": "https://orcid.org/0000-0003-4733-6487",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4733-6487"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Ringmar Sylwander, Kim",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5009184539",
+      "display_name": "Sonia Livingstone",
+      "orcid": "https://orcid.org/0000-0002-3248-9862",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3248-9862"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Livingstone, Sonia",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5090191800",
+      "display_name": "Sandra El Gemayel",
+      "orcid": "https://orcid.org/0000-0003-4024-0415",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4024-0415"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "El Gemayel, Sandra",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4229055852",
+   "doi": "https://doi.org/10.55041/ijsrem12828",
+   "title": "STUDY ON STUDENT\u2019S PERCEPTION ON EDTECH",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.55041/ijsrem12828",
+    "doi": "https://doi.org/10.55041/ijsrem12828",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55041/ijsrem12828",
+    "pdf_url": "https://ijsrem.com/download/study-on-students-perception-on-edtech/?wpdmdl=9640&refresh=65048e527604e1694797394",
+    "source": {
+     "id": "https://openalex.org/S4210240841",
+     "display_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+     "issn_l": "2582-3930",
+     "issn": [
+      "2582-3930"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5100675150",
+      "display_name": "Manisha Singh",
+      "orcid": "https://orcid.org/0000-0003-1505-4370",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-1505-4370"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Dr. Manisha Singh",
+     "raw_affiliation_strings": [
+      "BACHELORS OF BUSINESS ADMINISTRATION SCHOOL OF BUSINESS"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "BACHELORS OF BUSINESS ADMINISTRATION SCHOOL OF BUSINESS",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7215351309",
+   "doi": null,
+   "title": "Children's privacy rights and data mining in educational technology applications based on the theory of dignified justice",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "pmh:oai:growingscholar.org/journal:article/463",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://www.growingscholar.org/journal/index.php/TIJOSSW/article/view/463",
+    "pdf_url": "https://www.growingscholar.org/journal/index.php/TIJOSSW/article/download/463/384",
+    "source": {
+     "id": "https://openalex.org/S7407066470",
+     "display_name": "The International Journal of Social Sciences World (TIJOSSW)",
+     "issn_l": "2690-5167",
+     "issn": [
+      "2690-5167"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2690-5167",
+    "raw_type": "info:eu-repo/semantics/article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5074826901",
+      "display_name": "Qurani Dewi Kusumawardani",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Dewi Kusumawardani, Qur\u2019ani",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5101934637",
+      "display_name": "Teguh Prasetyo",
+      "orcid": "https://orcid.org/0000-0002-6393-6442",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6393-6442"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I102669525",
+       "display_name": "Pelita Harapan University",
+       "ror": "https://ror.org/02qhjtc16",
+       "country_code": "ID",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I102669525"
+       ]
+      }
+     ],
+     "countries": [
+      "ID"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Prasetyo, Teguh",
+     "raw_affiliation_strings": [
+      "Universitas Pelita Harapan"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universitas Pelita Harapan",
+       "institution_ids": [
+        "https://openalex.org/I102669525"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5013999127",
+      "display_name": "Tommy Hendra Purwaka",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Hendra Purwaka, Tommy",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4229080553",
+   "doi": "https://doi.org/10.55041/ijsrem12868",
+   "title": "STUDY OF EDTECH BUSINESS",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.55041/ijsrem12868",
+    "doi": "https://doi.org/10.55041/ijsrem12868",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55041/ijsrem12868",
+    "pdf_url": "https://ijsrem.com/download/study-of-edtech-business/?wpdmdl=9644&refresh=650991720f70c1695125874",
+    "source": {
+     "id": "https://openalex.org/S4210240841",
+     "display_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+     "issn_l": "2582-3930",
+     "issn": [
+      "2582-3930"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5005681853",
+      "display_name": "Rashi Mittal",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Dr.Rashi Mittal",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4280643512",
+   "doi": "https://doi.org/10.55041/ijsrem12903",
+   "title": "STUDY OF EDTECH BUSINESS",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.55041/ijsrem12903",
+    "doi": "https://doi.org/10.55041/ijsrem12903",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55041/ijsrem12903",
+    "pdf_url": "https://ijsrem.com/download/study-of-edtech-business-2/?wpdmdl=9653&refresh=6506d33f7260b1694946111",
+    "source": {
+     "id": "https://openalex.org/S4210240841",
+     "display_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+     "issn_l": "2582-3930",
+     "issn": [
+      "2582-3930"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5066309112",
+      "display_name": "Dr.Ravikant Sharma",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Dr.Ravikant Sharma",
+     "raw_affiliation_strings": [
+      "BACHELORS OF BUSINESS ADMINISTRATION SCHOOL OF BUSINESS"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "BACHELORS OF BUSINESS ADMINISTRATION SCHOOL OF BUSINESS",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4388307710",
+   "doi": "https://doi.org/10.54676/kerk1939",
+   "title": "Gender equality and edtech: what are the barriers and enablers to enhance equity in and through edtech?",
+   "publication_year": 2023,
+   "primary_location": {
+    "id": "doi:10.54676/kerk1939",
+    "doi": "https://doi.org/10.54676/kerk1939",
+    "is_oa": false,
+    "landing_page_url": "http://dx.doi.org/10.54676/kerk1939",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": null,
+    "raw_type": "edited-book"
+   },
+   "cited_by_count": 3,
+   "type": "book",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": null,
+      "display_name": "GEM Report UNESCO",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "GEM Report UNESCO",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416890977",
+   "doi": "https://doi.org/10.53637/vywx1667",
+   "title": "Educational Technology (EdTech) in Australian Schools: A Case for Better Practice",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.53637/vywx1667",
+    "doi": "https://doi.org/10.53637/vywx1667",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.53637/vywx1667",
+    "pdf_url": "https://doi.org/10.53637/vywx1667",
+    "source": {
+     "id": "https://openalex.org/S2764971158",
+     "display_name": "University of New South Wales law journal",
+     "issn_l": "0313-0096",
+     "issn": [
+      "0313-0096",
+      "1839-2881"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "abdc-a",
+      "jufo-1",
+      "norway-1",
+      "poland-70",
+      "russia-white-list-2",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4362724839",
+     "host_organization_name": "University of New South Wales",
+     "host_organization_lineage": [
+      "https://openalex.org/P4362724839"
+     ],
+     "host_organization_lineage_names": [
+      "University of New South Wales"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "University of New South Wales Law Journal",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5010010658",
+      "display_name": "Anna Bunn",
+      "orcid": "https://orcid.org/0000-0002-9671-1901",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9671-1901"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Anna Bunn",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415810233",
+   "doi": "https://doi.org/10.5753/ihc.2025.10797",
+   "title": "Ethical Design for Edtech Platforms \u2013 An Analysis of Google Classroom via a Code of Design Practices",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.5753/ihc.2025.10797",
+    "doi": "https://doi.org/10.5753/ihc.2025.10797",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5753/ihc.2025.10797",
+    "pdf_url": "https://sol.sbc.org.br/index.php/ihc/article/download/37676/37458",
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Anais do XXIV Simp\u00f3sio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC 2025)",
+    "raw_type": "proceedings-article"
+   },
+   "cited_by_count": 0,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5051707557",
+      "display_name": "Steffano Xavier Pereira",
+      "orcid": "https://orcid.org/0000-0002-1329-1754",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1329-1754"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I62921916",
+       "display_name": "Universidade Federal Rural de Pernambuco",
+       "ror": "https://ror.org/02ksmb993",
+       "country_code": "BR",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ],
+     "countries": [
+      "BR"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Steffano Pereira",
+     "raw_affiliation_strings": [
+      "Universidade Federal Rural de Pernambuco (UFRPE)"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-1329-1754",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universidade Federal Rural de Pernambuco (UFRPE)",
+       "institution_ids": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5045688721",
+      "display_name": "Maria Eduarda Rebelo",
+      "orcid": "https://orcid.org/0009-0004-2392-3913",
+      "observed_orcids": [
+       "https://orcid.org/0009-0004-2392-3913"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I62921916",
+       "display_name": "Universidade Federal Rural de Pernambuco",
+       "ror": "https://ror.org/02ksmb993",
+       "country_code": "BR",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ],
+     "countries": [
+      "BR"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Maria Eduarda Rebelo",
+     "raw_affiliation_strings": [
+      "Universidade Federal Rural de Pernambuco (UFRPE)"
+     ],
+     "raw_orcid": "https://orcid.org/0009-0004-2392-3913",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universidade Federal Rural de Pernambuco (UFRPE)",
+       "institution_ids": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5067876777",
+      "display_name": "George Valen\u00e7a",
+      "orcid": "https://orcid.org/0000-0001-9375-5354",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9375-5354"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I62921916",
+       "display_name": "Universidade Federal Rural de Pernambuco",
+       "ror": "https://ror.org/02ksmb993",
+       "country_code": "BR",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ],
+     "countries": [
+      "BR"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "George Valen\u00e7a",
+     "raw_affiliation_strings": [
+      "Universidade Federal Rural de Pernambuco (UFRPE)"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-9375-5354",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Universidade Federal Rural de Pernambuco (UFRPE)",
+       "institution_ids": [
+        "https://openalex.org/I62921916"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4318984339",
+   "doi": "https://doi.org/10.53832/opendeved.0285",
+   "title": "Towards Systemic EdTech Testbeds: A Global Perspective",
+   "publication_year": 2023,
+   "primary_location": {
+    "id": "doi:10.53832/opendeved.0285",
+    "doi": "https://doi.org/10.53832/opendeved.0285",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.53832/opendeved.0285",
+    "pdf_url": "https://docs.opendeved.net/lib/KGWBCB4D/download/AVUQ7G3J/Towards%20Systemic%20EdTech%20Testbeds%20-%20A%20Global%20Perspective%20(Vanbecelaere%20and%20colleagues,%20March%202023).pdf",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "GETN",
+    "raw_type": "report"
+   },
+   "cited_by_count": 9,
+   "type": "report",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5055872450",
+      "display_name": "Stefanie Vanbecelaere",
+      "orcid": "https://orcid.org/0000-0002-5495-2192",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5495-2192"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210114974",
+       "display_name": "IMEC",
+       "ror": "https://ror.org/02kcbn207",
+       "country_code": "BE",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I4210114974"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I99464096",
+       "display_name": "KU Leuven",
+       "ror": "https://ror.org/05f950310",
+       "country_code": "BE",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I99464096"
+       ]
+      }
+     ],
+     "countries": [
+      "BE"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Stefanie Vanbecelaere",
+     "raw_affiliation_strings": [
+      "Itec , imec research group at KU Leuven , Belgium",
+      "Itec, imec research group at KU Leuven, Belgium"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Itec , imec research group at KU Leuven , Belgium",
+       "institution_ids": [
+        "https://openalex.org/I4210114974",
+        "https://openalex.org/I99464096"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Itec, imec research group at KU Leuven, Belgium",
+       "institution_ids": [
+        "https://openalex.org/I4210114974",
+        "https://openalex.org/I99464096"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5061093943",
+      "display_name": "Taskeen Adam",
+      "orcid": "https://orcid.org/0000-0003-2467-5726",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2467-5726"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Taskeen Adam",
+     "raw_affiliation_strings": [
+      "Open Development & Education ( UK and Sierra Leone",
+      "Open Development & Education (UK and Sierra Leone)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Open Development & Education ( UK and Sierra Leone",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Open Development & Education (UK and Sierra Leone)",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5069345220",
+      "display_name": "Carmen Sieber",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Carmen Sieber",
+     "raw_affiliation_strings": [
+      "Swiss EdTech Collider , Switzerland",
+      "Swiss EdTech Collider, Switzerland"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Swiss EdTech Collider , Switzerland",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Swiss EdTech Collider, Switzerland",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5006883782",
+      "display_name": "Alison Clark\u2010Wilson",
+      "orcid": "https://orcid.org/0000-0002-6479-4677",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6479-4677"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I45129253",
+       "display_name": "University College London",
+       "ror": "https://ror.org/02jx3x895",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I124357947",
+        "https://openalex.org/I45129253"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Alison Clark-Wilson",
+     "raw_affiliation_strings": [
+      "UCL IOE Faculty of Education and Society , University College London , UK",
+      "UCL IOE Faculty of Education and Society, University College London, UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UCL IOE Faculty of Education and Society , University College London , UK",
+       "institution_ids": [
+        "https://openalex.org/I45129253"
+       ]
+      },
+      {
+       "raw_affiliation_string": "UCL IOE Faculty of Education and Society, University College London, UK",
+       "institution_ids": [
+        "https://openalex.org/I45129253"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5022267124",
+      "display_name": "Katie Boody Adorno",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Katie Boody Adorno",
+     "raw_affiliation_strings": [
+      "Leanlab Education , USA",
+      "Leanlab Education, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Leanlab Education , USA",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Leanlab Education, USA",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5089029118",
+      "display_name": "Bj\u00f6rn Ha\u00dfler",
+      "orcid": "https://orcid.org/0000-0002-5277-9947",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5277-9947"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Bj\u00f6rn Ha\u00dfler",
+     "raw_affiliation_strings": [
+      "Open Development & Education ( UK and Sierra Leone",
+      "Open Development & Education (UK and Sierra Leone)"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5277-9947",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Open Development & Education ( UK and Sierra Leone",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Open Development & Education (UK and Sierra Leone)",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": null,
+      "display_name": "Open Development & Education",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Open Development & Education",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204738305",
+   "doi": null,
+   "title": "Artificial intelligence and children's rights: a narrative review of the evidence",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "pmh:oai:researchonline.lse.ac.uk:140815",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://orcid.org/0000-0002-3248-9862>",
+    "pdf_url": "https://researchonline.lse.ac.uk/id/eprint/140815/1/2026_Artificial_intelligence_and_childrens_rights_Jayadeva_Livingstone.pdf",
+    "source": {
+     "id": "https://openalex.org/S4306401593",
+     "display_name": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I909854389",
+     "host_organization_name": "London School of Economics and Political Science",
+     "host_organization_lineage": [
+      "https://openalex.org/I909854389"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Report"
+   },
+   "cited_by_count": 0,
+   "type": "review",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5034621007",
+      "display_name": "Smera Jayadeva",
+      "orcid": "https://orcid.org/0000-0002-2050-9731",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2050-9731"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Jayadeva, Smera",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5009184539",
+      "display_name": "Sonia Livingstone",
+      "orcid": "https://orcid.org/0000-0002-3248-9862",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3248-9862"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Livingstone, Sonia",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W3151885121",
+   "doi": null,
+   "title": "The EdTech Trojan Horse : A Critical Narrative of the Emergency Pivot to Online Learning",
+   "publication_year": 2020,
+   "primary_location": {
+    "id": "pmh:oai:www.theseus.fi:10024/355737",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://www.theseus.fi/handle/10024/355737",
+    "pdf_url": "http://www.theseus.fi/handle/10024/355737",
+    "source": {
+     "id": "https://openalex.org/S4306400928",
+     "display_name": "Theseus (Ammattikorkeakoulujen)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "31722",
+    "raw_type": "fi=A1 Alkuper\u00e4isartikkeli tieteellisess\u00e4 aikakauslehdess\u00e4|sv=A1 Originalartikel i en vetenskaplig tidskrift|en=A1 Journal article (refereed), original research|"
+   },
+   "cited_by_count": 1,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5031870647",
+      "display_name": "Nathalie Lossec",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Nathalie Lossec",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059788379",
+      "display_name": "Nicholas Millar",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Nicholas Millar",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5080148488",
+      "display_name": "Mark Curcher",
+      "orcid": "https://orcid.org/0000-0001-8559-3922",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8559-3922"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Mark Curcher",
+     "raw_affiliation_strings": [],
+     "raw_orcid": "https://orcid.org/0000-0001-8559-3922",
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5051972357",
+      "display_name": "Marko Ter\u00e4s",
+      "orcid": "https://orcid.org/0000-0002-6888-969X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6888-969X"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Marko Ter\u00e4s",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7172301163",
+   "doi": "https://doi.org/10.24108/preprints-3115952",
+   "title": "Beyond the AI Panic: A Blueprint for Evidence Based EdTech Policy",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.24108/preprints-3115952",
+    "doi": "https://doi.org/10.24108/preprints-3115952",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.24108/preprints-3115952",
+    "pdf_url": "https://preprints.ru/files/5086",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+   },
+   "cited_by_count": 0,
+   "type": "preprint",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5116490232",
+      "display_name": "Sayed Mahbub Hasan Amiri",
+      "orcid": "https://orcid.org/0000-0003-2349-2143",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2349-2143",
+       "https://orcid.org/0009-0001-2096-139X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4405259279",
+       "display_name": "Dhaka Residential Model College",
+       "ror": "https://ror.org/020n56g04",
+       "country_code": "BD",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4405259279"
+       ]
+      }
+     ],
+     "countries": [
+      "BD"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "SayedMahbubHasan Amiri",
+     "raw_affiliation_strings": [
+      "Dhaka Residential Model College"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-2349-2143",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Dhaka Residential Model College",
+       "institution_ids": [
+        "https://openalex.org/I4405259279"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

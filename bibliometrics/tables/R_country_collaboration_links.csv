@@ -1,0 +1,125 @@
+"V1","V2","w"
+"Australia","Brazil",1
+"Australia","Canada",1
+"Australia","China",1
+"Australia","Germany",1
+"Australia","India",1
+"Australia","Singapore",1
+"Australia","South Korea",1
+"Australia","Sweden",1
+"Australia","UK",1
+"Australia","USA",1
+"Austria","Germany",1
+"Austria","Netherlands",1
+"Belgium","Greece",1
+"Belgium","Italy",2
+"Belgium","Lithuania",1
+"Belgium","Netherlands",1
+"Belgium","UK",1
+"Brazil","France",1
+"Brazil","Germany",1
+"Brazil","India",2
+"Canada","China",1
+"Canada","Germany",1
+"Canada","India",1
+"Canada","Pakistan",1
+"Canada","Spain",2
+"Canada","USA",8
+"Cayman Islands","China",1
+"Cayman Islands","USA",1
+"China","Malaysia",2
+"China","New Zealand",1
+"China","Peru",1
+"China","Singapore",1
+"China","South Korea",2
+"China","Thailand",1
+"China","UK",3
+"China","USA",3
+"Costa Rica","Spain",1
+"Ecuador","Spain",2
+"Egypt","Iraq",1
+"Egypt","Jordan",1
+"Finland","Spain",1
+"France","Italy",1
+"France","Luxembourg",1
+"France","Singapore",1
+"France","UK",1
+"France","USA",2
+"Germany","Netherlands",2
+"Germany","USA",8
+"Ghana","South Africa",1
+"Greece","Italy",1
+"Greece","Netherlands",1
+"Greece","UK",1
+"Hungary","Slovenia",1
+"India","Indonesia",1
+"India","Peru",2
+"India","Romania",1
+"India","Saudi Arabia",1
+"India","Sri Lanka",1
+"India","UK",3
+"India","USA",3
+"India","United Arab Emirates",3
+"Indonesia","Netherlands",1
+"Indonesia","Thailand",1
+"Iran","Malaysia",2
+"Iraq","Jordan",1
+"Ireland","USA",1
+"Israel","New Zealand",1
+"Israel","USA",2
+"Italy","Luxembourg",1
+"Italy","Netherlands",3
+"Italy","Poland",2
+"Italy","USA",1
+"Japan","USA",1
+"Malaysia","Nigeria",1
+"Malaysia","Peru",1
+"Malaysia","Saudi Arabia",1
+"Malaysia","South Korea",1
+"Malaysia","Sweden",1
+"Malaysia","Taiwan",1
+"Malaysia","Turkey",1
+"Malaysia","UK",1
+"Malaysia","USA",1
+"Malaysia","Vietnam",1
+"Netherlands","Norway",1
+"Netherlands","Switzerland",2
+"Netherlands","USA",1
+"New Zealand","Spain",1
+"New Zealand","Thailand",1
+"New Zealand","USA",1
+"Nigeria","USA",1
+"Norway","South Africa",5
+"Norway","Switzerland",1
+"Norway","UK",2
+"Pakistan","USA",4
+"Peru","Saudi Arabia",1
+"Peru","South Korea",1
+"Poland","USA",1
+"Qatar","Spain",1
+"Qatar","USA",1
+"Rwanda","USA",1
+"Saudi Arabia","USA",1
+"Singapore","South Korea",1
+"Singapore","UK",1
+"Singapore","USA",1
+"South Africa","Spain",1
+"South Africa","UK",3
+"South Korea","USA",1
+"Spain","Switzerland",1
+"Spain","USA",5
+"Sweden","Taiwan",1
+"Sweden","Turkey",1
+"Sweden","UK",1
+"Sweden","USA",1
+"Sweden","Vietnam",1
+"Switzerland","UK",1
+"Switzerland","USA",2
+"Taiwan","Turkey",1
+"Taiwan","USA",1
+"Taiwan","Vietnam",1
+"Turkey","USA",1
+"Turkey","Vietnam",1
+"UK","USA",2
+"USA","Vietnam",1
+"United Arab Emirates","USA",1

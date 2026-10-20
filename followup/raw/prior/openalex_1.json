@@ -1,0 +1,1278 @@
+{
+ "q": "DPDP Act children data schools",
+ "status": 200,
+ "res": [
+  {
+   "id": "https://openalex.org/W7164816146",
+   "doi": "https://doi.org/10.55041/ijsmt.v2i6.130",
+   "title": "\u201cLegal Protection of Children\u2019s Data in the Digital Age: An Analysis of the DPDP Act, 2023\u201d",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.55041/ijsmt.v2i6.130",
+    "doi": "https://doi.org/10.55041/ijsmt.v2i6.130",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55041/ijsmt.v2i6.130",
+    "pdf_url": "https://ijsmt.org/wp-content/uploads/2026/06/Legal-Protection-of-Childrens-Data-in-the-Digital-Age-An-Analysis-of-the-DPDP-Act-2023.pdf",
+    "source": {
+     "id": "https://openalex.org/S7407053991",
+     "display_name": "International Journal of Science Strategic Management and Technology",
+     "issn_l": "3108-1762",
+     "issn": [
+      "3108-1762"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Science, Strategic Management and Technology",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5136276156",
+      "display_name": "Adv. Jyoti Sawant",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I887998513",
+       "display_name": "Bharati Vidyapeeth (Deemed to be University)",
+       "ror": "https://ror.org/0052mmx10",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I887998513"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Adv. Jyoti Sawant LL.M. Adv. Jyoti Sawant LL.M.",
+     "raw_affiliation_strings": [
+      "Bharati Vidyapeeth (Deemed to Be University) New Law College, Pune"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Bharati Vidyapeeth (Deemed to Be University) New Law College, Pune",
+       "institution_ids": [
+        "https://openalex.org/I887998513"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7213977059",
+   "doi": "https://doi.org/10.55041/ijcope.v2i9.166",
+   "title": "The Evolving Jurisprudence of Data Protection and Privacy in India: A Critical Analysis of the Digital Personal Data Protection Act, 2023",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.55041/ijcope.v2i9.166",
+    "doi": "https://doi.org/10.55041/ijcope.v2i9.166",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55041/ijcope.v2i9.166",
+    "pdf_url": "https://ijcope.org/wp-content/uploads/2026/09/The-Evolving-Jurisprudence-of-Data-Protection-and-Privacy-in-India-A-Critical-Analysis-of-the-Digital-Personal-Data-Protection-Act-2023.pdf",
+    "source": {
+     "id": "https://openalex.org/S7407055479",
+     "display_name": "International Journal of Creative and Open Research in Engineering and Management",
+     "issn_l": "3108-1754",
+     "issn": [
+      "3108-1754"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Creative and Open Research in Engineering and Management",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5152430635",
+      "display_name": "Satish Kumar Dodiya",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I70936203",
+       "display_name": "Aurora University",
+       "ror": "https://ror.org/027487t94",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I70936203"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Satish Kumar Dodiya",
+     "raw_affiliation_strings": [
+      "Aurora University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Aurora University",
+       "institution_ids": [
+        "https://openalex.org/I70936203"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4392393011",
+   "doi": "https://doi.org/10.14429/djlit.44.1.18410",
+   "title": "Reviewing the Privacy Implications of Indias Digital Personal Data Protection Act (2023) from Library Contexts",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.14429/djlit.44.1.18410",
+    "doi": "https://doi.org/10.14429/djlit.44.1.18410",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.14429/djlit.44.1.18410",
+    "pdf_url": "https://publications.drdo.gov.in/ojs/index.php/djlit/article/download/18410/8245",
+    "source": {
+     "id": "https://openalex.org/S2764964732",
+     "display_name": "DESIDOC Journal of Library & Information Technology",
+     "issn_l": "0974-0643",
+     "issn": [
+      "0974-0643",
+      "0976-4658"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "poland-40",
+      "russia-white-list-2"
+     ],
+     "host_organization": "https://openalex.org/P4383695979",
+     "host_organization_name": "Defence Scientific Information & Documentation Centre",
+     "host_organization_lineage": [
+      "https://openalex.org/P4383695979"
+     ],
+     "host_organization_lineage_names": [
+      "Defence Scientific Information & Documentation Centre"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "DESIDOC Journal of Library &amp; Information Technology",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 6,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5074738341",
+      "display_name": "Chanlang Ki Bareh",
+      "orcid": "https://orcid.org/0000-0003-3244-5517",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3244-5517"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I197465736",
+       "display_name": "North Eastern Hill University",
+       "ror": "https://ror.org/055m2tx54",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I197465736"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Chanlang Ki Bareh",
+     "raw_affiliation_strings": [
+      "Department of Library and Information Science, North-Eastern Hill University, Shillong - 793 022, India"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-3244-5517",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Library and Information Science, North-Eastern Hill University, Shillong - 793 022, India",
+       "institution_ids": [
+        "https://openalex.org/I197465736"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204988086",
+   "doi": "https://doi.org/10.2139/ssrn.7379418",
+   "title": "Data Protection and Children: How Effective Are Minor-Specific Data Rules Against Modern Social Media Tracking? A Comparative Study of the United Kingdom, India, and the United States",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.2139/ssrn.7379418",
+    "doi": "https://doi.org/10.2139/ssrn.7379418",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.7379418",
+    "pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7379418.pdf?abstractid=7379418&mirid=1",
+    "source": {
+     "id": "https://openalex.org/S4210172589",
+     "display_name": "SSRN Electronic Journal",
+     "issn_l": "1556-5068",
+     "issn": [
+      "1556-5068"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I1318003438",
+     "host_organization_name": "RELX Group (Netherlands)",
+     "host_organization_lineage": [
+      "https://openalex.org/I1318003438"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+   },
+   "cited_by_count": 0,
+   "type": "preprint",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5149062245",
+      "display_name": "Diah Vishwanathan",
+      "orcid": "https://orcid.org/0009-0008-9673-9155",
+      "observed_orcids": [
+       "https://orcid.org/0009-0008-9673-9155"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Diah Vishwanathan",
+     "raw_affiliation_strings": [
+      "Mayo College, Ajmer, India"
+     ],
+     "raw_orcid": "https://orcid.org/0009-0008-9673-9155",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Mayo College, Ajmer, India",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7203789571",
+   "doi": "https://doi.org/10.25258/ijddt.16.76s.196",
+   "title": "Data Privacy and Confidentiality in Mental Healthcare in India: An Integrated Governance Framework under the Mental Healthcare Act, 2017 and the Digital Personal Data Protection Act, 2023",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.25258/ijddt.16.76s.196",
+    "doi": "https://doi.org/10.25258/ijddt.16.76s.196",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.25258/ijddt.16.76s.196",
+    "pdf_url": "https://doi.org/10.25258/ijddt.16.76s.196",
+    "source": {
+     "id": "https://openalex.org/S4210211336",
+     "display_name": "International Journal of Drug Delivery Technology",
+     "issn_l": "0975-4415",
+     "issn": [
+      "0975-4415"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "poland-20",
+      "russia-white-list-4"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Drug Delivery Technology",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5147648120",
+      "display_name": "Sharma S",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Sharma S",
+     "raw_affiliation_strings": [
+      "Ph.D. Scholar, School of Law, Sushant University, Gurugram, Haryana, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Ph.D. Scholar, School of Law, Sushant University, Gurugram, Haryana, India",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5147631892",
+      "display_name": "Vashishth A",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Vashishth A",
+     "raw_affiliation_strings": [
+      "Associate Professor, School of Law, Sushant University, Gurugram, Haryana, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Associate Professor, School of Law, Sushant University, Gurugram, Haryana, India",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4411762896",
+   "doi": "https://doi.org/10.70183/lijdlr.2025.v03.61",
+   "title": "CONSENT MECHANISMS UNDER THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023: A COMPARATIVE LEGAL ANALYSIS WITH GDPR AND CCPA/CPRA",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.70183/lijdlr.2025.v03.61",
+    "doi": "https://doi.org/10.70183/lijdlr.2025.v03.61",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.70183/lijdlr.2025.v03.61",
+    "pdf_url": "https://lijdlr.com/wp-content/uploads/2025/06/LIJDLR_PAPER-23-Vol-III-Issue-II.pdf",
+    "source": {
+     "id": "https://openalex.org/S4404663176",
+     "display_name": "LawFoyer International Journal of Doctrinal Legal Research.",
+     "issn_l": "2583-7753",
+     "issn": [
+      "2583-7753"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "LawFoyer International Journal of Doctrinal Legal Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 2,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5118682532",
+      "display_name": "Vedant Raj Chaurasiya",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Vedant Raj Chaurasiya",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7221354328",
+   "doi": "https://doi.org/10.34218/ijsapes_02_02_003",
+   "title": "HUMAN-CENTRED ARTIFICIAL INTELLIGENCE IN INDIAN SPORT AND PHYSICAL EDUCATION: A FIVE-LAYER FRAMEWORK FOR TALENT, TRAINING AND GOVERNANCE TOWARDS 2036",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.34218/ijsapes_02_02_003",
+    "doi": "https://doi.org/10.34218/ijsapes_02_02_003",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.34218/ijsapes_02_02_003",
+    "pdf_url": "https://doi.org/10.34218/ijsapes_02_02_003",
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "INTERNATIONAL JOURNAL OF SPORTS AND PHYSICAL EDUCATION STUDIES",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5056346707",
+      "display_name": "Tushar Dhar Shukla",
+      "orcid": "https://orcid.org/0000-0002-2899-5383",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2899-5383"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I101407740",
+       "display_name": "Chandigarh University",
+       "ror": "https://ror.org/05t4pvx35",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I101407740"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Tushar Dhar Shukla",
+     "raw_affiliation_strings": [
+      "Centre of Physical Education & Sports Sciences Chandigarh University , Gharuan , Mohali , Punjab - 140413 , India",
+      "Chennai , India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Centre of Physical Education & Sports Sciences Chandigarh University , Gharuan , Mohali , Punjab - 140413 , India",
+       "institution_ids": [
+        "https://openalex.org/I101407740"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Chennai , India",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416819436",
+   "doi": "https://doi.org/10.55248/gengpi.06.1125.38172",
+   "title": "Legal Framework Against Cyber Bullying In India: A Comparative Study With Usa",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.55248/gengpi.06.1125.38172",
+    "doi": "https://doi.org/10.55248/gengpi.06.1125.38172",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55248/gengpi.06.1125.38172",
+    "pdf_url": "https://doi.org/10.55248/gengpi.06.1125.38172",
+    "source": {
+     "id": "https://openalex.org/S4220651630",
+     "display_name": "International Journal of Research Publication and Reviews",
+     "issn_l": "2582-7421",
+     "issn": [
+      "2582-7421"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Research Publication and Reviews",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": null,
+      "display_name": "Harshit Harshit",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I101407740",
+       "display_name": "Chandigarh University",
+       "ror": "https://ror.org/05t4pvx35",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I101407740"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Harshit Harshit",
+     "raw_affiliation_strings": [
+      "Master of Laws) , University Institute of Legal Studies , Chandigarh University , Mohali , Punjab , India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Master of Laws) , University Institute of Legal Studies , Chandigarh University , Mohali , Punjab , India",
+       "institution_ids": [
+        "https://openalex.org/I101407740"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7202086824",
+   "doi": "https://doi.org/10.52783/ijept.847",
+   "title": "Protecting Children from Online Harm in India: A Consumer Protection and Cyber Law View",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.52783/ijept.847",
+    "doi": "https://doi.org/10.52783/ijept.847",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.52783/ijept.847",
+    "pdf_url": "https://ijapt.org/index.php/journal/article/download/847/677",
+    "source": {
+     "id": "https://openalex.org/S2764500891",
+     "display_name": "International Journal of Economic Practices and Theories",
+     "issn_l": "2247-7225",
+     "issn": [
+      "2247-7225"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "abdc-c",
+      "anvur-scientific",
+      "cwts-core"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Economic Practices and Theories",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5146747022",
+      "display_name": "Shreya",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I67357951",
+       "display_name": "KIIT University",
+       "ror": "https://ror.org/00k8zt527",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I67357951"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Shreya",
+     "raw_affiliation_strings": [
+      "Ph.D. Research Scholar KIIT School of Law, KIIT Deemed to be University Bhubaneswar, Odisha, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Ph.D. Research Scholar KIIT School of Law, KIIT Deemed to be University Bhubaneswar, Odisha, India",
+       "institution_ids": [
+        "https://openalex.org/I67357951"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5101792235",
+      "display_name": "Shreya Chatterjee",
+      "orcid": "https://orcid.org/0009-0003-6683-5000",
+      "observed_orcids": [
+       "https://orcid.org/0009-0003-6683-5000"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I67357951",
+       "display_name": "KIIT University",
+       "ror": "https://ror.org/00k8zt527",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I67357951"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Shreya Chatterjee",
+     "raw_affiliation_strings": [
+      "Associate Professor and Associate Dean (Doctoral Program) KIIT School of Law, KIIT Deemed to be University Bhubaneswar, Odisha, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Associate Professor and Associate Dean (Doctoral Program) KIIT School of Law, KIIT Deemed to be University Bhubaneswar, Odisha, India",
+       "institution_ids": [
+        "https://openalex.org/I67357951"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7172100576",
+   "doi": "https://doi.org/10.5281/zenodo.21735163",
+   "title": "Evaluating India's Digital Personal Data Protection Act, 2023: Privacy Rights, State Surveillance and Regulatory Challenges",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.5281/zenodo.21735163",
+    "doi": "https://doi.org/10.5281/zenodo.21735163",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.21735163",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4306400562",
+     "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I67311998",
+     "host_organization_name": "European Organization for Nuclear Research",
+     "host_organization_lineage": [
+      "https://openalex.org/I67311998"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "JournalArticle"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5144211458",
+      "display_name": "Poulomi Banerjee & Dr. Srijan Mishra",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I191972202",
+       "display_name": "Amity University",
+       "ror": "https://ror.org/02n9z0v62",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I191972202"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210126505",
+       "display_name": "Amity University",
+       "ror": "https://ror.org/02exxtn84",
+       "country_code": "AE",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I191972202",
+        "https://openalex.org/I4210126505"
+       ]
+      }
+     ],
+     "countries": [
+      "AE",
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Poulomi Banerjee & Dr. Srijan Mishra",
+     "raw_affiliation_strings": [
+      "Law Student, B.A.LL.B. (Hons.), Amity Law School, Amity University, Lucknow"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Law Student, B.A.LL.B. (Hons.), Amity Law School, Amity University, Lucknow",
+       "institution_ids": [
+        "https://openalex.org/I191972202",
+        "https://openalex.org/I4210126505"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7164179261",
+   "doi": "https://doi.org/10.5281/zenodo.20606025",
+   "title": "DIKSHA as AI-Enabled Digital Public Infrastructure: Transforming Secondary Pedagogy in India",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.5281/zenodo.20606025",
+    "doi": "https://doi.org/10.5281/zenodo.20606025",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5281/zenodo.20606025",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4306400562",
+     "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I67311998",
+     "host_organization_name": "European Organization for Nuclear Research",
+     "host_organization_lineage": [
+      "https://openalex.org/I67311998"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "JournalArticle"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5138370249",
+      "display_name": "Dr. Md. Mousuf Raza",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I3133391162",
+       "display_name": "Maulana Azad National Urdu University",
+       "ror": "https://ror.org/020an1644",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I3133391162"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Dr. Md. Mousuf Raza",
+     "raw_affiliation_strings": [
+      "Assistant Professor, College of Teacher Education, Darbhanga, Bihar, under the School of Education and Training, Maulana Azad National Urdu University (A central University), Hyderabad, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Assistant Professor, College of Teacher Education, Darbhanga, Bihar, under the School of Education and Training, Maulana Azad National Urdu University (A central University), Hyderabad, India",
+       "institution_ids": [
+        "https://openalex.org/I3133391162"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4415093765",
+   "doi": "https://doi.org/10.63363/aijfr.2025.v06i05.1462",
+   "title": "Right to Privacy of women and children in cyberspace: Legal Frameworks and challenges for protection against cybercrime and surveillance",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.63363/aijfr.2025.v06i05.1462",
+    "doi": "https://doi.org/10.63363/aijfr.2025.v06i05.1462",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.63363/aijfr.2025.v06i05.1462",
+    "pdf_url": "https://aijfr.com/papers/2025/5/1462.pdf",
+    "source": {
+     "id": "https://openalex.org/S5407051178",
+     "display_name": "Advanced International Journal for Research",
+     "issn_l": "3048-7641",
+     "issn": [
+      "3048-7641"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Advanced International Journal for Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5119961425",
+      "display_name": "Dev Kaur",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Dev Kaur",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5108321912",
+      "display_name": "Amar Nath",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I147727580",
+       "display_name": "Dr. Bhimrao Ambedkar University",
+       "ror": "https://ror.org/00k4ab982",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I147727580"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Amar Nath",
+     "raw_affiliation_strings": [
+      "Ambedkar University , Agra ( UP )",
+      "Associate Professor, Faculty of Law , Agra college , Agra ,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Ambedkar University , Agra ( UP )",
+       "institution_ids": [
+        "https://openalex.org/I147727580"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Associate Professor, Faculty of Law , Agra college , Agra ,",
+       "institution_ids": [
+        "https://openalex.org/I147727580"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4416409749",
+   "doi": "https://doi.org/10.36948/ijfmr.2025.v07i06.61181",
+   "title": "Doctrinal Research on Privacy and Data Protection in Cyberspace \u2013 a Critical Analysis of Data Protection Laws\u201d",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.36948/ijfmr.2025.v07i06.61181",
+    "doi": "https://doi.org/10.36948/ijfmr.2025.v07i06.61181",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.36948/ijfmr.2025.v07i06.61181",
+    "pdf_url": "https://www.ijfmr.com/papers/2025/6/61181.pdf",
+    "source": {
+     "id": "https://openalex.org/S4210207214",
+     "display_name": "International Journal For Multidisciplinary Research",
+     "issn_l": "2582-2160",
+     "issn": [
+      "2582-2160"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal For Multidisciplinary Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": null,
+      "display_name": "Helan P",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2800591429",
+       "display_name": "Tamil Nadu Dr. Ambedkar Law University",
+       "ror": "https://ror.org/011x6fh62",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I2800591429"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Helan P",
+     "raw_affiliation_strings": [
+      "The Tamil Nadu Dr . Ambedkar Law University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "The Tamil Nadu Dr . Ambedkar Law University",
+       "institution_ids": [
+        "https://openalex.org/I2800591429"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7119489946",
+   "doi": "https://doi.org/10.22271/civillaw.2026.v6.i1a.180",
+   "title": "Privacy in the digital age: A comparative study of India\u2019s legal gaps and U.S. data protection frameworks",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.22271/civillaw.2026.v6.i1a.180",
+    "doi": "https://doi.org/10.22271/civillaw.2026.v6.i1a.180",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.22271/civillaw.2026.v6.i1a.180",
+    "pdf_url": "https://www.civillawjournal.com/article/180/6-1-2-494.pdf",
+    "source": {
+     "id": "https://openalex.org/S4220650968",
+     "display_name": "International Journal of Civil Law and Legal Research",
+     "issn_l": "2789-8822",
+     "issn": [
+      "2789-8822",
+      "2789-8830"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Civil Law and Legal Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5095641019",
+      "display_name": "Sunil Sudhakar Varnekar",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Sunil Sudhakar Varnekar",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5008696030",
+      "display_name": "Upankar Chutia",
+      "orcid": "https://orcid.org/0000-0001-9065-3854",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9065-3854"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I144614875",
+       "display_name": "Alliance University",
+       "ror": "https://ror.org/03f4gsr42",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I144614875"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Upankar Chutia",
+     "raw_affiliation_strings": [
+      "Department of Law , Alliance School of Law , Alliance University , Bangalore , Karnataka , India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Law , Alliance School of Law , Alliance University , Bangalore , Karnataka , India",
+       "institution_ids": [
+        "https://openalex.org/I144614875"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7204491685",
+   "doi": "https://doi.org/10.29070/85fs7218",
+   "title": "Law, technology and child protection: A contemporary analysis of ai in cases of children in conflict with law",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.29070/85fs7218",
+    "doi": "https://doi.org/10.29070/85fs7218",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.29070/85fs7218",
+    "pdf_url": "https://ignited.in/index.php/jasrae/article/download/16740/32617",
+    "source": {
+     "id": "https://openalex.org/S4210210275",
+     "display_name": "Journal of Advances and Scholarly Researches in Allied Education",
+     "issn_l": "2230-7540",
+     "issn": [
+      "2230-7540"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Advances and Scholarly Researches in Allied Education",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5148463879",
+      "display_name": "Desh Bandhu",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Desh Bandhu",
+     "raw_affiliation_strings": [
+      "Research Scholar, Faculty of Law, Maharishi Arvind University, Jaipur, Rajasthan"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Research Scholar, Faculty of Law, Maharishi Arvind University, Jaipur, Rajasthan",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5148419098",
+      "display_name": "Arvind Rathore",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Arvind Rathore",
+     "raw_affiliation_strings": [
+      "Supervisor, Faculty of Law, Maharishi Arvind University, Jaipur, Rajasthan"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Supervisor, Faculty of Law, Maharishi Arvind University, Jaipur, Rajasthan",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

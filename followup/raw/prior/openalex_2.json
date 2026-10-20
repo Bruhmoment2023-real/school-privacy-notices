@@ -1,0 +1,2858 @@
+{
+ "q": "privacy policy content analysis educational technology children",
+ "status": 200,
+ "res": [
+  {
+   "id": "https://openalex.org/W2750283851",
+   "doi": "https://doi.org/10.4148/0146-9282.1318",
+   "title": "Privacy, Information Technology, and the Educational Process",
+   "publication_year": 1999,
+   "primary_location": {
+    "id": "doi:10.4148/0146-9282.1318",
+    "doi": "https://doi.org/10.4148/0146-9282.1318",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4148/0146-9282.1318",
+    "pdf_url": "https://newprairiepress.org/cgi/viewcontent.cgi?article=1318&context=edconsiderations",
+    "source": {
+     "id": "https://openalex.org/S2764619793",
+     "display_name": "Educational Considerations",
+     "issn_l": "0146-9282",
+     "issn": [
+      "0146-9282",
+      "2573-7686"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj"
+     ],
+     "host_organization": "https://openalex.org/P4310315855",
+     "host_organization_name": "New Prairie Press",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315855"
+     ],
+     "host_organization_lineage_names": [
+      "New Prairie Press"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Considerations",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 1,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5088399036",
+      "display_name": "Tweed W. Ross",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I189590672",
+       "display_name": "Kansas State University",
+       "ror": "https://ror.org/05p1j8758",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I189590672"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Tweed W. Ross",
+     "raw_affiliation_strings": [
+      "Kansas State University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Kansas State University",
+       "institution_ids": [
+        "https://openalex.org/I189590672"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W3215020157",
+   "doi": "https://doi.org/10.9781/ijimai.2021.11.006",
+   "title": "Local Technology to Enhance Data Privacy and Security in Educational Technology.",
+   "publication_year": 2021,
+   "primary_location": {
+    "id": "doi:10.9781/ijimai.2021.11.006",
+    "doi": "https://doi.org/10.9781/ijimai.2021.11.006",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.9781/ijimai.2021.11.006",
+    "pdf_url": "https://doi.org/10.9781/ijimai.2021.11.006",
+    "source": {
+     "id": "https://openalex.org/S2738898797",
+     "display_name": "International Journal of Interactive Multimedia and Artificial Intelligence",
+     "issn_l": "1989-1660",
+     "issn": [
+      "1989-1660"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-c",
+      "fecyt-seal",
+      "latindex",
+      "norway-1",
+      "poland-20",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310321767",
+     "host_organization_name": "International University of La Rioja",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310321767"
+     ],
+     "host_organization_lineage_names": [
+      "International University of La Rioja"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Interactive Multimedia and Artificial Intelligence",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 39,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5028262556",
+      "display_name": "Daniel Amo",
+      "orcid": "https://orcid.org/0000-0002-4929-0438",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4929-0438"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I5593406",
+       "display_name": "Universitat Ramon Llull",
+       "ror": "https://ror.org/04p9k2z50",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Daniel Amo",
+     "raw_affiliation_strings": [
+      "La Salle , Ramon Llull University , Barcelona ( Spain)",
+      "La Salle, Ramon Llull University, Barcelona (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "La Salle , Ramon Llull University , Barcelona ( Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      },
+      {
+       "raw_affiliation_string": "La Salle, Ramon Llull University, Barcelona (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5088400879",
+      "display_name": "Paul Prinsloo",
+      "orcid": "https://orcid.org/0000-0002-1838-540X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1838-540X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I165390105",
+       "display_name": "University of South Africa",
+       "ror": "https://ror.org/048cwvf49",
+       "country_code": "ZA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I165390105"
+       ]
+      }
+     ],
+     "countries": [
+      "ZA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Paul Prinsloo",
+     "raw_affiliation_strings": [
+      "University of South Africa , Pretoria ( South Africa)",
+      "University of South Africa, Pretoria (South Africa)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of South Africa , Pretoria ( South Africa)",
+       "institution_ids": [
+        "https://openalex.org/I165390105"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of South Africa, Pretoria (South Africa)",
+       "institution_ids": [
+        "https://openalex.org/I165390105"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5027613326",
+      "display_name": "Marc Alier",
+      "orcid": "https://orcid.org/0000-0003-3922-1516",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3922-1516"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I9617848",
+       "display_name": "Universitat Polit\u00e8cnica de Catalunya",
+       "ror": "https://ror.org/03mb6wj31",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I9617848"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Marc Alier",
+     "raw_affiliation_strings": [
+      "Polytechnical University of Catalonia , Barcelona ( Spain)",
+      "Polytechnical University of Catalonia, Barcelona (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Polytechnical University of Catalonia , Barcelona ( Spain)",
+       "institution_ids": [
+        "https://openalex.org/I9617848"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Polytechnical University of Catalonia, Barcelona (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I9617848"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5085743355",
+      "display_name": "David Fonseca",
+      "orcid": "https://orcid.org/0000-0001-9471-153X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9471-153X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I5593406",
+       "display_name": "Universitat Ramon Llull",
+       "ror": "https://ror.org/04p9k2z50",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "David Fonseca",
+     "raw_affiliation_strings": [
+      "La Salle , Ramon Llull University , Barcelona ( Spain)",
+      "La Salle, Ramon Llull University, Barcelona (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "La Salle , Ramon Llull University , Barcelona ( Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      },
+      {
+       "raw_affiliation_string": "La Salle, Ramon Llull University, Barcelona (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5049946458",
+      "display_name": "Ricardo Torres Kompen",
+      "orcid": "https://orcid.org/0000-0001-8533-5309",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8533-5309"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I5593406",
+       "display_name": "Universitat Ramon Llull",
+       "ror": "https://ror.org/04p9k2z50",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ricardo Torres Kompen",
+     "raw_affiliation_strings": [
+      "La Salle , Ramon Llull University , Barcelona ( Spain)",
+      "La Salle, Ramon Llull University, Barcelona (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "La Salle , Ramon Llull University , Barcelona ( Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      },
+      {
+       "raw_affiliation_string": "La Salle, Ramon Llull University, Barcelona (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5010863965",
+      "display_name": "Xavi Canaleta",
+      "orcid": "https://orcid.org/0000-0002-9412-8827",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9412-8827"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I5593406",
+       "display_name": "Universitat Ramon Llull",
+       "ror": "https://ror.org/04p9k2z50",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Xavier Canaleta",
+     "raw_affiliation_strings": [
+      "La Salle , Ramon Llull University , Barcelona ( Spain)",
+      "La Salle, Ramon Llull University, Barcelona (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "La Salle , Ramon Llull University , Barcelona ( Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      },
+      {
+       "raw_affiliation_string": "La Salle, Ramon Llull University, Barcelona (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I5593406"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5101474947",
+      "display_name": "Javier Herrero-Mart\u00edn",
+      "orcid": "https://orcid.org/0000-0002-7015-1635",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7015-1635"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I63634437",
+       "display_name": "Universidad Aut\u00f3noma de Madrid",
+       "ror": "https://ror.org/01cby8j38",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I63634437"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Javier Herrero Mart\u00edn",
+     "raw_affiliation_strings": [
+      "La Salle University Center, Autonomous University of Madrid, Madrid (Spain)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "La Salle University Center, Autonomous University of Madrid, Madrid (Spain)",
+       "institution_ids": [
+        "https://openalex.org/I63634437"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2884139048",
+   "doi": "https://doi.org/10.1146/annurev-biodatasci-080917-013416",
+   "title": "Privacy Policy and Technology in Biomedical Data Science",
+   "publication_year": 2018,
+   "primary_location": {
+    "id": "doi:10.1146/annurev-biodatasci-080917-013416",
+    "doi": "https://doi.org/10.1146/annurev-biodatasci-080917-013416",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1146/annurev-biodatasci-080917-013416",
+    "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-080917-013416",
+    "source": {
+     "id": "https://openalex.org/S4210232080",
+     "display_name": "Annual Review of Biomedical Data Science",
+     "issn_l": "2574-3414",
+     "issn": [
+      "2574-3414"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doyens",
+      "medline",
+      "norway-1",
+      "poland-20",
+      "russia-white-list-4"
+     ],
+     "host_organization": "https://openalex.org/P4310320373",
+     "host_organization_name": "Annual Reviews",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320373"
+     ],
+     "host_organization_lineage_names": [
+      "Annual Reviews"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annual Review of Biomedical Data Science",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 61,
+   "type": "review",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5069171815",
+      "display_name": "April Moreno Arellano",
+      "orcid": "https://orcid.org/0009-0003-6918-2148",
+      "observed_orcids": [
+       "https://orcid.org/0009-0003-6918-2148"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I36258959",
+       "display_name": "University of California San Diego",
+       "ror": "https://ror.org/0168r3w48",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "April Moreno Arellano",
+     "raw_affiliation_strings": [
+      "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;",
+       "institution_ids": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5045342512",
+      "display_name": "Wenrui Dai",
+      "orcid": "https://orcid.org/0000-0003-2522-5778",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2522-5778"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I36258959",
+       "display_name": "University of California San Diego",
+       "ror": "https://ror.org/0168r3w48",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Wenrui Dai",
+     "raw_affiliation_strings": [
+      "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;",
+       "institution_ids": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5100375557",
+      "display_name": "Shuang Wang",
+      "orcid": "https://orcid.org/0000-0001-6420-983X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6420-983X",
+       "https://orcid.org/0009-0001-5036-5927",
+       "https://orcid.org/0009-0009-2665-7936"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I36258959",
+       "display_name": "University of California San Diego",
+       "ror": "https://ror.org/0168r3w48",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Shuang Wang",
+     "raw_affiliation_strings": [
+      "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;",
+       "institution_ids": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5055458864",
+      "display_name": "Xiaoqian Jiang",
+      "orcid": "https://orcid.org/0000-0001-9933-2205",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9933-2205",
+       "https://orcid.org/0009-0000-0712-2164"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I36258959",
+       "display_name": "University of California San Diego",
+       "ror": "https://ror.org/0168r3w48",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Xiaoqian Jiang",
+     "raw_affiliation_strings": [
+      "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;",
+       "institution_ids": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5084415954",
+      "display_name": "Lucila Ohno\u2010Machado",
+      "orcid": "https://orcid.org/0000-0002-8005-7327",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8005-7327"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I36258959",
+       "display_name": "University of California San Diego",
+       "ror": "https://ror.org/0168r3w48",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lucila Ohno-Machado",
+     "raw_affiliation_strings": [
+      "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Biomedical Informatics, School of Medicine, University of California, San Diego, La Jolla, California 92093, USA;",
+       "institution_ids": [
+        "https://openalex.org/I36258959"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4213423749",
+   "doi": "https://doi.org/10.2196/33735",
+   "title": "Privacy, Data Sharing, and Data Security Policies of Women\u2019s mHealth Apps: Scoping Review and Content Analysis",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.2196/33735",
+    "doi": "https://doi.org/10.2196/33735",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2196/33735",
+    "pdf_url": "https://mhealth.jmir.org/2022/5/e33735/PDF",
+    "source": {
+     "id": "https://openalex.org/S2764493120",
+     "display_name": "JMIR mhealth and uhealth",
+     "issn_l": "2291-5222",
+     "issn": [
+      "2291-5222"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-a",
+      "doyens",
+      "jufo-2",
+      "ki-jl-1",
+      "medline",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320608",
+     "host_organization_name": "JMIR Publications",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320608"
+     ],
+     "host_organization_lineage_names": [
+      "JMIR Publications"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "JMIR mHealth and uHealth",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 144,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5063793458",
+      "display_name": "Najd Alfawzan",
+      "orcid": "https://orcid.org/0000-0002-9949-5335",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9949-5335"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I202697423",
+       "display_name": "University of Zurich",
+       "ror": "https://ror.org/02crff812",
+       "country_code": "CH",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ],
+     "countries": [
+      "CH"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Najd Alfawzan",
+     "raw_affiliation_strings": [
+      "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-9949-5335",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland",
+       "institution_ids": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5019000888",
+      "display_name": "Markus Christen",
+      "orcid": "https://orcid.org/0000-0001-8378-9366",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8378-9366"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I202697423",
+       "display_name": "University of Zurich",
+       "ror": "https://ror.org/02crff812",
+       "country_code": "CH",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ],
+     "countries": [
+      "CH"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Markus Christen",
+     "raw_affiliation_strings": [
+      "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-8378-9366",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland",
+       "institution_ids": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5035814052",
+      "display_name": "Giovanni Spitale",
+      "orcid": "https://orcid.org/0000-0002-6812-0979",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6812-0979"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I202697423",
+       "display_name": "University of Zurich",
+       "ror": "https://ror.org/02crff812",
+       "country_code": "CH",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ],
+     "countries": [
+      "CH"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Giovanni Spitale",
+     "raw_affiliation_strings": [
+      "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-6812-0979",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland",
+       "institution_ids": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5083216938",
+      "display_name": "Nikola Biller\u2010Andorno",
+      "orcid": "https://orcid.org/0000-0001-7661-1324",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7661-1324"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I202697423",
+       "display_name": "University of Zurich",
+       "ror": "https://ror.org/02crff812",
+       "country_code": "CH",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ],
+     "countries": [
+      "CH"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Nikola Biller-Andorno",
+     "raw_affiliation_strings": [
+      "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-7661-1324",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Institute of Biomedical Ethics and History of Medicine, University of Zurich, Zurich, Switzerland",
+       "institution_ids": [
+        "https://openalex.org/I202697423"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W3170330193",
+   "doi": "https://doi.org/10.1007/s40747-021-00409-7",
+   "title": "Online social networks security and privacy: comprehensive review and analysis",
+   "publication_year": 2021,
+   "primary_location": {
+    "id": "doi:10.1007/s40747-021-00409-7",
+    "doi": "https://doi.org/10.1007/s40747-021-00409-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s40747-021-00409-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40747-021-00409-7.pdf",
+    "source": {
+     "id": "https://openalex.org/S3035462843",
+     "display_name": "Complex & Intelligent Systems",
+     "issn_l": "2198-6053",
+     "issn": [
+      "2198-6053",
+      "2199-4536"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "doaj",
+      "dongbi-c",
+      "jufo-1",
+      "norway-1",
+      "poland-20",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310319900",
+     "host_organization_name": "Springer Science+Business Media",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319900",
+      "https://openalex.org/P4310319965"
+     ],
+     "host_organization_lineage_names": [
+      "Springer Science+Business Media",
+      "Springer Nature"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Complex &amp; Intelligent Systems",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 277,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5017781286",
+      "display_name": "Ankit Kumar Jain",
+      "orcid": "https://orcid.org/0000-0002-9482-6991",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9482-6991"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I105094715",
+       "display_name": "National Institute of Technology Kurukshetra",
+       "ror": "https://ror.org/04909p852",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I105094715"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Ankit Kumar Jain",
+     "raw_affiliation_strings": [
+      "National Institute of Technology Kurukshetra, Kurukshetra, India"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-9482-6991",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Institute of Technology Kurukshetra, Kurukshetra, India",
+       "institution_ids": [
+        "https://openalex.org/I105094715"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059660958",
+      "display_name": "Somya Ranjan Sahoo",
+      "orcid": "https://orcid.org/0000-0002-7922-4677",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7922-4677"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I876193797",
+       "display_name": "Vellore Institute of Technology University",
+       "ror": "https://ror.org/00qzypv28",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I876193797"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Somya Ranjan Sahoo",
+     "raw_affiliation_strings": [
+      "Vellore Institute of Technology Andhra Pradesh, Amaravati, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Vellore Institute of Technology Andhra Pradesh, Amaravati, India",
+       "institution_ids": [
+        "https://openalex.org/I876193797"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5019732341",
+      "display_name": "Jyoti Kaubiyal",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I105094715",
+       "display_name": "National Institute of Technology Kurukshetra",
+       "ror": "https://ror.org/04909p852",
+       "country_code": "IN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I105094715"
+       ]
+      }
+     ],
+     "countries": [
+      "IN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Jyoti Kaubiyal",
+     "raw_affiliation_strings": [
+      "National Institute of Technology Kurukshetra, Kurukshetra, India"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "National Institute of Technology Kurukshetra, Kurukshetra, India",
+       "institution_ids": [
+        "https://openalex.org/I105094715"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W1526916602",
+   "doi": "https://doi.org/10.2307/40041279",
+   "title": "A Taxonomy of Privacy",
+   "publication_year": 2006,
+   "primary_location": {
+    "id": "doi:10.2307/40041279",
+    "doi": "https://doi.org/10.2307/40041279",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.2307/40041279",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S107914479",
+     "display_name": "University of Pennsylvania Law Review",
+     "issn_l": "0041-9907",
+     "issn": [
+      "0041-9907",
+      "0749-9833",
+      "1942-8537",
+      "1942-8545"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "jufo-2",
+      "norway-1",
+      "poland-200",
+      "russia-white-list-1"
+     ],
+     "host_organization": "https://openalex.org/P4310315558",
+     "host_organization_name": "University of Pennsylvania Law School",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310315558",
+      "https://openalex.org/P4310316230"
+     ],
+     "host_organization_lineage_names": [
+      "University of Pennsylvania Law School",
+      "University of Pennsylvania"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "University of Pennsylvania Law Review",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 1384,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5054915942",
+      "display_name": "Daniel J. Solove",
+      "orcid": "https://orcid.org/0000-0001-6598-482X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6598-482X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I193531525",
+       "display_name": "George Washington University",
+       "ror": "https://ror.org/00y4zzh67",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Daniel J. Solove",
+     "raw_affiliation_strings": [
+      "George Washington University\u2028Law School"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "George Washington University\u2028Law School",
+       "institution_ids": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4409460725",
+   "doi": "https://doi.org/10.60027/jelr.2025.1429",
+   "title": "Leveraging Technology and Research to Shape Educational Policy",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.60027/jelr.2025.1429",
+    "doi": "https://doi.org/10.60027/jelr.2025.1429",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.60027/jelr.2025.1429",
+    "pdf_url": "https://so19.tci-thaijo.org/index.php/JELS/article/download/1429/1158",
+    "source": {
+     "id": "https://openalex.org/S4404663014",
+     "display_name": "Journal of Education and Learning Reviews",
+     "issn_l": "3057-0387",
+     "issn": [
+      "3057-0387"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I4405268610",
+     "host_organization_name": "Dr. Ken Institute of Academic Development and Promotion",
+     "host_organization_lineage": [
+      "https://openalex.org/I4405268610"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Education and Learning Reviews",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 1,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5117433255",
+      "display_name": "Jhonie Gumilao",
+      "orcid": "https://orcid.org/0009-0006-9600-5683",
+      "observed_orcids": [
+       "https://orcid.org/0009-0006-9600-5683"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I4210118924",
+       "display_name": "Department of Education",
+       "ror": "https://ror.org/029705428",
+       "country_code": "PH",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I4210117550",
+        "https://openalex.org/I4210118924"
+       ]
+      }
+     ],
+     "countries": [
+      "PH"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Jhonie Gumilao",
+     "raw_affiliation_strings": [
+      "Department of Education \u2013 Regional Office IX, Philippines"
+     ],
+     "raw_orcid": "https://orcid.org/0009-0006-9600-5683",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Education \u2013 Regional Office IX, Philippines",
+       "institution_ids": [
+        "https://openalex.org/I4210118924"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4400279967",
+   "doi": "https://doi.org/10.1007/s44206-024-00114-1",
+   "title": "Safety and Privacy in Immersive Extended Reality: An Analysis and Policy Recommendations",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.1007/s44206-024-00114-1",
+    "doi": "https://doi.org/10.1007/s44206-024-00114-1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s44206-024-00114-1",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44206-024-00114-1.pdf",
+    "source": {
+     "id": "https://openalex.org/S4210180585",
+     "display_name": "Digital Society",
+     "issn_l": "2731-4650",
+     "issn": [
+      "2731-4650",
+      "2731-4669"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "jufo-1",
+      "norway-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310319900",
+     "host_organization_name": "Springer Science+Business Media",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319900",
+      "https://openalex.org/P4310319965"
+     ],
+     "host_organization_lineage_names": [
+      "Springer Science+Business Media",
+      "Springer Nature"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Digital Society",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 38,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5089355838",
+      "display_name": "Emmie Hine",
+      "orcid": "https://orcid.org/0000-0002-5891-6324",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5891-6324"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I9360294",
+       "display_name": "University of Bologna",
+       "ror": "https://ror.org/01111rn36",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I9360294"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Emmie Hine",
+     "raw_affiliation_strings": [
+      "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5891-6324",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy",
+       "institution_ids": [
+        "https://openalex.org/I9360294"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5125479817",
+      "display_name": "Isadora Neroni Rezende",
+      "orcid": "https://orcid.org/0000-0001-5476-3503",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5476-3503"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I9360294",
+       "display_name": "University of Bologna",
+       "ror": "https://ror.org/01111rn36",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I9360294"
+       ]
+      }
+     ],
+     "countries": [
+      "IT"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Isadora Neroni Rezende",
+     "raw_affiliation_strings": [
+      "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-5476-3503",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy",
+       "institution_ids": [
+        "https://openalex.org/I9360294"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": null,
+      "display_name": "Huw Roberts",
+      "orcid": "https://orcid.org/0000-0002-8059-5504",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8059-5504"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I40120149",
+       "display_name": "University of Oxford",
+       "ror": "https://ror.org/052gg0110",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I40120149"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Huw Roberts",
+     "raw_affiliation_strings": [
+      "Oxford Internet Institute, University of Oxford, 1. St. Giles\u2019, Oxford, OX1 3JS, UK",
+      "Oxford Internet Institute, University of Oxford, 1. St. Giles', Oxford, OX1 3JS, UK"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-8059-5504",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Oxford Internet Institute, University of Oxford, 1. St. Giles\u2019, Oxford, OX1 3JS, UK",
+       "institution_ids": [
+        "https://openalex.org/I40120149"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Oxford Internet Institute, University of Oxford, 1. St. Giles', Oxford, OX1 3JS, UK",
+       "institution_ids": [
+        "https://openalex.org/I40120149"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": null,
+      "display_name": "David Wong",
+      "orcid": "https://orcid.org/0000-0001-9297-3077",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9297-3077"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I32971472",
+       "display_name": "Yale University",
+       "ror": "https://ror.org/03v76x132",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I32971472"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "David Wong",
+     "raw_affiliation_strings": [
+      "Yale Law School, Yale University, 127 Wall St., New Haven, CT, 06520, USA"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-9297-3077",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Yale Law School, Yale University, 127 Wall St., New Haven, CT, 06520, USA",
+       "institution_ids": [
+        "https://openalex.org/I32971472"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5003032735",
+      "display_name": "Mariarosaria Taddeo",
+      "orcid": "https://orcid.org/0000-0002-1181-649X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1181-649X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I40120149",
+       "display_name": "University of Oxford",
+       "ror": "https://ror.org/052gg0110",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I40120149"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210128584",
+       "display_name": "The Alan Turing Institute",
+       "ror": "https://ror.org/035dkdb55",
+       "country_code": "GB",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I4210128584"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Mariarosaria Taddeo",
+     "raw_affiliation_strings": [
+      "Oxford Internet Institute, University of Oxford, 1. St. Giles\u2019, Oxford, OX1 3JS, UK",
+      "The Alan Turing Institute, British Library, 96 Euston Rd, London, NW1 2DB, UK",
+      "Oxford Internet Institute, University of Oxford, 1. St. Giles', Oxford, OX1 3JS, UK"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-1181-649X",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Oxford Internet Institute, University of Oxford, 1. St. Giles\u2019, Oxford, OX1 3JS, UK",
+       "institution_ids": [
+        "https://openalex.org/I40120149"
+       ]
+      },
+      {
+       "raw_affiliation_string": "The Alan Turing Institute, British Library, 96 Euston Rd, London, NW1 2DB, UK",
+       "institution_ids": [
+        "https://openalex.org/I4210128584"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Oxford Internet Institute, University of Oxford, 1. St. Giles', Oxford, OX1 3JS, UK",
+       "institution_ids": [
+        "https://openalex.org/I40120149"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5046574356",
+      "display_name": "Luciano Floridi",
+      "orcid": "https://orcid.org/0000-0002-5444-2280",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5444-2280"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I32971472",
+       "display_name": "Yale University",
+       "ror": "https://ror.org/03v76x132",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I32971472"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I9360294",
+       "display_name": "University of Bologna",
+       "ror": "https://ror.org/01111rn36",
+       "country_code": "IT",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I9360294"
+       ]
+      }
+     ],
+     "countries": [
+      "IT",
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Luciano Floridi",
+     "raw_affiliation_strings": [
+      "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy",
+      "Digital Ethics Center, Yale University, 85 Trumbull St., New Haven, CT, 06511, USA"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5444-2280",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Legal Studies, University of Bologna, Via Zamboni, 27/29, Bologna, 40121, Italy",
+       "institution_ids": [
+        "https://openalex.org/I9360294"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Digital Ethics Center, Yale University, 85 Trumbull St., New Haven, CT, 06511, USA",
+       "institution_ids": [
+        "https://openalex.org/I32971472"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7160309020",
+   "doi": "https://doi.org/10.36941/jesr-2026-0331",
+   "title": "Care and Protection of Children's Privacy in Digital Accounts: The Case of Albania",
+   "publication_year": 2026,
+   "primary_location": {
+    "id": "doi:10.36941/jesr-2026-0331",
+    "doi": "https://doi.org/10.36941/jesr-2026-0331",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.36941/jesr-2026-0331",
+    "pdf_url": "https://www.richtmann.org/journal/index.php/jesr/article/download/14737/14348",
+    "source": {
+     "id": "https://openalex.org/S2764675630",
+     "display_name": "Journal of Educational and Social Research",
+     "issn_l": "2239-978X",
+     "issn": [
+      "2239-978X",
+      "2240-0524"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "anvur-scientific",
+      "poland-20",
+      "russia-white-list-3"
+     ],
+     "host_organization": "https://openalex.org/P4327983455",
+     "host_organization_name": "Richtmann Publishing",
+     "host_organization_lineage": [
+      "https://openalex.org/P4327983455"
+     ],
+     "host_organization_lineage_names": [
+      "Richtmann Publishing"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Educational and Social Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5116214355",
+      "display_name": "Rexhion Qafa",
+      "orcid": "https://orcid.org/0009-0002-9099-6923",
+      "observed_orcids": [
+       "https://orcid.org/0009-0002-9099-6923"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I68784830",
+       "display_name": "University of Tirana",
+       "ror": "https://ror.org/03g9v2404",
+       "country_code": "AL",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I68784830"
+       ]
+      }
+     ],
+     "countries": [
+      "AL"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Rexhion Qafa",
+     "raw_affiliation_strings": [
+      "Faculty of Economics, University of Tirana, Albania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Economics, University of Tirana, Albania",
+       "institution_ids": [
+        "https://openalex.org/I68784830"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5043813453",
+      "display_name": "Ezmolda Barolli",
+      "orcid": "https://orcid.org/0000-0002-1943-9609",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-1943-9609"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I68784830",
+       "display_name": "University of Tirana",
+       "ror": "https://ror.org/03g9v2404",
+       "country_code": "AL",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I68784830"
+       ]
+      }
+     ],
+     "countries": [
+      "AL"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ezmolda Barolli",
+     "raw_affiliation_strings": [
+      "Faculty of Economics, University of Tirana, Albania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Economics, University of Tirana, Albania",
+       "institution_ids": [
+        "https://openalex.org/I68784830"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5074683858",
+      "display_name": "Robert Kosova",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I273442994",
+       "display_name": "Aleksand\u00ebr Moisiu University",
+       "ror": "https://ror.org/023p15505",
+       "country_code": "AL",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I273442994"
+       ]
+      }
+     ],
+     "countries": [
+      "AL"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Robert Kosova",
+     "raw_affiliation_strings": [
+      "Department of Mathematics, \"Aleksander Moisiu\" University Durres, Albania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics, \"Aleksander Moisiu\" University Durres, Albania",
+       "institution_ids": [
+        "https://openalex.org/I273442994"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5069260327",
+      "display_name": "Zenel Sina",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I273442994",
+       "display_name": "Aleksand\u00ebr Moisiu University",
+       "ror": "https://ror.org/023p15505",
+       "country_code": "AL",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I273442994"
+       ]
+      }
+     ],
+     "countries": [
+      "AL"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Zenel Sina",
+     "raw_affiliation_strings": [
+      "Faculty of Education, \"Aleksander Moisiu\" University Durres, Albania"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Education, \"Aleksander Moisiu\" University Durres, Albania",
+       "institution_ids": [
+        "https://openalex.org/I273442994"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W3200220317",
+   "doi": "https://doi.org/10.2196/26317",
+   "title": "Privacy Practices of Health Information Technologies: Privacy Policy Risk Assessment Study and Proposed Guidelines",
+   "publication_year": 2021,
+   "primary_location": {
+    "id": "doi:10.2196/26317",
+    "doi": "https://doi.org/10.2196/26317",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2196/26317",
+    "pdf_url": "https://www.jmir.org/2021/9/e26317/PDF",
+    "source": {
+     "id": "https://openalex.org/S17147534",
+     "display_name": "Journal of Medical Internet Research",
+     "issn_l": "1438-8871",
+     "issn": [
+      "1438-8871",
+      "1439-4456"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "dongbi-b",
+      "doyens",
+      "fnege-4",
+      "jufo-2",
+      "ki-jl-2",
+      "medline",
+      "norway-2",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320608",
+     "host_organization_name": "JMIR Publications",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320608"
+     ],
+     "host_organization_lineage_names": [
+      "JMIR Publications"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Medical Internet Research",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 34,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5085637041",
+      "display_name": "Haley M LaMonica",
+      "orcid": "https://orcid.org/0000-0002-6563-5467",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6563-5467"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I129604602",
+       "display_name": "The University of Sydney",
+       "ror": "https://ror.org/0384j8v12",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Haley M LaMonica",
+     "raw_affiliation_strings": [
+      "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+      "Brain and Mind Centre The University of Sydney 88 Mallett Street Camperdown, 2050 Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-6563-5467",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Brain and Mind Centre The University of Sydney 88 Mallett Street Camperdown, 2050 Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5039188645",
+      "display_name": "Anna Roberts",
+      "orcid": "https://orcid.org/0000-0001-6827-8330",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6827-8330"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I129604602",
+       "display_name": "The University of Sydney",
+       "ror": "https://ror.org/0384j8v12",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Anna E Roberts",
+     "raw_affiliation_strings": [
+      "Brain and Mind Centre, The University of Sydney, Camperdown, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-6827-8330",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5000080714",
+      "display_name": "Grace Yeeun Lee",
+      "orcid": "https://orcid.org/0000-0002-7234-1870",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7234-1870"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I129604602",
+       "display_name": "The University of Sydney",
+       "ror": "https://ror.org/0384j8v12",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Grace Yeeun Lee",
+     "raw_affiliation_strings": [
+      "Brain and Mind Centre, The University of Sydney, Camperdown, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-7234-1870",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5037088205",
+      "display_name": "Tracey A Davenport",
+      "orcid": "https://orcid.org/0000-0003-4218-9238",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4218-9238"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I129604602",
+       "display_name": "The University of Sydney",
+       "ror": "https://ror.org/0384j8v12",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Tracey A Davenport",
+     "raw_affiliation_strings": [
+      "Brain and Mind Centre, The University of Sydney, Camperdown, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-4218-9238",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5069078473",
+      "display_name": "Ian Bernard Hickie",
+      "orcid": "https://orcid.org/0000-0001-8832-9895",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8832-9895"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I129604602",
+       "display_name": "The University of Sydney",
+       "ror": "https://ror.org/0384j8v12",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ian B Hickie",
+     "raw_affiliation_strings": [
+      "Brain and Mind Centre, The University of Sydney, Camperdown, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-8832-9895",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Brain and Mind Centre, The University of Sydney, Camperdown, Australia",
+       "institution_ids": [
+        "https://openalex.org/I129604602"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4280547228",
+   "doi": "https://doi.org/10.3390/bs12050138",
+   "title": "Virtual Reality Technology as an Educational and Intervention Tool for Children with Autism Spectrum Disorder: Current Perspectives and Future Directions",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.3390/bs12050138",
+    "doi": "https://doi.org/10.3390/bs12050138",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/bs12050138",
+    "pdf_url": "https://www.mdpi.com/2076-328X/12/5/138/pdf?version=1652254128",
+    "source": {
+     "id": "https://openalex.org/S4210194710",
+     "display_name": "Behavioral Sciences",
+     "issn_l": "2076-328X",
+     "issn": [
+      "2076-328X"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-class-a",
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-40",
+      "russia-white-list-2",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310310987",
+     "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310310987"
+     ],
+     "host_organization_lineage_names": [
+      "Multidisciplinary Digital Publishing Institute"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavioral Sciences",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 210,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5008344531",
+      "display_name": "Minyue Zhang",
+      "orcid": "https://orcid.org/0000-0002-4428-2500",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4428-2500"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Minyue Zhang",
+     "raw_affiliation_strings": [
+      "Speech-Language-Hearing Center, School of Foreign Languages, Shanghai Jiao Tong University, Shanghai 200240, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-4428-2500",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Speech-Language-Hearing Center, School of Foreign Languages, Shanghai Jiao Tong University, Shanghai 200240, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5040214647",
+      "display_name": "Hongwei Ding",
+      "orcid": "https://orcid.org/0000-0001-8684-0788",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8684-0788"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Hongwei Ding",
+     "raw_affiliation_strings": [
+      "Speech-Language-Hearing Center, School of Foreign Languages, Shanghai Jiao Tong University, Shanghai 200240, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Speech-Language-Hearing Center, School of Foreign Languages, Shanghai Jiao Tong University, Shanghai 200240, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5085600352",
+      "display_name": "Meri Naumceska",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Meri Naumceska",
+     "raw_affiliation_strings": [
+      "70 Flowers Association for Early Intervention and Education of Children with Autism, 1000 Skopje, North Macedonia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "70 Flowers Association for Early Intervention and Education of Children with Autism, 1000 Skopje, North Macedonia",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5100354569",
+      "display_name": "Yang Zhang",
+      "orcid": "https://orcid.org/0000-0001-6777-3487",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-6777-3487",
+       "https://orcid.org/0009-0009-2966-0436"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I130238516",
+       "display_name": "University of Minnesota",
+       "ror": "https://ror.org/017zqws13",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Yang Zhang",
+     "raw_affiliation_strings": [
+      "Department of Speech-Language-Hearing Sciences, University of Minnesota, Minneapolis, MN 55455, USA"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-6777-3487",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Speech-Language-Hearing Sciences, University of Minnesota, Minneapolis, MN 55455, USA",
+       "institution_ids": [
+        "https://openalex.org/I130238516"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W298756085",
+   "doi": null,
+   "title": "Are They Worth Reading? An In-Depth Analysis of Online Trackers\u2019 Privacy Policies",
+   "publication_year": 2015,
+   "primary_location": {
+    "id": "pmh:oai:engagedscholarship.csuohio.edu:fac_articles-1794",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://engagedscholarship.csuohio.edu/fac_articles/783",
+    "pdf_url": "https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1794&context=fac_articles",
+    "source": {
+     "id": "https://openalex.org/S4306400889",
+     "display_name": "EngagedScholarship @ Cleveland State University (Cleveland State University)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I102607778",
+     "host_organization_name": "Cleveland State University",
+     "host_organization_lineage": [
+      "https://openalex.org/I102607778"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Law Faculty Articles and Essays",
+    "raw_type": "text"
+   },
+   "cited_by_count": 51,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5019419319",
+      "display_name": "Candice Hoke",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I74973139",
+       "display_name": "Carnegie Mellon University",
+       "ror": "https://ror.org/05x2bcf33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Candice Hoke",
+     "raw_affiliation_strings": [
+      "Carnegie Mellon University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Carnegie Mellon University",
+       "institution_ids": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5072760035",
+      "display_name": "Lorrie Faith Cranor",
+      "orcid": "https://orcid.org/0000-0003-2125-0124",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2125-0124"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I74973139",
+       "display_name": "Carnegie Mellon University",
+       "ror": "https://ror.org/05x2bcf33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lorrie Faith Cranor",
+     "raw_affiliation_strings": [
+      "Carnegie Mellon University"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-2125-0124",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Carnegie Mellon University",
+       "institution_ids": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5014350811",
+      "display_name": "Pedro Giovanni Leon",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I74973139",
+       "display_name": "Carnegie Mellon University",
+       "ror": "https://ror.org/05x2bcf33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Pedro Giovanni Leon",
+     "raw_affiliation_strings": [
+      "Carnegie Mellon University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Carnegie Mellon University",
+       "institution_ids": [
+        "https://openalex.org/I74973139"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5056306565",
+      "display_name": "Alyssa Phung Au",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I170201317",
+       "display_name": "University of Pittsburgh",
+       "ror": "https://ror.org/01an3r305",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I170201317"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Alyssa Phung Au",
+     "raw_affiliation_strings": [
+      "University of Pittsburgh"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Pittsburgh",
+       "institution_ids": [
+        "https://openalex.org/I170201317"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4401672695",
+   "doi": "https://doi.org/10.1016/j.cose.2024.104065",
+   "title": "Privacy policy analysis: A scoping review and research agenda",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.1016/j.cose.2024.104065",
+    "doi": "https://doi.org/10.1016/j.cose.2024.104065",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.cose.2024.104065",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S12529635",
+     "display_name": "Computers & Security",
+     "issn_l": "0167-4048",
+     "issn": [
+      "0167-4048",
+      "1872-6208"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "ccf-b",
+      "cwts-core",
+      "dongbi-b",
+      "jufo-2",
+      "ki-jl-1",
+      "norway-1",
+      "poland-140",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320990",
+     "host_organization_name": "Elsevier BV",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320990"
+     ],
+     "host_organization_lineage_names": [
+      "Elsevier BV"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computers &amp; Security",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 20,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5018112566",
+      "display_name": "Karl van der Schyff",
+      "orcid": "https://orcid.org/0000-0002-2892-7954",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2892-7954"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Karl van der Schyff",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5074965113",
+      "display_name": "Suzanne Prior",
+      "orcid": "https://orcid.org/0000-0002-0407-7019",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0407-7019"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I877506347",
+       "display_name": "Abertay University",
+       "ror": "https://ror.org/04mwwnx67",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I877506347"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Suzanne Prior",
+     "raw_affiliation_strings": [
+      "School of Design and Informatics, Abertay University, Dundee, UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "School of Design and Informatics, Abertay University, Dundee, UK",
+       "institution_ids": [
+        "https://openalex.org/I877506347"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5035796880",
+      "display_name": "Karen Renaud",
+      "orcid": "https://orcid.org/0000-0002-7187-6531",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-7187-6531"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I181647926",
+       "display_name": "University of Strathclyde",
+       "ror": "https://ror.org/00n3w3b69",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I181647926"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I877506347",
+       "display_name": "Abertay University",
+       "ror": "https://ror.org/04mwwnx67",
+       "country_code": "GB",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I877506347"
+       ]
+      }
+     ],
+     "countries": [
+      "GB"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Karen Renaud",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Sciences, University of Strathclyde, Glasgow, UK",
+      "School of Design and Informatics, Abertay University, Dundee, UK"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Sciences, University of Strathclyde, Glasgow, UK",
+       "institution_ids": [
+        "https://openalex.org/I181647926"
+       ]
+      },
+      {
+       "raw_affiliation_string": "School of Design and Informatics, Abertay University, Dundee, UK",
+       "institution_ids": [
+        "https://openalex.org/I877506347"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7216150411",
+   "doi": "https://doi.org/10.48047/8gafqn62",
+   "title": "An Investigation On The Role Of Student Ethics And Data Privacy In The Implementation Of Educational Technology",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "pmh:oai:ojs2.162.254.37.152:article/3776",
+    "doi": "https://doi.org/10.48047/8gafqn62",
+    "is_oa": true,
+    "landing_page_url": "https://cuestionesdefisioterapia.com/index.php/es/article/view/3776",
+    "pdf_url": "https://cuestionesdefisioterapia.com/index.php/es/article/download/3776/2766",
+    "source": {
+     "id": "https://openalex.org/S5406946798",
+     "display_name": "Cuestiones de Fisioterapia",
+     "issn_l": "1135-8599",
+     "issn": [
+      "1135-8599",
+      "2695-7639"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [
+      "poland-20",
+      "russia-white-list-4"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "1135-8599",
+    "raw_type": "info:eu-repo/semantics/article"
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5154562516",
+      "display_name": "Wang Ziheng",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Ziheng, Wang",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5155116849",
+      "display_name": "NIDHI AGARWAL",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Agarwal, Nidhi",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5031383464",
+      "display_name": "Mohammad Nizamuddin Inamdar",
+      "orcid": "https://orcid.org/0000-0003-1942-7365",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-1942-7365"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Nizamuddin Inamdar, Mohammad",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W7133000841",
+   "doi": null,
+   "title": "Exploring Educational Technology Policies and Practices of the World Bank",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "pmh:oai:utoronto.scholaris.ca:1807/138069",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/1807/138069",
+    "pdf_url": "https://utoronto.scholaris.ca/bitstreams/3ccd2f0f-9727-4cbc-a6a6-4a6dadd9b9b8/download",
+    "source": {
+     "id": "https://openalex.org/S4306400261",
+     "display_name": "TSpace (University of Toronto)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I185261750",
+     "host_organization_name": "University of Toronto",
+     "host_organization_lineage": [
+      "https://openalex.org/I185261750"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "Thesis"
+   },
+   "cited_by_count": 0,
+   "type": "dissertation",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5024173089",
+      "display_name": "Farimah Salimi",
+      "orcid": "https://orcid.org/0000-0002-0841-0384",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0841-0384"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I185261750",
+       "display_name": "University of Toronto",
+       "ror": "https://ror.org/03dbr7087",
+       "country_code": "CA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I185261750"
+       ]
+      }
+     ],
+     "countries": [
+      "CA"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Salimi, Farimah",
+     "raw_affiliation_strings": [
+      "Department of Leadership , Higher and Adult Education Ontario Institute for Studies in Education University of Toronto",
+      "Education Ontario Institute for Studies in Education University of Toronto"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Leadership , Higher and Adult Education Ontario Institute for Studies in Education University of Toronto",
+       "institution_ids": [
+        "https://openalex.org/I185261750"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Education Ontario Institute for Studies in Education University of Toronto",
+       "institution_ids": [
+        "https://openalex.org/I185261750"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

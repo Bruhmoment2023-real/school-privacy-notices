@@ -1,0 +1,16 @@
+﻿oa_id,year,first_author,title,source,doi,sublit,local_citations,global_citations
+W1984786275,2008,Norman Sadeh,Understanding and capturing people’s privacy policies in a mobile social networking application,Personal and Ubiquitous Computing,10.1007/s00779-008-0214-3,A_policy_measurement,1,318
+W2117733963,2008,Lorrie Faith Cranor,"Expandable grids: a user interface visualization technique and a policy semantics to support fast, accurate security and privacy policy authoring",,,A_policy_measurement,1,21
+W2207751595,2014,Sebastian Zimmeck,Privee: An Architecture for Automatically Analyzing Web Privacy Policies,SSRN Electronic Journal,,A_policy_measurement,13,81
+W298756085,2015,Candice Hoke,Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies,EngagedScholarship @ Cleveland State University (Cleveland State University),,A_policy_measurement,8,51
+W2517394750,2016,Shomir Wilson,The Creation and Analysis of a Website Privacy Policy Corpus,Annual Meeting of the Association for Computational Linguistics (ACL),10.18653/v1/p16-1126,seed,54,282
+W2615266218,2017,Alessandro Oltramari,PrivOnto: A semantic framework for the analysis of privacy policies,Semantic Web,10.3233/sw-170283,A_policy_measurement,15,95
+W2903400086,2018,Shomir Wilson,Analyzing Privacy Policies at Scale,ACM Transactions on the Web,10.1145/3230665,A_policy_measurement,8,46
+W2796498984,2018,Irwin O. Reyes,“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale,Proceedings on Privacy Enhancing Technologies,10.1515/popets-2018-0021,B_children_apps,23,186
+W2963070937,2019,Sebastian Zimmeck,MAPS: Scaling Privacy Compliance Analysis to a Million Apps,Proceedings on Privacy Enhancing Technologies,10.2478/popets-2019-0037,A_policy_measurement,33,176
+W3081819535,2020,Laura Shipp,How private is your period?: A systematic analysis of menstrual app privacy policies,Proceedings on Privacy Enhancing Technologies,10.2478/popets-2020-0083,A_policy_measurement,4,95
+W4292387188,2022,Muhammad Sajidur Rahman,PermPress: Machine Learning-Based Pipeline to Evaluate Permissions in App Privacy Policies,IEEE Access,10.1109/access.2022.3199882,A_policy_measurement,6,23
+W4309741539,2022,Hamad Alamri,Do the Right Thing: A Privacy Policy Adherence Analysis of over Two Million Apps in Apple iOS App Store,Sensors,10.3390/s22228964,A_policy_measurement,4,10
+W4362452929,2023,Isabel Wagner,Privacy Policies across the Ages: Content of Privacy Policies 1996–2021,ACM Transactions on Privacy and Security,10.1145/3590152,A_policy_measurement,11,51
+W4401808240,2024,David Rodríguez,Large language models: a new approach for privacy policy analysis at scale,Computing,10.1007/s00607-024-01331-9,A_policy_measurement,2,52
+W7140235725,2026,Peng Tang,"A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers",IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2026.3677283,A_policy_measurement,0,0

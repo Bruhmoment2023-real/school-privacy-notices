@@ -1,0 +1,483 @@
+{
+ "q": "India school websites privacy policy DPDP readiness",
+ "items": [
+  {
+   "DOI": "10.21275/sr26317112521",
+   "title": [
+    "From Puttaswamy to DPDP: Tracing the Legislative Journey of Data Privacy in India"
+   ],
+   "author": [
+    {
+     "given": "Ankit",
+     "family": "Sourav Sahoo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      22
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/sr26317112521"
+  },
+  {
+   "DOI": "10.2139/ssrn.5283949",
+   "title": [
+    "Tracing the Constitutional Journey of Data Privacy in India: From Puttaswamy to the Draft DPDP Rules, 2025&amp;nbsp;"
+   ],
+   "author": [
+    {
+     "given": "Akshat",
+     "family": "Jain",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ayush",
+     "family": "Anand",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5283949"
+  },
+  {
+   "DOI": "10.2139/ssrn.5335388",
+   "title": [
+    "&lt;div&gt;\n A Jurisprudential Analysis of the DPDP Rules 2025 and the Evolution of Data Privacy Laws in India\n&lt;/div&gt;"
+   ],
+   "author": [
+    {
+     "given": "Abdullah Zubair",
+     "family": "Motiwala",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5335388"
+  },
+  {
+   "DOI": "10.2139/ssrn.5348865",
+   "title": [
+    "&lt;div&gt;\n A Jurisprudential Analysis of the DPDP Rules 2025 and the Evolution of Data Privacy Laws in India\n&lt;/div&gt;"
+   ],
+   "author": [
+    {
+     "given": "Abdullah Zubair",
+     "family": "Motiwala",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5348865"
+  },
+  {
+   "DOI": "10.1007/978-981-13-7006-9_2",
+   "title": [
+    "Research in India on Early Childhood Education and School Readiness: Some Learnings"
+   ],
+   "author": [
+    {
+     "given": "Venita",
+     "family": "Kaul",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019
+     ]
+    ]
+   },
+   "container-title": [
+    "Early Childhood Education and School Readiness in India"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-13-7006-9_2"
+  },
+  {
+   "DOI": "10.21552/edpl/2025/4/17",
+   "title": [
+    "India \u00b7 Privacy and Data Protection in the Digital Age: Policy Reflections on India\u2019s DPDP Act 2023 and the EU\u2019s GDPR"
+   ],
+   "author": [
+    {
+     "given": "S.",
+     "family": "Rai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.K.",
+     "family": "Chauhan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "Sailo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.K.",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Mann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "container-title": [
+    "European Data Protection Law Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21552/edpl/2025/4/17"
+  },
+  {
+   "DOI": "10.31332/str.v26i2.2360",
+   "title": [
+    "Use of Websites in School Management: An Effort to Build School Readiness in the Era of 4.0"
+   ],
+   "author": [
+    {
+     "given": "Saidah",
+     "family": "Laugi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11,
+      30
+     ]
+    ]
+   },
+   "container-title": [
+    "Shautut Tarbiyah"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.31332/str.v26i2.2360",
+   "abstract": "<jats:p>This article provides an overview of several aspects related to websites, which include: first, understanding the website; second, the criteria for a good and quality website; third; the benefits of the website for educational institutions; fourth, a web-based school information system; fifth, school web development in learning activities; and sixth, the basic principles of school web management. This study was conducted using the library method, where the author collects various materials such as books and scientific articles, which are further elaborated to obtain a broader and deeper understanding of the use of websites in school management. The results of the study show that: first, it is a very complex device because it combines various domains through the internet network, resulting in complex data in the form of text, images, video, audio, and animation. Second, a good school website must meet the following criteria: easy, navigation structure, graphic design, content, compatible, fast, functional, accessible to everyone, and interactive. Third, the school website is an important tool in school management, not only internally but also externally. Fourth, the impact of IT advances has reached various areas of life, so schools should have web-based information systems. Fifth, the school web must be developed in the school's main business domain, namely education and learning. Sixth, to ensure the occurrence of web-based school management, the basic principles of school web management must be carried out properly.\u00a0Keywords: School Management, ICT, Website, Quality</jats:p>"
+  },
+  {
+   "DOI": "10.1109/ciact.2017.7977304",
+   "title": [
+    "Privacy policy inference of multiple user-uploaded images on social context websites (Automated generation of privacy policy)"
+   ],
+   "author": [
+    {
+     "given": "Himani",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mamta",
+     "family": "Bhusry",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "2017 3rd International Conference on Computational Intelligence &amp; Communication Technology (CICT)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/ciact.2017.7977304"
+  },
+  {
+   "DOI": "10.15849/icit.2015.0066",
+   "title": [
+    "Privacy Policy of E-Government Websites and the Effect on Users' Privacy"
+   ],
+   "author": [
+    {
+     "given": "Maryam",
+     "family": "Al-Jamal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Emad",
+     "family": "Abu-Shanab",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      5,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "The 7th International Conference on Information Technology"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.15849/icit.2015.0066"
+  },
+  {
+   "DOI": "10.1145/3487553.3524663",
+   "title": [
+    "Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation"
+   ],
+   "author": [
+    {
+     "given": "Abdulrahman",
+     "family": "Alabduljabbar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Central Florida, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Mohaisen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Central Florida, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      25
+     ]
+    ]
+   },
+   "container-title": [
+    "Companion Proceedings of the Web Conference 2022"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3487553.3524663"
+  },
+  {
+   "DOI": "10.55248/gengpi.06.1225.4289",
+   "title": [
+    "Privacy without Cost Inflation: Applying Global Data Protection Lessons to India\u2019s DPDP Act through Architecture-Led Compliance"
+   ],
+   "author": [
+    {
+     "given": "Narendra",
+     "family": "Vijayasimha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Research Publication and Reviews"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.55248/gengpi.06.1225.4289"
+  },
+  {
+   "DOI": "10.64388/irev9i10-1717032",
+   "title": [
+    "Automated Profiling, Privacy Rights, and Gaps in India\u2019s DPDP Act 2023"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Iconic Research and Engineering Journals"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.64388/irev9i10-1717032"
+  }
+ ]
+}

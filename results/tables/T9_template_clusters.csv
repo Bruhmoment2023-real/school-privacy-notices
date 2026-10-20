@@ -1,0 +1,14 @@
+kind,label,n_notices,units
+fingerprint,WordPress default 'suggested text',3,CB-051|ED-014|ED-013
+fingerprint,"Privacy-policy generator (Termly/FreePrivacyPolicy style, 'Your/We' capitalised, under-13 clause)",4,GV-007|ED-004|ED-045|ED-051
+fingerprint,Apple-style template ('COLLECTION AND USE OF PERSONAL INFORMATION'),1,CB-025
+fingerprint,Google AdSense/DART generic policy (CCPA/GDPR block),1,CB-016
+fingerprint,Indian coaching-platform template ('Grievance Officer ... Information Technology Act 2000' + 'proper reason' list),3,OT-007|ED-017|ED-021
+fingerprint,Mobile-app generator ('This SERVICE is provided by ... at no cost'),2,ED-015|ED-027
+fingerprint,COPPA under-13 clause,16,CB-016|CB-058|GV-007|ED-004|ED-007|ED-010|ED-015|ED-022|ED-027|ED-037|ED-043|ED-045|ED-050|ED-051|ED-052|ED-053
+fingerprint,GDPR/EU rights block,9,CB-016|ED-010|ED-034|ED-038|ED-043|ED-046|ED-048|ED-052|ED-055
+fingerprint,CCPA block,7,CB-016|CI-031|ED-010|ED-046|ED-048|ED-052|ED-013
+text_similarity_cluster,cluster of 5 (containment >= 0.35),5,CB-033|ED-004|ED-045|ED-051|GV-007
+text_similarity_cluster,cluster of 3 (containment >= 0.35),3,CB-051|ED-013|ED-014
+text_similarity_cluster,cluster of 3 (containment >= 0.35),3,ED-017|ED-021|OT-007
+text_similarity_cluster,cluster of 2 (containment >= 0.35),2,ED-015|ED-027

@@ -1,0 +1,450 @@
+{
+ "q": "Digital Personal Data Protection Act 2023 notice requirements consent critique",
+ "items": [
+  {
+   "DOI": "10.2139/ssrn.5291354",
+   "title": [
+    "Decoding Consent Managers under the Digital Personal Data Protection Act, 2023 : Empowerment Architecture, Business Models and Incentive Alignment"
+   ],
+   "author": [
+    {
+     "given": "Aditya",
+     "family": "Sushant Jain",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5291354",
+   "abstract": "<jats:p>The Digital Personal Data Protection Act, 2023 (DPDP Act) marks a transformative shift in India\u2019s data governance landscape by anchoring personal data processing in user consent. Within this framework,&amp;nbsp;consent managers&amp;nbsp;emerge as pivotal intermediaries that address structural issues in data sharing, reduce consent fatigue, and enable data portability. While earlier models\u2014such as the Justice Srikrishna Committee\u2019s \u2018dashboard model\u2019\u2014envisioned them as passive record-keepers, the&amp;nbsp;Data Empowerment and Protection Architecture (DEPA&amp;nbsp;significantly expands their role.&lt;br&gt;&lt;br&gt;Under DEPA, consent managers actively enable secure, interoperable data flows between data fiduciaries, breaking monopolistic silos and catalysing competition. However, their viability depends on overcoming critical&amp;nbsp;economic and operational hurdles\u2014notably, the absence of clear revenue models, fiduciary incentives, and the ongoing challenge of standardisation.&lt;br&gt;&lt;br&gt;This paper critically evaluates the evolving consent manager ecosystem, examining how tools like personalised consent dashboards, behavioural nudges, and privacy-by-design protocols can empower data principals. It explores mechanisms\u2014such as&amp;nbsp;reciprocity, operational efficiencies, and exemptions for inferred data\u2014that may nudge large fiduciaries toward voluntary participation.&lt;br&gt;&lt;br&gt;Ultimately, consent managers are situated within India\u2019s broader&amp;nbsp;Digital Public Infrastructure (DPI). Their effective deployment could establish a global benchmark for decentralised, citizen-centric data governance. Realising this potential will require regulatory clarity, unified technical standards, and scalable market-based solutions. Done right, consent managers could become the linchpin of India\u2019s digital economy\u2014balancing individual autonomy with innovation in an increasingly data-driven world.</jats:p>"
+  },
+  {
+   "DOI": "10.64388/irev9i11-1718085",
+   "title": [
+    "Consent, Control, and the Constitution: Deconstructing India\u2019s Digital Personal Data Protection Act, 2023"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      25
+     ]
+    ]
+   },
+   "container-title": [
+    "Iconic Research and Engineering Journals"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.64388/irev9i11-1718085"
+  },
+  {
+   "DOI": "10.69554/mhlp2916",
+   "title": [
+    "Decoding consent managers under the Digital Personal Data Protection Act, 2023 : Empowerment architecture, business models and incentive alignment"
+   ],
+   "author": [
+    {
+     "given": "Aditya Sushant",
+     "family": "Jain",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Jindal Global Law School",
+       "place": [
+        "India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Data Protection &amp; Privacy"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.69554/mhlp2916",
+   "abstract": "<jats:p xml:lang=\"en\">The Digital Personal Data Protection Act, 2023 (DPDP Act) represents a pivotal shift in India\u2019s data governance framework, emphasising consent as the foundation of personal data processing. Within this landscape, consent managers emerge as critical intermediaries, addressing structural inefficiencies in data sharing, mitigating consent fatigue and enabling data portability. While earlier conceptualisations, such as Justice Srikrishna\u2019s \u2018dashboard model\u2019, envisioned consent managers as passive facilitators of consent tracking, the Data Empowerment and Protection Architecture (DEPA) framework expands their role significantly. Under DEPA, consent managers function as intermediaries that facilitate seamless, interoperable data exchange between fiduciaries, thereby dismantling monopolistic data silos and fostering competitive innovation. Their viability, however, hinges on overcoming several economic and operational challenges, including the sustainability of business models, the resolution of the fee dilemma, and the incentivisation of fiduciary participation. This paper critically examines the consent manager ecosystem, exploring its potential to empower data principals through personalised consent management, behavioural nudges and privacy-preserving mechanisms. It further evaluates how reciprocity, cost savings and exemptions for inferred data could encourage large fiduciaries to engage in this ecosystem voluntarily. The analysis in this paper situates consent managers within the broader context of India\u2019s Digital Public Infrastructure (DPI), arguing that their successful implementation could set a global precedent for decentralised, user-centric data governance. Achieving this requires regulatory clarity, standardised technical frameworks and robust market-driven solutions. By addressing these challenges, consent managers could serve as the keystone of India\u2019s digital economy, balancing individual autonomy with technological innovation in an increasingly data-driven world. This paper is also included in The Business &amp; Management Collection which can be accessed at https://hstalks.com/business/.</jats:p>"
+  },
+  {
+   "DOI": "10.54648/gplr2025003",
+   "title": [
+    "India\u2019s Forthcoming Rules under the Digital Personal Data Protection Act: An Opportunity to Reduce Gaps in the \u2018Notice and Consent\u2019 Framework for Cookies"
+   ],
+   "author": [
+    {
+     "given": "Indranath",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paarth",
+     "family": "Naithani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Global Privacy Law Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.54648/gplr2025003",
+   "abstract": "<jats:p>\n            <jats:italic>\u2018Notice and consent\u2019 is a predominant requirement in data protection ecosystems. This requirement has been recognized by the Digital Personal Data Protection (DPDP) Act, 2023 in India. However, there are several reasons why the notice and consent framework could operate sub-optimally. These are reasons because of the ecosystem in which such a framework functions. For instance, the standard operational practices falling under the \u2018notice and consent\u2019 framework do not offer real choices to individuals, they do not succinctly capture complex data processing, and they do not capture the psychosocial aspects of individual decision-making. These problems are amplified in India, which has high digital illiteracy and low privacy awareness. This article suggests that the forthcoming rules under the DPDP Act are a means to address the operational problems that affect the notice and consent framework in India. The article takes cookies as an example to suggest the norms that are crucial to consider while implementing an optimal framework.</jats:italic>\n          </jats:p>"
+  },
+  {
+   "DOI": "10.21275/mr24504204804",
+   "title": [
+    "Fundamental Rights and Data Protection (Balancing Innovation and Privacy in Light of Digital Personal Data Protection Act, 2023)"
+   ],
+   "author": [
+    {
+     "given": "Amit",
+     "family": "Mishra",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      5,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/mr24504204804"
+  },
+  {
+   "DOI": "10.2139/ssrn.4614984",
+   "title": [
+    "The Indian Digital Personal Data Protection Act, 2023, viewed from a European Perspective"
+   ],
+   "author": [
+    {
+     "given": "Douwe",
+     "family": "Korff",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.4614984",
+   "abstract": "<jats:p>This paper provides an early overview and assessment from a European perspective of the recently adopted Indian Digital Personal Data Protection Act, 2023 (the DPDP Act).&lt;br&gt;&lt;br&gt;Section 2 provides the broader context of data protection in India by briefly noting (with reference to analyses by others) the constitutional legal situation, a set of rules adopted under the Information Technology Act, some further Indian laws with data protection-relevant provisions, and earlier attempts at introducing a comprehensive data protection law for India.&lt;br&gt;&lt;br&gt;Section 3 then critically summarises the provisions of the new law, comparing the way in which various matters are addressed in that law with the way in which those matters are addressed in the European Union General Data Protection Regulation (GDPR), but also noting that many details of how the law will apply are still to be set out in subsidiary legislation.&lt;br&gt;&lt;br&gt;Section 4 provides a summary of findings and tentative, provisional conclusions. The conclusions are tentative and provisional, partly because I am not an Indian scholar and my European perspective may distort my views, but also because so many details are still to be settled. Even so, I conclude that it is unlikely that the law in its present form will meet the \u201cadequacy\u201d/\u201cessential equivalence\u201d requirements of the EU GDPR, and that flows of personal data between the EU/EEA  and India therefore will continue to be not free: European data exporters will still have to adopt special measures and introduce special safeguards (in the form of Standard Contractual Clauses [SCCs] or, for multinational companies, Binding Corporate Rules [BCRs]) in relation to any flows of such data from the EU/EEA to India. (Whether India will impose similar constraints on India \u2013 EU/EEA flows of personal data still remains to be determined: see the section on data transfers in Section 3 that also covers the issue of data localisation.)&lt;br&gt;&lt;br&gt;An attachment provides a tentative and provisional assessment of issues that may affect the issuing of an EU adequacy decision on India in chart format.</jats:p>"
+  },
+  {
+   "DOI": "10.2139/ssrn.6728658",
+   "title": [
+    "Digital Personal Data Protection Act, 2023: A New Compliance Frontier for Indian Businesses"
+   ],
+   "author": [
+    {
+     "given": "Shubhi",
+     "family": "Tiwari",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.6728658",
+   "abstract": "<jats:p>The Digital Personal Data Protection Act, 2023 (DPDPA) marks the first stand-alone data protection law of India. This paper discusses the main aspects of the DPDPA, namely the duties of the data fiduciaries, rights of the data principals and other pertinent issues. The impact of the new data protection law on Indian businesses has been explored in detail in this research paper. The paper has concluded that, although the Digital Personal Data Protection Act marks an important step towards an effective data protection law in India, its implementation would critically depend on subordinate legislations yet to be formulated by the Central Government.</jats:p>"
+  },
+  {
+   "DOI": "10.1177/09710973251328785",
+   "title": [
+    "Beyond Consent: Ensuring Meaningful Protection of Genetic Data Under India\u2019s Digital Personal Data Protection Act, 2023"
+   ],
+   "author": [
+    {
+     "given": "RK",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Forensic Medicine, Amaltas Institute of Medical Science, Dewas, Madhya Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vini",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Law University, Jodhpur, Rajasthan, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Indian Academy of Forensic Medicine"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1177/09710973251328785",
+   "abstract": "<jats:p>India\u2019s Digital Personal Data Protection Act (DPDPA) adopts a notice-and-consent-based framework for data protection; it treats all personal data, including genetic data, as a singular category without accounting for its unique characteristics. Unlike ordinary personal data, genetic data is inherently relational; it reveals information not just about an individual but also their biological relatives. Moreover, the risks associated with the processing of genetic data extend beyond identifiability, such as the potential for its misuse in law enforcement or to discriminate in matters of employment or insurance. Despite these concerns, the DPDPA fails to offer a nuanced regulatory approach, lacks a clear definition of genetic data, and does not impose heightened safeguards for its processing.</jats:p>\n                  <jats:p>This article identifies the limitations of the DPDPA\u2019s notice-and-consent-based model in regulating genetic data processing and argues for a shift toward a harm-based framework. It proposes key reforms, such as the classification of genetic data into categories based on sensitivity, an expanded definition of the data principal to include affected blood relatives, and risk-based processing guidelines that categorize genetic data processing into prohibited, high-risk, medium-risk, and low-risk processing. Additionally, this article advocates for stronger privacy by design and by default requirements, mandatory data protection impact assessments (DPIAs), and the introduction of rights such as data portability and right to restrict processing. Further, to ensure effective enforcement, it recommends strengthening grievance redressal mechanisms, introducing compensation for privacy harms, and imposing proportionate criminal liability for negligent handling of sensitive genetic data.</jats:p>\n                  <jats:p>By addressing these gaps, this article underscores the need for a strong legal framework that moves beyond notice and consent to provide meaningful privacy protections for genetic data in India\u2019s evolving digital landscape.</jats:p>"
+  },
+  {
+   "DOI": "10.59646/dataprotectionc11/125",
+   "title": [
+    "Critical Analysis of Digital Personal Data Protection Act 2023"
+   ],
+   "author": [
+    {
+     "name": "Vice Principal, PES Modern Law College, Pune, Maharashtra 411016, India.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dr. Shivanjali",
+     "family": "Bhoite",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      18
+     ]
+    ]
+   },
+   "container-title": [
+    "Personal Data Protection In Digital Age: Issues And Challenges"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.59646/dataprotectionc11/125"
+  },
+  {
+   "DOI": "10.2139/ssrn.4614992",
+   "title": [
+    "The Indian Digital Personal Data Protection Act, 2023, viewed from a European Perspective - Executive Summary"
+   ],
+   "author": [
+    {
+     "given": "Douwe",
+     "family": "Korff",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.4614992",
+   "abstract": "<jats:p>This is the Executive Summary of my paper, \"The Indian Digital Personal Data Protection Act, 2023, viewed from a European perspective\", that provides an early overview and assessment from a European perspective of the recently adopted Indian Digital Personal Data Protection Act, 2023 (the DPDP Act). The full paper is also available from SSRN: &lt;a href=\"https://ssrn.com/abstract=4614984\"&gt;https://ssrn.com/abstract=4614984&lt;/a&gt;</jats:p>"
+  },
+  {
+   "DOI": "10.2139/ssrn.5366868",
+   "title": [
+    "Data, Control, and Power: Decoding India\u2019s Digital Personal Data Protection Act, 2023"
+   ],
+   "author": [
+    {
+     "given": "Rudraksh",
+     "family": "Lakra",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Medha",
+     "family": "Kolanu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Abhijeet",
+     "family": "Shrivastava",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5366868"
+  },
+  {
+   "DOI": "10.2139/ssrn.7009938",
+   "title": [
+    "Between Accessibility and Protection: Rethinking the Publicly Available Data Exemption under the Digital Personal Data Protection Act, 2023&amp;nbsp;"
+   ],
+   "author": [
+    {
+     "given": "Kunal",
+     "family": "Acharya",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.7009938",
+   "abstract": "<jats:p>The treatment of publicly available data under India's Digital Personal Data Protection Act, 2023, raises a critical regulatory concern. Section 3(c)(ii) provides a blanket exemption for personal data made public by the data principal or by another individual under a legal obligation, effectively removing such data from the Act's scope. While legal discourse on the provision focuses on data scraping, this paper highlights a neglected risk where disparate public datapoints are aggregated to facilitate re-identification. Advances in Large Language Models significantly reduce the cost and time of linking data, making re-identification easier. The paper argues that the exemption creates a structural gap, by overlooking re-identification risks posed by traditional and AI-based methods using publicly available data. Through a comparative analysis of approaches adopted in the EU, UK, and Hong Kong, it proposes a solution that subjects publicly available data to regulatory oversight while preserving its utility for research and journalism.</jats:p>"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "host": "api.crossref.org",
+  "url": "https://api.crossref.org/works?query.bibliographic=A%20Stoplight%20for%20Student%20Data%20Use%20&rows=3&select=DOI,title",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:39:28"
+ },
+ {
+  "host": "api.crossref.org",
+  "url": "https://api.crossref.org/works?query.bibliographic=Best%20Practices%20for%20Data%20Destruction%20&rows=3&select=DOI,title",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:39:28"
+ },
+ {
+  "host": "api.crossref.org",
+  "url": "https://api.crossref.org/works?query.bibliographic=%26apos%3BHonestly%20No%2C%20I%26apos%3Bve%20Never%20Looked%20at%20It%26apos%3B%3A%20Teachers%26apos%3B%20Understandings%20and%20Practices%20Related%",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:39:28"
+ },
+ {
+  "host": "api.crossref.org",
+  "url": "https://api.crossref.org/works?query.bibliographic=Aligning%20the%20Effective%20Use%20of%20Student%20Data%20with%20Student%20Privacy%20and%20Security%20Laws%20Winnick&rows=3&select=DOI,title",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:39:28"
+ }
+]

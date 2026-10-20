@@ -1,0 +1,6 @@
+unit_id,item,old,new,reason
+ED-043,D3,N,P,marketing opt-out by link/contact = P under rule D3
+ED-058,D3,N,P,states a right to opt out (no channel) = P under rule D3
+ED-018,D7,P,Y,rule v1.1: dedicated privacy/grievance address counts as Y for D7
+ED-001,D7,P,Y,rule v1.1: dedicated grievance address counts as Y for D7
+ED-035,D7,P,Y,rule v1.1: section for data concerns with a privacy contact address

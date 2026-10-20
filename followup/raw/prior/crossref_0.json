@@ -1,0 +1,470 @@
+{
+ "q": "privacy policy analysis Indian edtech DPDP Act",
+ "items": [
+  {
+   "DOI": "10.5005/jima-11070-0080",
+   "title": [
+    "Data Privacy and Data Breach in the Context of the DPDP Act"
+   ],
+   "author": [
+    {
+     "given": "Ranjan",
+     "family": "Bhattacharyya",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of the Indian Medical Association"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.5005/jima-11070-0080"
+  },
+  {
+   "DOI": "10.55248/gengpi.06.1225.4289",
+   "title": [
+    "Privacy without Cost Inflation: Applying Global Data Protection Lessons to India\u2019s DPDP Act through Architecture-Led Compliance"
+   ],
+   "author": [
+    {
+     "given": "Narendra",
+     "family": "Vijayasimha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Research Publication and Reviews"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.55248/gengpi.06.1225.4289"
+  },
+  {
+   "DOI": "10.64388/irev9i10-1717032",
+   "title": [
+    "Automated Profiling, Privacy Rights, and Gaps in India\u2019s DPDP Act 2023"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Iconic Research and Engineering Journals"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.64388/irev9i10-1717032"
+  },
+  {
+   "DOI": "10.4018/979-8-2600-0408-1.ch014",
+   "title": [
+    "Privacy-First GenAI Marketing in Indian Fintech"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-8493-1474",
+     "authenticated-orcid": true,
+     "given": "D.",
+     "family": "Deepak",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Jain (Deemed to be) University, Bengaluru, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      21
+     ]
+    ]
+   },
+   "container-title": [
+    "Advances in Computational Intelligence and Robotics",
+    "Regulatory Compliance for Privacy-First GenAI Marketing Ethics"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4018/979-8-2600-0408-1.ch014",
+   "abstract": "<jats:p>The convergence of generative AI (GenAI) and hyper-personalised marketing is reshaping India's fintech sector, even as the Digital Personal Data Protection (DPDP) Act 2023 introduces the country's first comprehensive statutory regime for personal data. This chapter examines the tension and complementarity between Gen AI-driven marketing practices - including large language models, diffusion models, and multimodal behavioural profiling - and India's evolving privacy landscape. It analyses the DPDP Act's implications for consent architecture, data principal rights, and the enhanced obligations placed on Significant Data Fiduciaries, before turning to the distinct governance challenges posed by GST transaction data as a marketing signal, delineating where lawful use of such data ends and unlawful repurposing begins. Building on this analysis, the chapter introduces the Ethical Personalisation Compliance Framework (EPCF), a three-tier strategic model grounded in privacy-by-design, contextual integrity, algorithmic accountability, proportionality, and continuous consent.</jats:p>"
+  },
+  {
+   "DOI": "10.2139/ssrn.6900122",
+   "title": [
+    "Navigating the Compliance Labyrinth: Challenges and Best Practices for Indian SaaS Startups under the DPDP Act 2023 and GDPR"
+   ],
+   "author": [
+    {
+     "given": "Bobby",
+     "family": "Choudhary",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.6900122",
+   "abstract": "<jats:p>&lt;p&gt;Indian software has quietly turned into a global industry, and most of its companies sell abroad before they sell at home. That one commercial fact lands the average Indian SaaS startup in the middle of two data-protection regimes at the same time. At home, the Digital Personal Data Protection Act, 2023 finally has teeth: the DPDP Rules, 2025, notified on 14 November 2025, fixed the timelines, switched on the Data Protection Board, and set a hard compliance horizon. Abroad, the European Union\u2019s General Data Protection Regulation has applied since 2018 and reaches any Indian firm that touches a European user. The question this paper takes up is a working founder\u2019s question, not an abstract one: how do you satisfy both regimes at once without building two of everything? My argument is that you should not try to. The two laws agree on what matters most \u2014notice, purpose, security, the rights of the individual\u2014and part ways mainly in their machinery. Where they differ, the differences are specific and manageable: a fixed eighteen-month clock running to May 2027; an Indian breach-reporting duty that layers awkwardly over the GDPR\u2019s own seventy-two-hour rule; a Consent Manager with no European cousin; a permissive \u201cnegative-list\u201d on cross-border transfers where Europe is restrictive; verifiable parental consent that bites hardest in EdTech; and a heavier audit-and-assessment burden for anyone large enough to be named a Significant Data Fiduciary. Build one programme to the stricter European standard, bolt the India-specific pieces on top, and most of the labyrinth straightens out. The paper sets out the law, the SaaS-specific pressure points, a clause-level comparison, and a phased roadmap\u2014and closes with recommendations for founders and regulators alike. Compliance, handled well, is not a tax. For a company that sells trust, it is part of the product.&lt;/p&gt;</jats:p>"
+  },
+  {
+   "DOI": "10.55496/efbp9778",
+   "title": [
+    "Revisiting The Public Domain Exception Under the DPDP Act : Part I"
+   ],
+   "author": [
+    {
+     "given": "Abhinav",
+     "family": "Ravi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "container-title": [
+    "Revisiting The Public Domain Exception Under the DPDP Act : Part II"
+   ],
+   "type": "report-component",
+   "URL": "https://doi.org/10.55496/efbp9778",
+   "abstract": "<jats:p>This article develops a framework for evaluating the legitimate use of publicly available personal information. Drawing on Helen Nissenbaum\u2019s theory of contextual integrity, it argues that public disclosure relaxes certain expectations concerning access to information but does not permit unrestricted downstream use. The article proposes three principles of contextual consistency as indicators of legitimate information flows in the public domain. It then considers how these principles might be operationalised within the Digital Personal Data Protection Act, arguing that publicly available information is better treated as a legitimate-use ground than as a blanket exemption. This is Part II of a two-part blog series.</jats:p>"
+  },
+  {
+   "DOI": "10.17323/2713-2749.2025.2.87.117",
+   "title": [
+    "Informational Privacy in the Age of Artificial Intelligence: A Critical Analysis of India\u2019s DPDP Act, 2023"
+   ],
+   "author": [
+    {
+     "given": "Usha",
+     "family": "Tandon",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Neeraj Kumar",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Legal Issues in the Digital Age"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.17323/2713-2749.2025.2.87.117",
+   "abstract": "<jats:p>Informational privacy, often referred as data privacy or data protection, is about an individual\u2019s right to control how their personal information is collected, used and shared. Recent AI developments around the world have engulfed the world in its charm. Indian population, as well, is living under the cyber-revolution. India is gradually becoming dependent on technology for majority of the services obtained in daily life. Use of internet and Internet of Things leave traces of digital footprints which generate big data. This data can be personal as well as non-personal in nature. Such data about individuals can be utilised for understanding the socio-economic profile, culture, lifestyle, and personal information, like love life, health, well-being, sexual preferences, sexual orientation and various other types of individual traits. Issues like data breach, however, have also exposed users of information and technology to various types of risks such as cyber-crimes and other fraudulent practices. This article critically analysis recently enacted Digital Personal Data Protection Act, 2023 (DPDP) in the light of following questions: How it tackles with the issues of informational privacy and data processing? What measures have been envisaged under the DPDP Act, for the protection of informational privacy? How individual rights with respect to data protection are balanced against the legitimate state interest in ensuring safety and security of the nation? Whether this right is available only against the State or against the non-State actors as well? etc. Having critically analysed DPDP Act, the article calls for further refinement of DPDP Act in various areas, more specifically, suggesting that, it is imperative that DPDP Act requires critical decisions based on personal data to undergo human review, ensuring they are not solely the result of automated data processing.</jats:p>"
+  },
+  {
+   "DOI": "10.56726/irjmets81801",
+   "title": [
+    "Balancing Privacy and Innovation: Analyzing the DPDP Act, 2023 in India\u2019s Cyber Law Framework"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      20
+     ]
+    ]
+   },
+   "container-title": [
+    "International Research Journal of Modernization in Engineering Technology &amp; Science"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.56726/irjmets81801"
+  },
+  {
+   "DOI": "10.69953/nurs.v10i1.369",
+   "title": [
+    "[IN] ADEQUACY OF THE DPDP ACT VIS-\u00c0-VIS RIGHT TO PRIVACY AT WORKPLACE"
+   ],
+   "author": [
+    {
+     "given": "Harshita",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dhaani",
+     "family": "Dave",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      23
+     ]
+    ]
+   },
+   "container-title": [
+    "NUJS Journal of Regulatory Studies"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.69953/nurs.v10i1.369",
+   "abstract": "<jats:p>The world is witnessing a digital revolution. Algorithms are steadily sneaking into all aspects of our lives influencing our day to day affairs. The steady increase in datafication of the small mundane realities of life makes one fear about the rise of surveillance not only by the state but private entities as well. In India, though the Puttaswamy Judgment recognised the right to privacy particularly informational privacy as part of Article 21, the enforcement of the Digital Personal Data Protection Act [\u201cDPDP Act\u201d or \u201cthe Act\u201d] is still awaited. The DPDP Act, as per its Preamble tries to strike a balance between the right to privacy and the right to process data.\u00a0 However, the Act does not define \u2018privacy\u2019. This raises the suspicion- whether the act is adequately equipped to protect privacy? India\u2019s privacy framework will be applicable on myriad sectors such as healthcare, digital governance, compliance by corporate houses et cetera. This paper is an attempt to investigate into the aspect of how far the DPDP secures the right to privacy especially informational privacy at workplace. This investigation is significant not only in the background of rise in the use of monitoring tools but also because of skewed employee-employer power dynamic. This paper tries to understand the potency of the Indian data protection law in the background of employee privacy by firstly understanding various provisions that affect privacy at workplace in general and thereafter shift the focus to Section 7(i) of the Act. We delve into the history of the provision in this regard and do a comparative analysis with the similarly placed provision in the General Data Protection Regulation and Personal Data Protection Act, Singapore. Thereafter,we shall offer some suggestions on how data privacy can be better protected at workplace by making suitable amendments to the certain provisions in the Act and thereafter provide a conclusion.</jats:p>"
+  },
+  {
+   "DOI": "10.63680/ijsate1125073.055",
+   "title": [
+    "Why Privacy Laws Fail or Succeed: Cost, Architecture, and Governance under the DPDP Act in Comparative Perspective"
+   ],
+   "author": [
+    {
+     "given": "Varun N.",
+     "family": "Rao",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      24
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Science Architecture Technology and Environment"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.63680/ijsate1125073.055"
+  },
+  {
+   "DOI": "10.65719/rc.3.2.2025.032",
+   "title": [
+    "Privacy in the Digital Age: A Critical Study of the DPDP Act 2023 and its\u00a0Implications"
+   ],
+   "author": [
+    {
+     "given": "Praveen",
+     "family": "Yadav",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rajesh",
+     "family": "Yadav",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Research Communications"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.65719/rc.3.2.2025.032"
+  },
+  {
+   "DOI": "10.21552/edpl/2025/4/17",
+   "title": [
+    "India \u00b7 Privacy and Data Protection in the Digital Age: Policy Reflections on India\u2019s DPDP Act 2023 and the EU\u2019s GDPR"
+   ],
+   "author": [
+    {
+     "given": "S.",
+     "family": "Rai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.K.",
+     "family": "Chauhan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "Sailo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.K.",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Mann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "container-title": [
+    "European Data Protection Law Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21552/edpl/2025/4/17"
+  }
+ ]
+}

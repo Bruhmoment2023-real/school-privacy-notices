@@ -1,0 +1,12 @@
+{
+  "title": "How ready are Indian schools and edtech services to give privacy notices? A baseline against the DPDP Act and Rules before May 2027",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, coding rules and de-identified results for a readiness baseline of the public privacy notices of 240 sampled Indian school websites and edtech services against the notice and children's-data requirements of the Digital Personal Data Protection Act 2023 and Rules 2025. Institution names, URLs and saved notice text are deliberately not included; units appear only as random codes."
+}

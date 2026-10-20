@@ -1,0 +1,13 @@
+# Pinned from the project virtual environment (Python 3.12.10); versions as installed when the results were produced.
+pandas==3.0.6
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+networkx==3.7
+plotly==7.1.0
+pyvis==0.3.2
+requests==2.34.2
+beautifulsoup4==4.15.0
+pycountry==26.2.16
+rapidfuzz==3.14.6
+pypdf==6.20.1

@@ -1,0 +1,10 @@
+test,group1,group2,odds_ratio,p,p_holm
+H1 notice presence: edtech vs all schools,41/43,19/116,104.66,6.964640207787636e-21,2.7858560831150546e-20
+notice presence: CBSE vs CISCE,9/53,6/32,0.89,1.0,
+H6 notice presence: class X vs class Z (CBSE+CISCE),9/31,3/24,2.86,0.19426387483628843,0.21566754239312158
+H6b notice presence: class X vs Y+Z (CBSE+CISCE),9/31,6/54,3.27,0.07317927682550993,0.21566754239312158
+H3 core five met: edtech vs all schools,2/43,0/116,,0.07188918079770719,0.21566754239312158
+D5 Board named (strict): edtech notices vs school notices,2/41,0/19,,1.0,
+K4 parent verification (strict): edtech vs school notices,1/41,0/19,,1.0,
+S1 names DPDP: edtech vs school notices,9/41,0/19,,0.046274334269327824,
+Kruskal-Wallis core items met (0-5) across groups (all verified units),,,,6.02849846109819e-19,

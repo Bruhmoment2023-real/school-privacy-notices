@@ -1,0 +1,3469 @@
+{
+ "q": "COPPA children's apps privacy policy compliance",
+ "status": 200,
+ "res": [
+  {
+   "id": "https://openalex.org/W2597857713",
+   "doi": null,
+   "title": "\"Is Our Children's Apps Learning?\" Automatically Detecting COPPA Violations",
+   "publication_year": 2017,
+   "primary_location": {
+    "id": "pmh:oai:dspace.networks.imdea.org:20.500.12761/350",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/20.500.12761/350",
+    "pdf_url": "https://dspace.networks.imdea.org/bitstream/20.500.12761/350/1/conpro.pdf",
+    "source": {
+     "id": "https://openalex.org/S7407055247",
+     "display_name": "IMDEA Networks Institute Digital Repository",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "conference object"
+   },
+   "cited_by_count": 28,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5012256449",
+      "display_name": "Irwin O. Reyes",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Irwin Reyes",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5055234463",
+      "display_name": "Primal Wijesekera",
+      "orcid": "https://orcid.org/0000-0002-8241-3102",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8241-3102"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Primal Wijesekera",
+     "raw_affiliation_strings": [],
+     "raw_orcid": "https://orcid.org/0000-0002-8241-3102",
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084849425",
+      "display_name": "Abbas Razaghpanah",
+      "orcid": "https://orcid.org/0000-0002-0320-8611",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0320-8611"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Abbas Razaghpanah",
+     "raw_affiliation_strings": [],
+     "raw_orcid": "https://orcid.org/0000-0002-0320-8611",
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059746228",
+      "display_name": "Joel Reardon",
+      "orcid": "https://orcid.org/0000-0001-9702-775X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9702-775X"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Joel Reardon",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5016569835",
+      "display_name": "Narseo Vallina-Rodr\u00edguez",
+      "orcid": "https://orcid.org/0000-0002-5420-6835",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5420-6835"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Narseo Vallina-Rodriguez",
+     "raw_affiliation_strings": [],
+     "raw_orcid": "https://orcid.org/0000-0002-5420-6835",
+     "affiliations": []
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5000020874",
+      "display_name": "Serge Egelman",
+      "orcid": "https://orcid.org/0000-0003-2288-0785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2288-0785"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Serge Egelman",
+     "raw_affiliation_strings": [],
+     "raw_orcid": "https://orcid.org/0000-0003-2288-0785",
+     "affiliations": []
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5024267292",
+      "display_name": "Christian Kreibich",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Christian Kreibich",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2796498984",
+   "doi": "https://doi.org/10.1515/popets-2018-0021",
+   "title": "\u201cWon\u2019t Somebody Think of the Children?\u201d Examining COPPA Compliance at Scale",
+   "publication_year": 2018,
+   "primary_location": {
+    "id": "doi:10.1515/popets-2018-0021",
+    "doi": "https://doi.org/10.1515/popets-2018-0021",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1515/popets-2018-0021",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210183172",
+     "display_name": "Proceedings on Privacy Enhancing Technologies",
+     "issn_l": "2299-0984",
+     "issn": [
+      "2299-0984"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "jufo-1",
+      "norway-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320322",
+     "host_organization_name": "De Gruyter Open",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320322",
+      "https://openalex.org/P4310313990"
+     ],
+     "host_organization_lineage_names": [
+      "De Gruyter Open",
+      "De Gruyter"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings on Privacy Enhancing Technologies",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 186,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5012256449",
+      "display_name": "Irwin O. Reyes",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Irwin Reyes",
+     "raw_affiliation_strings": [
+      "International Computer Science Institute, California , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "International Computer Science Institute, California , USA",
+       "institution_ids": [
+        "https://openalex.org/I1297971548"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5055234463",
+      "display_name": "Primal Wijesekera",
+      "orcid": "https://orcid.org/0000-0002-8241-3102",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8241-3102"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I141945490",
+       "display_name": "University of British Columbia",
+       "ror": "https://ror.org/03rmrcq20",
+       "country_code": "CA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I141945490"
+       ]
+      }
+     ],
+     "countries": [
+      "CA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Primal Wijesekera",
+     "raw_affiliation_strings": [
+      "University of British Columbia, Vancouver , BC, Canada"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of British Columbia, Vancouver , BC, Canada",
+       "institution_ids": [
+        "https://openalex.org/I141945490"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059746228",
+      "display_name": "Joel Reardon",
+      "orcid": "https://orcid.org/0000-0001-9702-775X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9702-775X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I168635309",
+       "display_name": "University of Calgary",
+       "ror": "https://ror.org/03yjb2x39",
+       "country_code": "CA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I168635309"
+       ]
+      }
+     ],
+     "countries": [
+      "CA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Joel Reardon",
+     "raw_affiliation_strings": [
+      "University of Calgary, Calgary , Canada"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Calgary, Calgary , Canada",
+       "institution_ids": [
+        "https://openalex.org/I168635309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5037134085",
+      "display_name": "Amit Elazari Bar On",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Amit Elazari Bar On",
+     "raw_affiliation_strings": [
+      "University of California, Berkeley , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of California, Berkeley , USA",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5084849425",
+      "display_name": "Abbas Razaghpanah",
+      "orcid": "https://orcid.org/0000-0002-0320-8611",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-0320-8611"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I59553526",
+       "display_name": "Stony Brook University",
+       "ror": "https://ror.org/05qghxh33",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Abbas Razaghpanah",
+     "raw_affiliation_strings": [
+      "Stony Brook University, Stony Brook, New York , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Stony Brook University, Stony Brook, New York , USA",
+       "institution_ids": [
+        "https://openalex.org/I59553526"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5016569835",
+      "display_name": "Narseo Vallina-Rodr\u00edguez",
+      "orcid": "https://orcid.org/0000-0002-5420-6835",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5420-6835"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Narseo Vallina-Rodriguez",
+     "raw_affiliation_strings": [
+      "IMDEA Networks and International Computer Science Institute, Berkeley , CA, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "IMDEA Networks and International Computer Science Institute, Berkeley , CA, USA",
+       "institution_ids": [
+        "https://openalex.org/I1297971548"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5000020874",
+      "display_name": "Serge Egelman",
+      "orcid": "https://orcid.org/0000-0003-2288-0785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2288-0785"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Serge Egelman",
+     "raw_affiliation_strings": [
+      "of California, Berkeley and International Computer Science Institute, Berkeley , USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "of California, Berkeley and International Computer Science Institute, Berkeley , USA",
+       "institution_ids": [
+        "https://openalex.org/I1297971548",
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4313563723",
+   "doi": "https://doi.org/10.1145/3551349.3560416",
+   "title": "Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.1145/3551349.3560416",
+    "doi": "https://doi.org/10.1145/3551349.3560416",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3551349.3560416",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3551349.3560416",
+    "source": {
+     "id": "https://openalex.org/S4363608212",
+     "display_name": "IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+    "raw_type": "proceedings-article"
+   },
+   "cited_by_count": 34,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5039101810",
+      "display_name": "Fuman Xie",
+      "orcid": "https://orcid.org/0000-0002-5446-3081",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5446-3081"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I165143802",
+       "display_name": "The University of Queensland",
+       "ror": "https://ror.org/00rqy9422",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Fuman Xie",
+     "raw_affiliation_strings": [
+      "University of Queensland, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5446-3081",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Queensland, Australia",
+       "institution_ids": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5100449630",
+      "display_name": "Yanjun Zhang",
+      "orcid": "https://orcid.org/0000-0001-5611-3483",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5611-3483"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I149704539",
+       "display_name": "Deakin University",
+       "ror": "https://ror.org/02czsnj07",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I149704539"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yanjun Zhang",
+     "raw_affiliation_strings": [
+      "Deakin University, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-5611-3483",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Deakin University, Australia",
+       "institution_ids": [
+        "https://openalex.org/I149704539"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5048990879",
+      "display_name": "Chuan Yan",
+      "orcid": "https://orcid.org/0000-0003-4855-1912",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-4855-1912",
+       "https://orcid.org/0000-0003-2619-1282"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I165143802",
+       "display_name": "The University of Queensland",
+       "ror": "https://ror.org/00rqy9422",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Chuan Yan",
+     "raw_affiliation_strings": [
+      "University of Queensland, Australia"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-6390-9890",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Queensland, Australia",
+       "institution_ids": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5060849566",
+      "display_name": "Suwan Li",
+      "orcid": "https://orcid.org/0000-0003-1202-0220",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-1202-0220"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I881766915",
+       "display_name": "Nanjing University",
+       "ror": "https://ror.org/01rxvg760",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I881766915"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Suwan Li",
+     "raw_affiliation_strings": [
+      "Nanjing University, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Nanjing University, China",
+       "institution_ids": [
+        "https://openalex.org/I881766915"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5029676029",
+      "display_name": "Lei Bu",
+      "orcid": "https://orcid.org/0000-0003-0517-7801",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-0517-7801"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I881766915",
+       "display_name": "Nanjing University",
+       "ror": "https://ror.org/01rxvg760",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I881766915"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lei Bu",
+     "raw_affiliation_strings": [
+      "Nanjing University, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Nanjing University, China",
+       "institution_ids": [
+        "https://openalex.org/I881766915"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5100437976",
+      "display_name": "Kai Chen",
+      "orcid": "https://orcid.org/0000-0002-5624-2987",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5624-2987"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I19820366",
+       "display_name": "Chinese Academy of Sciences",
+       "ror": "https://ror.org/034t30j35",
+       "country_code": "CN",
+       "type": "government",
+       "lineage": [
+        "https://openalex.org/I19820366"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Kai Chen",
+     "raw_affiliation_strings": [
+      "Chinese Academy of Sciences, China"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Chinese Academy of Sciences, China",
+       "institution_ids": [
+        "https://openalex.org/I19820366"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5078170935",
+      "display_name": "Zi Helen Huang",
+      "orcid": "https://orcid.org/0000-0002-9738-4949",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9738-4949",
+       "https://orcid.org/0000-0002-7190-9620"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I165143802",
+       "display_name": "The University of Queensland",
+       "ror": "https://ror.org/00rqy9422",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Zi Huang",
+     "raw_affiliation_strings": [
+      "University of Queensland, Australia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Queensland, Australia",
+       "institution_ids": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5015858067",
+      "display_name": "Guangdong Bai",
+      "orcid": "https://orcid.org/0000-0002-6390-9890",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6390-9890"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I165143802",
+       "display_name": "The University of Queensland",
+       "ror": "https://ror.org/00rqy9422",
+       "country_code": "AU",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ],
+     "countries": [
+      "AU"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Guangdong Bai",
+     "raw_affiliation_strings": [
+      "University of Queensland, Australia"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Queensland, Australia",
+       "institution_ids": [
+        "https://openalex.org/I165143802"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4410475035",
+   "doi": "https://doi.org/10.56553/popets-2025-0094",
+   "title": "The Effect of Platform Policies on App Privacy Compliance: A Study of Child-Directed Apps",
+   "publication_year": 2025,
+   "primary_location": {
+    "id": "doi:10.56553/popets-2025-0094",
+    "doi": "https://doi.org/10.56553/popets-2025-0094",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.56553/popets-2025-0094",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S4210183172",
+     "display_name": "Proceedings on Privacy Enhancing Technologies",
+     "issn_l": "2299-0984",
+     "issn": [
+      "2299-0984"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "jufo-1",
+      "norway-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320322",
+     "host_organization_name": "De Gruyter Open",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320322",
+      "https://openalex.org/P4310313990"
+     ],
+     "host_organization_lineage_names": [
+      "De Gruyter Open",
+      "De Gruyter"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings on Privacy Enhancing Technologies",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 2,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5048201017",
+      "display_name": "Noura Alomar",
+      "orcid": "https://orcid.org/0000-0002-9052-999X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9052-999X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Noura Alomar",
+     "raw_affiliation_strings": [
+      "University of California, Berkeley"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of California, Berkeley",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5059746228",
+      "display_name": "Joel Reardon",
+      "orcid": "https://orcid.org/0000-0001-9702-775X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9702-775X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I168635309",
+       "display_name": "University of Calgary",
+       "ror": "https://ror.org/03yjb2x39",
+       "country_code": "CA",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I168635309"
+       ]
+      }
+     ],
+     "countries": [
+      "CA"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Joel Reardon",
+     "raw_affiliation_strings": [
+      "University of Calgary"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Calgary",
+       "institution_ids": [
+        "https://openalex.org/I168635309"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5067900210",
+      "display_name": "Aniketh Girish",
+      "orcid": "https://orcid.org/0000-0002-2895-125X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2895-125X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2802499160",
+       "display_name": "IMDEA Networks",
+       "ror": "https://ror.org/04mm9fg30",
+       "country_code": "ES",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I105140100",
+        "https://openalex.org/I2802499160"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Aniketh Girish",
+     "raw_affiliation_strings": [
+      "IMDEA Networks Institute"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "IMDEA Networks Institute",
+       "institution_ids": [
+        "https://openalex.org/I2802499160"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5016569835",
+      "display_name": "Narseo Vallina-Rodr\u00edguez",
+      "orcid": "https://orcid.org/0000-0002-5420-6835",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5420-6835"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2802499160",
+       "display_name": "IMDEA Networks",
+       "ror": "https://ror.org/04mm9fg30",
+       "country_code": "ES",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I105140100",
+        "https://openalex.org/I2802499160"
+       ]
+      }
+     ],
+     "countries": [
+      "ES"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Narseo Vallina-Rodriguez",
+     "raw_affiliation_strings": [
+      "IMDEA Networks Institute"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "IMDEA Networks Institute",
+       "institution_ids": [
+        "https://openalex.org/I2802499160"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5000020874",
+      "display_name": "Serge Egelman",
+      "orcid": "https://orcid.org/0000-0003-2288-0785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2288-0785"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Serge Egelman",
+     "raw_affiliation_strings": [
+      "University of California, Berkeley and International Computer Science Institute (ICSI)"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of California, Berkeley and International Computer Science Institute (ICSI)",
+       "institution_ids": [
+        "https://openalex.org/I1297971548",
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2936400421",
+   "doi": "https://doi.org/10.5281/zenodo.3441956",
+   "title": "On The Ridiculousness of Notice and Consent: Contradictions in App Privacy Policies",
+   "publication_year": 2019,
+   "primary_location": {
+    "id": "pmh:oai:dspace.networks.imdea.org:20.500.12761/690",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/20.500.12761/690",
+    "pdf_url": "https://dspace.networks.imdea.org/bitstream/20.500.12761/690/1/On_The_Ridiculousness_of_Notice_and_Consent_2019_EN.pdf",
+    "source": {
+     "id": "https://openalex.org/S7407055247",
+     "display_name": "IMDEA Networks Institute Digital Repository",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "conference object"
+   },
+   "cited_by_count": 31,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5030992941",
+      "display_name": "Ehimare Okoyomon",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Okoyomon, Ehimare",
+     "raw_affiliation_strings": [
+      "UC Berkeley"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UC Berkeley",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5031972170",
+      "display_name": "Nikita Samarin",
+      "orcid": "https://orcid.org/0000-0001-7595-1079",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7595-1079"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Samarin, Nikita",
+     "raw_affiliation_strings": [
+      "UC Berkeley",
+      "University of California, Berkeley, Berkeley, United States"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UC Berkeley",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley, Berkeley, United States",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5055234463",
+      "display_name": "Primal Wijesekera",
+      "orcid": "https://orcid.org/0000-0002-8241-3102",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-8241-3102"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Wijesekera, Primal",
+     "raw_affiliation_strings": [
+      "UC Berkeley / ICSI",
+      "University of California, Berkeley, Berkeley, United States"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UC Berkeley / ICSI",
+       "institution_ids": [
+        "https://openalex.org/I1297971548",
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley, Berkeley, United States",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5037134085",
+      "display_name": "Amit Elazari Bar On",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Elazari Bar On, Amit",
+     "raw_affiliation_strings": [
+      "UC Berkeley",
+      "University of California, Berkeley, Berkeley, United States"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UC Berkeley",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley, Berkeley, United States",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5016569835",
+      "display_name": "Narseo Vallina-Rodr\u00edguez",
+      "orcid": "https://orcid.org/0000-0002-5420-6835",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5420-6835"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1321014770",
+       "display_name": "Association for Computing Machinery",
+       "ror": "https://ror.org/03wsadn68",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1321014770"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I2802499160",
+       "display_name": "IMDEA Networks",
+       "ror": "https://ror.org/04mm9fg30",
+       "country_code": "ES",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I105140100",
+        "https://openalex.org/I2802499160"
+       ]
+      }
+     ],
+     "countries": [
+      "ES",
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Vallina-Rodriguez, Narseo",
+     "raw_affiliation_strings": [
+      "ICSI / IMDEA Networks Institute",
+      "Association for Computing Machinery, New York, United States"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "ICSI / IMDEA Networks Institute",
+       "institution_ids": [
+        "https://openalex.org/I2802499160"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Association for Computing Machinery, New York, United States",
+       "institution_ids": [
+        "https://openalex.org/I1321014770"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5040431181",
+      "display_name": "\u00c1lvaro Feal",
+      "orcid": "https://orcid.org/0000-0002-6658-1800",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-6658-1800"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2802499160",
+       "display_name": "IMDEA Networks",
+       "ror": "https://ror.org/04mm9fg30",
+       "country_code": "ES",
+       "type": "facility",
+       "lineage": [
+        "https://openalex.org/I105140100",
+        "https://openalex.org/I2802499160"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I50357001",
+       "display_name": "Universidad Carlos III de Madrid",
+       "ror": "https://ror.org/03ths8210",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I50357001"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "ES",
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Feal, \u00c1lvaro",
+     "raw_affiliation_strings": [
+      "IMDEA Networks Institute / Universidad Carlos III de Madrid",
+      "University of California, Berkeley, Berkeley, United States"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "IMDEA Networks Institute / Universidad Carlos III de Madrid",
+       "institution_ids": [
+        "https://openalex.org/I2802499160",
+        "https://openalex.org/I50357001"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley, Berkeley, United States",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5000020874",
+      "display_name": "Serge Egelman",
+      "orcid": "https://orcid.org/0000-0003-2288-0785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2288-0785"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I105140100",
+       "display_name": "Madrid Institute for Advanced Studies",
+       "ror": "https://ror.org/027pk6j83",
+       "country_code": "ES",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I105140100"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "ES",
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Egelman, Serge",
+     "raw_affiliation_strings": [
+      "UC Berkeley / ICSI",
+      "Madrid Institute for Advanced Studies, Madrid, Spain"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "UC Berkeley / ICSI",
+       "institution_ids": [
+        "https://openalex.org/I1297971548",
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Madrid Institute for Advanced Studies, Madrid, Spain",
+       "institution_ids": [
+        "https://openalex.org/I105140100"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2921994188",
+   "doi": "https://doi.org/10.48550/arxiv.1903.05152",
+   "title": "Evaluating the Contextual Integrity of Privacy Regulation: Parents' IoT Toy Privacy Norms Versus COPPA",
+   "publication_year": 2019,
+   "primary_location": {
+    "id": "pmh:oai:arXiv.org:1903.05152",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/1903.05152",
+    "pdf_url": "https://arxiv.org/pdf/1903.05152",
+    "source": {
+     "id": "https://openalex.org/S4306400194",
+     "display_name": "arXiv (Cornell University)",
+     "issn_l": "2331-8422",
+     "issn": [
+      "2331-8422"
+     ],
+     "is_oa": true,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I205783295",
+     "host_organization_name": "Cornell University",
+     "host_organization_lineage": [
+      "https://openalex.org/I205783295"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+   },
+   "cited_by_count": 12,
+   "type": "preprint",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5082338011",
+      "display_name": "Noah Apthorpe",
+      "orcid": "https://orcid.org/0000-0002-9273-4268",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9273-4268"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I20089843",
+       "display_name": "Princeton University",
+       "ror": "https://ror.org/00hx57361",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Apthorpe, Noah",
+     "raw_affiliation_strings": [
+      "Princeton University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Princeton University",
+       "institution_ids": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5112689095",
+      "display_name": "Sarah Varghese",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I20089843",
+       "display_name": "Princeton University",
+       "ror": "https://ror.org/00hx57361",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Varghese, Sarah",
+     "raw_affiliation_strings": [
+      "Princeton University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Princeton University",
+       "institution_ids": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5068586837",
+      "display_name": "Nick Feamster",
+      "orcid": "https://orcid.org/0000-0001-9315-5201",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-9315-5201"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I20089843",
+       "display_name": "Princeton University",
+       "ror": "https://ror.org/00hx57361",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Feamster, Nick",
+     "raw_affiliation_strings": [
+      "Princeton University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Princeton University",
+       "institution_ids": [
+        "https://openalex.org/I20089843"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4405182284",
+   "doi": "https://doi.org/10.1145/3658644.3690321",
+   "title": "VPVet: Vetting Privacy Policies of Virtual Reality Apps",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.1145/3658644.3690321",
+    "doi": "https://doi.org/10.1145/3658644.3690321",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3658644.3690321",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3658644.3690321",
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security",
+    "raw_type": "proceedings-article"
+   },
+   "cited_by_count": 5,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": null,
+      "display_name": "Yuxia Zhan",
+      "orcid": "https://orcid.org/0000-0003-3981-6034",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-3981-6034"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yuxia Zhan",
+     "raw_affiliation_strings": [
+      "Shanghai Jiao Tong University, Shanghai, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0003-3981-6034",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Jiao Tong University, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5076583947",
+      "display_name": "Yan Meng",
+      "orcid": "https://orcid.org/0000-0001-5445-0347",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5445-0347"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yan Meng",
+     "raw_affiliation_strings": [
+      "Shanghai Jiao Tong University, Shanghai, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-5445-0347",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Jiao Tong University, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5101883746",
+      "display_name": "Lu Zhou",
+      "orcid": "https://orcid.org/0000-0002-5201-5074",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5201-5074"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I149594827",
+       "display_name": "Xidian University",
+       "ror": "https://ror.org/05s92vm98",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lu Zhou",
+     "raw_affiliation_strings": [
+      "Xidian University, Xi'an, Shaanxi, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5201-5074",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Xidian University, Xi'an, Shaanxi, China",
+       "institution_ids": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5040651724",
+      "display_name": "Yichang Xiong",
+      "orcid": "https://orcid.org/0009-0004-2680-0302",
+      "observed_orcids": [
+       "https://orcid.org/0009-0004-2680-0302"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Yichang Xiong",
+     "raw_affiliation_strings": [
+      "George Mason University, Fairfax, Virginia, USA"
+     ],
+     "raw_orcid": "https://orcid.org/0009-0004-2680-0302",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "George Mason University, Fairfax, Virginia, USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5071738824",
+      "display_name": "Xiaokuan Zhang",
+      "orcid": "https://orcid.org/0000-0002-4646-7146",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4646-7146"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I162714631",
+       "display_name": "George Mason University",
+       "ror": "https://ror.org/02jqj7156",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Xiaokuan Zhang",
+     "raw_affiliation_strings": [
+      "George Mason University, Fairfax, Virginia, USA"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-4646-7146",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "George Mason University, Fairfax, Virginia, USA",
+       "institution_ids": [
+        "https://openalex.org/I162714631"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5029234595",
+      "display_name": "Lichuan Ma",
+      "orcid": "https://orcid.org/0000-0002-4797-0253",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-4797-0253"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I149594827",
+       "display_name": "Xidian University",
+       "ror": "https://ror.org/05s92vm98",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Lichuan Ma",
+     "raw_affiliation_strings": [
+      "Xidian University, Xi'an, Shaanxi, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-4797-0253",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Xidian University, Xi'an, Shaanxi, China",
+       "institution_ids": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5100725580",
+      "display_name": "Guoxing Chen",
+      "orcid": "https://orcid.org/0000-0001-8107-5909",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8107-5909"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Guoxing Chen",
+     "raw_affiliation_strings": [
+      "Shanghai Jiao Tong University, Shanghai, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-8107-5909",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Jiao Tong University, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5065373445",
+      "display_name": "Qingqi Pei",
+      "orcid": "https://orcid.org/0000-0001-7601-5434",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-7601-5434",
+       "https://orcid.org/0000-0001-7614-1422"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I149594827",
+       "display_name": "Xidian University",
+       "ror": "https://ror.org/05s92vm98",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Qingqi Pei",
+     "raw_affiliation_strings": [
+      "Xidian University, Xi'an, Shaanxi, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-7601-5434",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Xidian University, Xi'an, Shaanxi, China",
+       "institution_ids": [
+        "https://openalex.org/I149594827"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5039106671",
+      "display_name": "Haojin Zhu",
+      "orcid": "https://orcid.org/0000-0001-5079-4556",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5079-4556"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I183067930",
+       "display_name": "Shanghai Jiao Tong University",
+       "ror": "https://ror.org/0220qvk04",
+       "country_code": "CN",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ],
+     "countries": [
+      "CN"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Haojin Zhu",
+     "raw_affiliation_strings": [
+      "Shanghai Jiao Tong University, Shanghai, China"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-5079-4556",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Shanghai Jiao Tong University, Shanghai, China",
+       "institution_ids": [
+        "https://openalex.org/I183067930"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4293783515",
+   "doi": "https://doi.org/10.56553/popets-2022-0108",
+   "title": "Developers Say the Darnedest Things: Privacy Compliance Processes Followed by Developers of Child-Directed Apps",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.56553/popets-2022-0108",
+    "doi": "https://doi.org/10.56553/popets-2022-0108",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.56553/popets-2022-0108",
+    "pdf_url": "https://petsymposium.org/popets/2022/popets-2022-0108.pdf",
+    "source": {
+     "id": "https://openalex.org/S4210183172",
+     "display_name": "Proceedings on Privacy Enhancing Technologies",
+     "issn_l": "2299-0984",
+     "issn": [
+      "2299-0984"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "jufo-1",
+      "norway-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320322",
+     "host_organization_name": "De Gruyter Open",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320322",
+      "https://openalex.org/P4310313990"
+     ],
+     "host_organization_lineage_names": [
+      "De Gruyter Open",
+      "De Gruyter"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings on Privacy Enhancing Technologies",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 36,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5048201017",
+      "display_name": "Noura Alomar",
+      "orcid": "https://orcid.org/0000-0002-9052-999X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9052-999X"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Noura Alomar",
+     "raw_affiliation_strings": [
+      "University of California, Berkeley",
+      "International Computer Science Institute,",
+      "University of California, Berkeley and",
+      "University of California, Berkeley,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of California, Berkeley",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "International Computer Science Institute,",
+       "institution_ids": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley and",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley,",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5000020874",
+      "display_name": "Serge Egelman",
+      "orcid": "https://orcid.org/0000-0003-2288-0785",
+      "observed_orcids": [
+       "https://orcid.org/0000-0003-2288-0785"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I1297971548",
+       "display_name": "International Computer Science Institute",
+       "ror": "https://ror.org/01ewh7m12",
+       "country_code": "US",
+       "type": "nonprofit",
+       "lineage": [
+        "https://openalex.org/I1297971548"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I95457486",
+       "display_name": "University of California, Berkeley",
+       "ror": "https://ror.org/01an7q238",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Serge Egelman",
+     "raw_affiliation_strings": [
+      "University of California, Berkeley and International Computer Science Institute",
+      "University of California, Berkeley and",
+      "University of California, Berkeley,"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of California, Berkeley and International Computer Science Institute",
+       "institution_ids": [
+        "https://openalex.org/I1297971548",
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley and",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      },
+      {
+       "raw_affiliation_string": "University of California, Berkeley,",
+       "institution_ids": [
+        "https://openalex.org/I95457486"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W309768074",
+   "doi": null,
+   "title": "10 Steps That Protect the Privacy of Student Data: CoSN Is Now Offering a Free Toolkit to Help Districts Navigate the Tricky Issue of Data Privacy. Lesson Number One: Complying with FERPA and COPPA Is Just the Beginning",
+   "publication_year": 2014,
+   "primary_location": {
+    "id": "mag:309768074",
+    "doi": null,
+    "is_oa": false,
+    "landing_page_url": "https://www.questia.com/library/journal/1G1-381286419/10-steps-that-protect-the-privacy-of-student-data",
+    "pdf_url": null,
+    "source": {
+     "id": "https://openalex.org/S2764508662",
+     "display_name": "T.H.E. Journal Technological Horizons in Education",
+     "issn_l": "0192-592X",
+     "issn": [
+      "0192-592X"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/P4327988815",
+     "host_organization_name": "Information Synergy",
+     "host_organization_lineage": [
+      "https://openalex.org/P4327988815"
+     ],
+     "host_organization_lineage_names": [
+      "Information Synergy"
+     ],
+     "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": null,
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "T.H.E. Journal Technological Horizons in Education",
+    "raw_type": null
+   },
+   "cited_by_count": 0,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5017899122",
+      "display_name": "Keith R. Krueger",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Keith R. Krueger",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W3136312332",
+   "doi": "https://doi.org/10.14722/ndss.2021.24100",
+   "title": "PrivacyFlash Pro: Automating Privacy Policy Generation for Mobile Apps",
+   "publication_year": 2021,
+   "primary_location": {
+    "id": "doi:10.14722/ndss.2021.24100",
+    "doi": "https://doi.org/10.14722/ndss.2021.24100",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.14722/ndss.2021.24100",
+    "pdf_url": "https://doi.org/10.14722/ndss.2021.24100",
+    "source": {
+     "id": "https://openalex.org/S4306420590",
+     "display_name": "Network and Distributed System Security Symposium",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings 2021 Network and Distributed System Security Symposium",
+    "raw_type": "proceedings-article"
+   },
+   "cited_by_count": 38,
+   "type": "conference-paper",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5000743993",
+      "display_name": "Sebastian Zimmeck",
+      "orcid": "https://orcid.org/0000-0002-2500-2681",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2500-2681"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I100538780",
+       "display_name": "Wesleyan University",
+       "ror": "https://ror.org/05h7xva58",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Sebastian Zimmeck",
+     "raw_affiliation_strings": [
+      "Department of Mathematics and Computer Science , Wesleyan University",
+      "Department of Mathematics and Computer Science, Wesleyan University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science , Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science, Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": null,
+      "display_name": "Rafael Goldstein",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I100538780",
+       "display_name": "Wesleyan University",
+       "ror": "https://ror.org/05h7xva58",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Rafael Goldstein",
+     "raw_affiliation_strings": [
+      "Department of Mathematics and Computer Science , Wesleyan University",
+      "Department of Mathematics and Computer Science, Wesleyan University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science , Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science, Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5072677024",
+      "display_name": "David Baraka",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I100538780",
+       "display_name": "Wesleyan University",
+       "ror": "https://ror.org/05h7xva58",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "David Baraka",
+     "raw_affiliation_strings": [
+      "Department of Mathematics and Computer Science , Wesleyan University",
+      "Department of Mathematics and Computer Science, Wesleyan University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science , Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Mathematics and Computer Science, Wesleyan University",
+       "institution_ids": [
+        "https://openalex.org/I100538780"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4292387188",
+   "doi": "https://doi.org/10.1109/access.2022.3199882",
+   "title": "PermPress: Machine Learning-Based Pipeline to Evaluate Permissions in App Privacy Policies",
+   "publication_year": 2022,
+   "primary_location": {
+    "id": "doi:10.1109/access.2022.3199882",
+    "doi": "https://doi.org/10.1109/access.2022.3199882",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/access.2022.3199882",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09861610.pdf",
+    "source": {
+     "id": "https://openalex.org/S2485537415",
+     "display_name": "IEEE Access",
+     "issn_l": "2169-3536",
+     "issn": [
+      "2169-3536"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": true,
+     "listed_in": [
+      "anvur-scientific",
+      "cwts-core",
+      "doaj",
+      "jufo-1",
+      "ki-jl-1",
+      "norway-1",
+      "poland-100",
+      "russia-white-list-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310319808",
+     "host_organization_name": "Institute of Electrical and Electronics Engineers",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310319808"
+     ],
+     "host_organization_lineage_names": [
+      "Institute of Electrical and Electronics Engineers"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Access",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 23,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5015044275",
+      "display_name": "Muhammad Sajidur Rahman",
+      "orcid": "https://orcid.org/0000-0001-8965-6732",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-8965-6732"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Muhammad Sajidur Rahman",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0001-8965-6732",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5014627397",
+      "display_name": "Pirouz Naghavi",
+      "orcid": "https://orcid.org/0000-0001-5080-9498",
+      "observed_orcids": [
+       "https://orcid.org/0000-0001-5080-9498"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Pirouz Naghavi",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5086131113",
+      "display_name": "Blas Kojusner",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Blas Kojusner",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5003132155",
+      "display_name": "Sadia Afroz",
+      "orcid": "https://orcid.org/0000-0002-2485-548X",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-2485-548X",
+       "https://orcid.org/0009-0002-1219-4060"
+      ]
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": false,
+     "raw_author_name": "Sadia Afroz",
+     "raw_affiliation_strings": [
+      "Avast Software, Emeryville, CA, USA"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Avast Software, Emeryville, CA, USA",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5103049275",
+      "display_name": "Byron J. Williams",
+      "orcid": "https://orcid.org/0000-0002-5570-9733",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5570-9733"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Byron Williams",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5085837723",
+      "display_name": "Sara Rampazzi",
+      "orcid": "https://orcid.org/0000-0002-3630-6269",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3630-6269"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Sara Rampazzi",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-3630-6269",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5014689112",
+      "display_name": "Vincent Bindschaedler",
+      "orcid": "https://orcid.org/0000-0002-3066-7354",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3066-7354"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Vincent Bindschaedler",
+     "raw_affiliation_strings": [
+      "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+      "Department of Computer &#x0026",
+      "Information Science &#x0026"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, USA",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Department of Computer &#x0026",
+       "institution_ids": []
+      },
+      {
+       "raw_affiliation_string": "Information Science &#x0026",
+       "institution_ids": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4400382059",
+   "doi": "https://doi.org/10.56553/popets-2024-0111",
+   "title": "Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies",
+   "publication_year": 2024,
+   "primary_location": {
+    "id": "doi:10.56553/popets-2024-0111",
+    "doi": "https://doi.org/10.56553/popets-2024-0111",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.56553/popets-2024-0111",
+    "pdf_url": "https://petsymposium.org/popets/2024/popets-2024-0111.pdf",
+    "source": {
+     "id": "https://openalex.org/S4210183172",
+     "display_name": "Proceedings on Privacy Enhancing Technologies",
+     "issn_l": "2299-0984",
+     "issn": [
+      "2299-0984"
+     ],
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": true,
+     "listed_in": [
+      "cwts-core",
+      "jufo-1",
+      "norway-1",
+      "vabb-shw"
+     ],
+     "host_organization": "https://openalex.org/P4310320322",
+     "host_organization_name": "De Gruyter Open",
+     "host_organization_lineage": [
+      "https://openalex.org/P4310320322",
+      "https://openalex.org/P4310313990"
+     ],
+     "host_organization_lineage_names": [
+      "De Gruyter Open",
+      "De Gruyter"
+     ],
+     "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings on Privacy Enhancing Technologies",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 5,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5083786169",
+      "display_name": "Mir Masood Ali",
+      "orcid": "https://orcid.org/0009-0006-8462-0945",
+      "observed_orcids": [
+       "https://orcid.org/0009-0006-8462-0945"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I39422238",
+       "display_name": "University of Illinois Chicago",
+       "ror": "https://ror.org/02mpq6x41",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I39422238"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Mir Masood Ali",
+     "raw_affiliation_strings": [
+      "University of Illinois Chicago"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Illinois Chicago",
+       "institution_ids": [
+        "https://openalex.org/I39422238"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5013706461",
+      "display_name": "David G. Balash",
+      "orcid": "https://orcid.org/0000-0002-9730-9949",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-9730-9949"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I158012942",
+       "display_name": "University of Richmond",
+       "ror": "https://ror.org/03y71xh61",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I158012942"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "David G. Balash",
+     "raw_affiliation_strings": [
+      "University of Richmond"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Richmond",
+       "institution_ids": [
+        "https://openalex.org/I158012942"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5093309208",
+      "display_name": "Monica Kodwani",
+      "orcid": "https://orcid.org/0009-0006-5766-0968",
+      "observed_orcids": [
+       "https://orcid.org/0009-0006-5766-0968"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I193531525",
+       "display_name": "George Washington University",
+       "ror": "https://ror.org/00y4zzh67",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Monica Kodwani",
+     "raw_affiliation_strings": [
+      "The George Washington University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "The George Washington University",
+       "institution_ids": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "middle",
+     "author": {
+      "id": "https://openalex.org/A5070578895",
+      "display_name": "Chris Kanich",
+      "orcid": "https://orcid.org/0000-0002-3836-2168",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3836-2168"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I39422238",
+       "display_name": "University of Illinois Chicago",
+       "ror": "https://ror.org/02mpq6x41",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I39422238"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Chris Kanich",
+     "raw_affiliation_strings": [
+      "University of Illinois Chicago"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Illinois Chicago",
+       "institution_ids": [
+        "https://openalex.org/I39422238"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5009788320",
+      "display_name": "Adam J. Aviv",
+      "orcid": "https://orcid.org/0000-0002-3792-2485",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-3792-2485"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I193531525",
+       "display_name": "George Washington University",
+       "ror": "https://ror.org/00y4zzh67",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Adam J. Aviv",
+     "raw_affiliation_strings": [
+      "The George Washington University"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "The George Washington University",
+       "institution_ids": [
+        "https://openalex.org/I193531525"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W4385963987",
+   "doi": "https://doi.org/10.5937/pnb24-44680",
+   "title": "Children's data and privacy online: Growing up in a digital age",
+   "publication_year": 2023,
+   "primary_location": {
+    "id": "doi:10.5937/pnb24-44680",
+    "doi": "https://doi.org/10.5937/pnb24-44680",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5937/pnb24-44680",
+    "pdf_url": "https://scindeks-clanci.ceon.rs/data/pdf/2334-959X/2023/2334-959X2301153D.pdf",
+    "source": {
+     "id": "https://openalex.org/S4210190220",
+     "display_name": "Politika nacionalne bezbednosti",
+     "issn_l": "2334-959X",
+     "issn": [
+      "2334-959X",
+      "3042-3252"
+     ],
+     "is_oa": true,
+     "is_in_doaj": true,
+     "is_core": false,
+     "listed_in": [
+      "doaj",
+      "erih-plus"
+     ],
+     "host_organization": null,
+     "host_organization_name": null,
+     "host_organization_lineage": [],
+     "host_organization_lineage_names": [],
+     "type": "journal"
+    },
+    "license": "cc-by-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Politika nacionalne bezbednosti",
+    "raw_type": "journal-article"
+   },
+   "cited_by_count": 80,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5077184605",
+      "display_name": "Sini\u0161a S. Domazet",
+      "orcid": "https://orcid.org/0000-0002-5964-2249",
+      "observed_orcids": [
+       "https://orcid.org/0000-0002-5964-2249"
+      ]
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2802401942",
+       "display_name": "University \"St. Kliment Ohridski\" - Bitola",
+       "ror": "https://ror.org/04161ta68",
+       "country_code": "MK",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I2802401942"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210126020",
+       "display_name": "Educons University",
+       "ror": "https://ror.org/037vhb936",
+       "country_code": "RS",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4210126020"
+       ]
+      }
+     ],
+     "countries": [
+      "MK",
+      "RS"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Sini\u0161a Domazet",
+     "raw_affiliation_strings": [
+      "Faculty of Security Studies , Educons University , Sremska Kamenica",
+      "Faculty of Security Studies, Educons University, Sremska Kamenica",
+      "Faculty of Law, University St. Kliment Ohridski, Bitola"
+     ],
+     "raw_orcid": "https://orcid.org/0000-0002-5964-2249",
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Security Studies , Educons University , Sremska Kamenica",
+       "institution_ids": [
+        "https://openalex.org/I4210126020"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Faculty of Security Studies, Educons University, Sremska Kamenica",
+       "institution_ids": [
+        "https://openalex.org/I4210126020"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Faculty of Law, University St. Kliment Ohridski, Bitola",
+       "institution_ids": [
+        "https://openalex.org/I2802401942"
+       ]
+      }
+     ]
+    },
+    {
+     "author_position": "last",
+     "author": {
+      "id": "https://openalex.org/A5092658194",
+      "display_name": "Ivona \u0160u\u0161ak-Lozanovska",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I2802401942",
+       "display_name": "University \"St. Kliment Ohridski\" - Bitola",
+       "ror": "https://ror.org/04161ta68",
+       "country_code": "MK",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I2802401942"
+       ]
+      },
+      {
+       "id": "https://openalex.org/I4210126020",
+       "display_name": "Educons University",
+       "ror": "https://ror.org/037vhb936",
+       "country_code": "RS",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I4210126020"
+       ]
+      }
+     ],
+     "countries": [
+      "MK",
+      "RS"
+     ],
+     "is_corresponding": false,
+     "raw_author_name": "Ivona \u0160u\u0161ak-Lozanovska",
+     "raw_affiliation_strings": [
+      "Faculty of Law , University St. Kliment Ohridski , Bitola",
+      "Faculty of Security Studies, Educons University, Sremska Kamenica",
+      "Faculty of Law, University St. Kliment Ohridski, Bitola"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "Faculty of Law , University St. Kliment Ohridski , Bitola",
+       "institution_ids": [
+        "https://openalex.org/I2802401942"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Faculty of Security Studies, Educons University, Sremska Kamenica",
+       "institution_ids": [
+        "https://openalex.org/I4210126020"
+       ]
+      },
+      {
+       "raw_affiliation_string": "Faculty of Law, University St. Kliment Ohridski, Bitola",
+       "institution_ids": [
+        "https://openalex.org/I2802401942"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2965117823",
+   "doi": null,
+   "title": "Mitigator: Privacy policy compliance using Intel SGX",
+   "publication_year": 2019,
+   "primary_location": {
+    "id": "pmh:oai:uwspace.uwaterloo.ca:10012/14765",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/10012/14765",
+    "pdf_url": "https://uwspace.uwaterloo.ca/bitstreams/d767f6a5-a05e-47ff-be21-050e4d14b556/download",
+    "source": {
+     "id": "https://openalex.org/S4306401661",
+     "display_name": "UWSpace (University of Waterloo)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I151746483",
+     "host_organization_name": "University of Waterloo",
+     "host_organization_lineage": [
+      "https://openalex.org/I151746483"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "Master Thesis"
+   },
+   "cited_by_count": 2,
+   "type": "dissertation",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5025902785",
+      "display_name": "Miti Mazmudar",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [],
+     "countries": [],
+     "is_corresponding": true,
+     "raw_author_name": "Miti Mazmudar",
+     "raw_affiliation_strings": [],
+     "raw_orcid": null,
+     "affiliations": []
+    }
+   ]
+  },
+  {
+   "id": "https://openalex.org/W2395997468",
+   "doi": null,
+   "title": "Sharenting: Children's Privacy in the Age of Social Media",
+   "publication_year": 2016,
+   "primary_location": {
+    "id": "pmh:oai:scholarlycommons.law.emory.edu:elj-1094",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://scholarlycommons.law.emory.edu/elj/vol66/iss4/2",
+    "pdf_url": "https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1094&context=elj",
+    "source": {
+     "id": "https://openalex.org/S4306401049",
+     "display_name": "eYLS (Yale Law School)",
+     "issn_l": null,
+     "issn": null,
+     "is_oa": false,
+     "is_in_doaj": false,
+     "is_core": false,
+     "listed_in": [],
+     "host_organization": "https://openalex.org/I32971472",
+     "host_organization_name": "Yale University",
+     "host_organization_lineage": [
+      "https://openalex.org/I32971472"
+     ],
+     "host_organization_lineage_names": [],
+     "type": "repository"
+    },
+    "license": "public-domain",
+    "license_id": "https://openalex.org/licenses/public-domain",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Emory Law Journal",
+    "raw_type": "text"
+   },
+   "cited_by_count": 135,
+   "type": "article",
+   "authorships": [
+    {
+     "author_position": "first",
+     "author": {
+      "id": "https://openalex.org/A5109779316",
+      "display_name": "Stacey Steinberg",
+      "orcid": null,
+      "observed_orcids": []
+     },
+     "institutions": [
+      {
+       "id": "https://openalex.org/I33213144",
+       "display_name": "University of Florida",
+       "ror": "https://ror.org/02y3ad647",
+       "country_code": "US",
+       "type": "education",
+       "lineage": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ],
+     "countries": [
+      "US"
+     ],
+     "is_corresponding": true,
+     "raw_author_name": "Stacey Steinberg",
+     "raw_affiliation_strings": [
+      "University of Florida Levin College of Law"
+     ],
+     "raw_orcid": null,
+     "affiliations": [
+      {
+       "raw_affiliation_string": "University of Florida Levin College of Law",
+       "institution_ids": [
+        "https://openalex.org/I33213144"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

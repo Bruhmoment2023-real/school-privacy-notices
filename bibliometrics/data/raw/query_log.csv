@@ -1,0 +1,52 @@
+﻿qid,db,sublit,query,total_in_db,retrieved,status,date
+crossref_A_policy_measurement_01,crossref,A_policy_measurement,privacy policy analysis compliance large-scale,7153339.0,200,ok,2026-10-17
+crossref_A_policy_measurement_02,crossref,A_policy_measurement,privacy policy corpus annotation,1154772.0,200,ok,2026-10-17
+crossref_A_policy_measurement_03,crossref,A_policy_measurement,automated analysis of privacy policies GDPR compliance,5682475.0,200,ok,2026-10-17
+crossref_A_policy_measurement_04,crossref,A_policy_measurement,readability of privacy policies,316052.0,200,ok,2026-10-17
+crossref_A_policy_measurement_05,crossref,A_policy_measurement,privacy notices compliance audit websites,417521.0,200,ok,2026-10-17
+crossref_A_policy_measurement_06,crossref,A_policy_measurement,privacy policy presence apps,1266111.0,200,ok,2026-10-17
+s2_A_policy_measurement_01,s2,A_policy_measurement,"(""privacy policy"" | ""privacy policies"") + (compliance | audit | corpus | annotation | classification)",1162.0,600,ok,2026-10-17
+s2_A_policy_measurement_02,s2,A_policy_measurement,"""privacy policies"" + (GDPR | COPPA | CCPA) + (analysis | measurement | empirical)",167.0,167,ok,2026-10-17
+s2_A_policy_measurement_03,s2,A_policy_measurement,"""privacy notice"" + (compliance | audit | websites)",99.0,99,ok,2026-10-17
+eric_A_policy_measurement_01,eric,A_policy_measurement,"""privacy policy"" AND (analysis OR audit OR compliance)",8.0,5,ok,2026-10-17
+crossref_B_children_apps_01,crossref,B_children_apps,COPPA compliance children's apps,1046518.0,200,ok,2026-10-17
+crossref_B_children_apps_02,crossref,B_children_apps,verifiable parental consent children's data,3166805.0,200,ok,2026-10-17
+crossref_B_children_apps_03,crossref,B_children_apps,children's privacy apps measurement,1653421.0,200,ok,2026-10-17
+crossref_B_children_apps_04,crossref,B_children_apps,child-directed apps privacy policies,865252.0,200,ok,2026-10-17
+crossref_B_children_apps_05,crossref,B_children_apps,parental consent age verification data protection law children,5195463.0,200,ok,2026-10-17
+s2_B_children_apps_01,s2,B_children_apps,COPPA + (apps | compliance | children),148.0,148,ok,2026-10-17
+s2_B_children_apps_02,s2,B_children_apps,"""parental consent"" + (children | minors) + (data protection | privacy)",136.0,136,ok,2026-10-17
+s2_B_children_apps_03,s2,B_children_apps,"""child-directed"" + (apps | privacy)",18.0,18,ok,2026-10-17
+eric_B_children_apps_01,eric,B_children_apps,children AND privacy AND (apps OR online) AND (law OR policy),28.0,18,ok,2026-10-17
+crossref_C_india_dpdp_01,crossref,C_india_dpdp,Digital Personal Data Protection Act 2023 India,13064508.0,200,ok,2026-10-17
+crossref_C_india_dpdp_02,crossref,C_india_dpdp,DPDP Act children data parental consent,3273520.0,200,ok,2026-10-17
+crossref_C_india_dpdp_03,crossref,C_india_dpdp,India data protection law consent notice,4246254.0,200,ok,2026-10-17
+crossref_C_india_dpdp_04,crossref,C_india_dpdp,DPDP Rules 2025,9739199.0,200,ok,2026-10-17
+crossref_C_india_dpdp_05,crossref,C_india_dpdp,India personal data protection bill privacy,3483735.0,200,ok,2026-10-17
+s2_C_india_dpdp_01,s2,C_india_dpdp,"(""DPDP Act"" | ""Digital Personal Data Protection Act"") + (consent | notice | children)",128.0,128,ok,2026-10-17
+s2_C_india_dpdp_02,s2,C_india_dpdp,"India + ""data protection"" + (law | privacy | consent)",834.0,600,ok,2026-10-17
+eric_C_india_dpdp_01,eric,C_india_dpdp,"India AND ""data protection"" AND (education OR schools OR students)",2.0,2,ok,2026-10-17
+crossref_D_edtech_schools_01,crossref,D_edtech_schools,edtech student data privacy,2594769.0,200,ok,2026-10-17
+crossref_D_edtech_schools_02,crossref,D_edtech_schools,school data protection children's data,4137968.0,200,ok,2026-10-17
+crossref_D_edtech_schools_03,crossref,D_edtech_schools,educational technology privacy policies,4443703.0,200,ok,2026-10-17
+crossref_D_edtech_schools_04,crossref,D_edtech_schools,student privacy K-12 apps,4426391.0,200,ok,2026-10-17
+crossref_D_edtech_schools_05,crossref,D_edtech_schools,India edtech privacy children,1708278.0,200,ok,2026-10-17
+crossref_D_edtech_schools_06,crossref,D_edtech_schools,learning analytics privacy schools,2807577.0,200,ok,2026-10-17
+s2_D_edtech_schools_01,s2,D_edtech_schools,"(edtech | ""educational technology"") + (privacy | ""data protection"")",695.0,600,ok,2026-10-17
+s2_D_edtech_schools_02,s2,D_edtech_schools,"""student data"" + (privacy | protection) + (schools | K-12)",226.0,226,ok,2026-10-17
+eric_D_edtech_schools_01,eric,D_edtech_schools,"""student data"" AND privacy",157.0,145,ok,2026-10-17
+eric_D_edtech_schools_02,eric,D_edtech_schools,edtech AND privacy,27.0,27,ok,2026-10-17
+eric_D_edtech_schools_03,eric,D_edtech_schools,"""data protection"" AND schools",18.0,17,ok,2026-10-17
+seed_title,seed,,Won't Somebody Think of the Children? Examining COPPA Compliance at Scale,,1,matched 10.1515/popets-2018-0021,2026-10-17
+seed_title,seed,,The Creation and Analysis of a Website Privacy Policy Corpus,,1,matched 10.18653/v1/p16-1126,2026-10-17
+seed_title,seed,,The Privacy Policy Landscape After the GDPR,,1,matched 10.2478/popets-2020-0004,2026-10-17
+seed_title,seed,,MAPS: Scaling Privacy Compliance Analysis to a Million Apps,,1,matched 10.2478/popets-2019-0037,2026-10-17
+seed_title,seed,,The Effect of Platform Policies on App Privacy Compliance: A Study of Child-Directed Apps,,1,matched 10.56553/popets-2025-0094,2026-10-17
+seed_title,seed,,Developers Say the Darnedest Things: Privacy Compliance Processes Followed by Developers of Child-Directed Apps,,1,matched 10.56553/popets-2022-0108,2026-10-17
+seed_title,seed,,Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning,,0,NOT MATCHED in Crossref,2026-10-17
+seed_title,seed,,Large-scale readability analysis of privacy policies,,1,matched 10.1145/3106426.3106427,2026-10-17
+seed_title,seed,,Ambiguity in Privacy Policies and the Impact of Regulation,,1,matched 10.1086/688669,2026-10-17
+seed_title,seed,,"We'll Fix It Later: Education, AI, and the Deferral of Privacy in EdTech",,0,NOT MATCHED in Crossref,2026-10-17
+seed_title,seed,,A Tale of Two Regulatory Regimes: Creation and Analysis of a Bilingual Privacy Policy Corpus,,1,matched 10.63317/47t33yg9tkem,2026-10-17
+seed_title,seed,,Hunting for the Privacy Policy: Hospital Website Design,,1,matched 10.2139/ssrn.4068445,2026-10-17
+seed_title,seed,,The Googlization of the classroom: Is the UK effective in protecting children's data and rights?,,1,matched 10.1016/j.caeo.2024.100195,2026-10-17

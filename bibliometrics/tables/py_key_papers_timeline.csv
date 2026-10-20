@@ -1,0 +1,29 @@
+﻿oa_id,doi,first_author,year,title,source,sublit,local_citations,cited_by_count
+W2002787959,10.1016/j.ijhcs.2005.04.019,Carlos Jensen,2005,Privacy practices of Internet users: Self-reports versus observed behavior,International Journal of Human-Computer Studies,A_policy_measurement,9,413
+W2046638191,10.1509/jppm.25.2.238,George R. Milne,2006,A Longitudinal Assessment of Online Privacy Notice Readability,Journal of Public Policy & Marketing,A_policy_measurement,16,169
+W1980864917,10.1145/1165734.1165735,Lorrie Faith Cranor,2006,User interfaces for privacy agents,ACM Transactions on Computer-Human Interaction,A_policy_measurement,10,254
+W2088250690,10.1016/j.im.2006.07.003,Kathy Stewart Schwaig,2006,Compliance to the fair information practices: How are the Fortune 500 handling online privacy disclosures?,Information & Management,A_policy_measurement,8,71
+W1966263568,10.1145/1284621.1284627,Irene Pollach,2007,What's wrong with online privacy policies?,Communications of the ACM,A_policy_measurement,15,183
+W7018197807,,Aleecia M. McDonald,2008,The Cost of Reading Privacy Policies,The Knowledge Bank (The Ohio State University),A_policy_measurement,13,305
+W2125475233,10.1287/isre.1090.0260,Janice Tsai,2010,The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study,Information Systems Research,A_policy_measurement,16,855
+W2405832514,,Lorrie Faith Cranor,2012,Necessary But Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice.,Colorado Law Scholarly Commons (University of Colorado Colorado Springs),A_policy_measurement,15,212
+W1881708081,10.2139/ssrn.2418297,Joël R. Reidenberg,2014,Disagreeable Privacy Policies: Mismatches between Meaning and Users’ Understanding,SSRN Electronic Journal,A_policy_measurement,14,120
+W1481354592,10.1136/amiajnl-2013-002605,Ali Sunyaev,2014,Availability and quality of mobile health app privacy policies,Journal of the American Medical Informatics Association,A_policy_measurement,15,359
+W2207751595,,Sebastian Zimmeck,2014,Privee: An Architecture for Automatically Analyzing Web Privacy Policies,SSRN Electronic Journal,A_policy_measurement,13,81
+W298756085,,Candice Hoke,2015,Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies,EngagedScholarship @ Cleveland State University (Cleveland State University),A_policy_measurement,8,51
+W2517394750,10.18653/v1/p16-1126,Shomir Wilson,2016,The Creation and Analysis of a Website Privacy Policy Corpus,Annual Meeting of the Association for Computational Linguistics (ACL),seed,54,282
+W3123673015,10.1086/688669,Joël R. Reidenberg,2016,Ambiguity in Privacy Policies and the Impact of Regulation,The Journal of Legal Studies,A_policy_measurement,10,99
+W2394985082,10.1145/2907942,Jaspreet Bhatia,2016,Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition,ACM Transactions on Software Engineering and Methodology,A_policy_measurement,10,51
+W2508414746,10.1145/2911988,Lorrie Faith Cranor,2016,A Large-Scale Evaluation of U.S. Financial Institutions’ Standardized Privacy Notices,ACM Transactions on the Web,A_policy_measurement,9,32
+W2744486576,10.1145/3106426.3106427,Benjamin Fabian,2017,Large-scale readability analysis of privacy policies,IEEE/WIC/ACM International Conference on Web Intelligence,seed,21,116
+W2615266218,10.3233/sw-170283,Alessandro Oltramari,2017,PrivOnto: A semantic framework for the analysis of privacy policies,Semantic Web,A_policy_measurement,15,95
+W2613711491,10.1080/13600834.2017.1321096,Milda Mačėnaitė,2017,Consent for processing children’s personal data in the EU: following in US footsteps?,Information & Communications Technology Law,B_children_apps,21,114
+W2615349154,10.1109/mic.2017.75,Florian Schaub,2017,Designing Effective Privacy Notices and Controls,IEEE Internet Computing,A_policy_measurement,10,140
+W2211757780,10.1017/9781316831960.021,Florian Schaub,2018,A Design Space for Effective Privacy Notices*,Cambridge University Press eBooks,A_policy_measurement,8,270
+W2885362917,10.1145/3127519,Razieh Nokhbeh Zaeem,2018,PrivacyCheck,ACM Transactions on Internet Technology,A_policy_measurement,15,109
+W2796498984,10.1515/popets-2018-0021,Irwin O. Reyes,2018,“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale,Proceedings on Privacy Enhancing Technologies,B_children_apps,23,186
+W2787106847,10.48550/arxiv.1802.02561,Hamza Harkous,2018,Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning,arXiv (Cornell University),A_policy_measurement,30,220
+W2963070937,10.2478/popets-2019-0037,Sebastian Zimmeck,2019,MAPS: Scaling Privacy Compliance Analysis to a Million Apps,Proceedings on Privacy Enhancing Technologies,A_policy_measurement,33,176
+W3049637327,10.1145/3389685,Razieh Nokhbeh Zaeem,2020,The Effect of the GDPR on Privacy Policies,ACM Transactions on Management Information Systems,A_policy_measurement,10,175
+W3135764500,10.2478/popets-2021-0019,Duc Bui,2021,Automated Extraction and Presentation of Data Practices in Privacy Policies,Proceedings on Privacy Enhancing Technologies,A_policy_measurement,8,50
+W4362452929,10.1145/3590152,Isabel Wagner,2023,Privacy Policies across the Ages: Content of Privacy Policies 1996–2021,ACM Transactions on Privacy and Security,A_policy_measurement,11,51

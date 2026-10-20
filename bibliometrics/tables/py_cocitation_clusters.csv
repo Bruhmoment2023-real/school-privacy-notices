@@ -1,0 +1,151 @@
+﻿oa_id,cluster,citations_in_corpus,first_author,year,title,source,doi,in_corpus
+W2517394750,1,54,Shomir Wilson,2016.0,The Creation and Analysis of a Website Privacy Policy Corpus,Annual Meeting of the Association for Computational Linguistics (ACL),10.18653/v1/p16-1126,1
+W2963070937,1,33,Sebastian Zimmeck,2019.0,MAPS: Scaling Privacy Compliance Analysis to a Million Apps,Proceedings on Privacy Enhancing Technologies,10.2478/popets-2019-0037,1
+W2796498984,1,30,Irwin O. Reyes,2018.0,“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale,Proceedings on Privacy Enhancing Technologies,10.1515/popets-2018-0021,1
+W2787106847,1,30,Hamza Harkous,2018.0,Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning,arXiv (Cornell University),10.48550/arxiv.1802.02561,1
+W2612622960,1,28,Sebastian Zimmeck,2017.0,Automated Analysis of Privacy Requirements for Mobile Apps,Network and Distributed System Security Symposium,10.14722/ndss.2017.23034,0
+W2376050373,1,25,Rocky Slavin,2016.0,Toward a framework for detecting privacy policy violations in android application code,Proceedings/Proceedings - International Conference on Software Engineering,10.1145/2884781.2884855,0
+W2999830435,1,25,Linden Thomas,2020.0,The Privacy Policy Landscape After the GDPR,DOAJ (DOAJ: Directory of Open Access Journals),10.2478/popets-2020-0004,0
+W3124701710,1,23,Jonathan A. Obar,2016.0,The Biggest Lie on the Internet: Ignoring the Privacy Policies and Terms of Service Policies of Social Networking Services,Information Communication & Society,10.1080/1369118x.2018.1486870,0
+W2744486576,1,21,Benjamin Fabian,2017.0,Large-scale readability analysis of privacy policies,IEEE/WIC/ACM International Conference on Web Intelligence,10.1145/3106426.3106427,1
+W2791737564,1,19,Welderufael Berhane Tesfay,2018.0,PrivacyGuide,,10.1145/3180445.3180447,0
+W1788967622,1,17,Aleecia M. McDonald,2009.0,A Comparative Study of Online Privacy Policies and Formats,Lecture notes in computer science,10.1007/978-3-642-03168-7_3,0
+W2615266218,1,15,Alessandro Oltramari,2017.0,PrivOnto: A semantic framework for the analysis of privacy policies,Semantic Web,10.3233/sw-170283,1
+W1481354592,1,15,Ali Sunyaev,2014.0,Availability and quality of mobile health app privacy policies,Journal of the American Medical Informatics Association,10.1136/amiajnl-2013-002605,1
+W2885362917,1,15,Razieh Nokhbeh Zaeem,2018.0,PrivacyCheck,ACM Transactions on Internet Technology,10.1145/3127519,1
+W1881708081,1,14,Joël R. Reidenberg,2014.0,Disagreeable Privacy Policies: Mismatches between Meaning and Users’ Understanding,SSRN Electronic Journal,10.2139/ssrn.2418297,1
+W2759177743,1,14,Kanthashree Mysore Sathyendra,2017.0,Identifying the Provision of Choices in Privacy Policy Text,Conference on Empirical Methods in Natural Language Processing (EMNLP),10.18653/v1/d17-1294,0
+W2887427605,1,14,Martin Degeling,2019.0,We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR's Impact on Web Privacy,Network and Distributed System Security Symposium,10.14722/ndss.2019.23378,0
+W2048089596,1,13,Elisa Costante,2012.0,A machine learning solution to assess privacy policy completeness,ACM Workshop on Privacy in the Electronic Society (WPES),10.1145/2381966.2381979,0
+W2207751595,1,13,Sebastian Zimmeck,2014.0,Privee: An Architecture for Automatically Analyzing Web Privacy Policies,SSRN Electronic Journal,,1
+W2970728484,1,12,Abhilasha Ravichander,2019.0,Question Answering for Privacy Policies: Combining Computational and Legal Perspectives,,10.18653/v1/d19-1500,0
+W3080917700,1,12,Ryan Amos,2021.0,Privacy Policies over Time: Curation and Analysis of a Million-Document Dataset,,10.1145/3442381.3450048,0
+W3103666600,1,12,Ming Yu Fan,2020.0,An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps,IEEE International Symposium on Software Reliability Engineering (ISSRE),10.1109/issre5003.2020.00032,0
+W3012939329,1,11,Vinayshekhar Bannihatti Kumar,2020.0,Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text,,10.1145/3366423.3380262,0
+W4362452929,1,11,Isabel Wagner,2023.0,Privacy Policies across the Ages: Content of Privacy Policies 1996–2021,ACM Transactions on Privacy and Security,10.1145/3590152,1
+W2794864670,1,11,Xiaoyin Wang,2018.0,GUILeak,Proceedings/Proceedings - International Conference on Software Engineering,10.1145/3180155.3180196,0
+W4288086187,1,11,Christine Utz,2019.0,(Un)informed Consent,ACM SIGSAC Conference on Computer and Communications Security (CCS),10.1145/3319535.3354212,0
+W2560661849,1,10,Jaspreet Bhatia,2016.0,A Theory of Vagueness and Privacy Risk Perception,IEEE International Requirements Engineering Conference (RE),10.1109/re.2016.20,0
+W2921902116,1,10,Julie M. Robillard,2019.0,"Availability, readability, and content of privacy policies and terms of agreements of mental health apps",Internet Interventions,10.1016/j.invent.2019.100243,0
+W2946516957,1,10,David Sarne,2019.0,Unsupervised Topic Extraction from Privacy Policies,,10.1145/3308560.3317585,0
+W3085592908,1,10,Najmeh Mousavi Nejad,2020.0,Establishing a Strong Baseline for Privacy Policy Classification,IFIP advances in information and communication technology,10.1007/978-3-030-58201-2_25,0
+W2964378348,1,10,Benjamin Andow,2019.0,Policylint: Investigating internal privacy policy contradictions on google play,USENIX Security Symposium,,0
+W3049637327,1,10,Razieh Nokhbeh Zaeem,2020.0,The Effect of the GDPR on Privacy Policies,ACM Transactions on Management Information Systems,10.1145/3389685,1
+W3103585424,1,9,Wasi Uddin Ahmad,2020.0,PolicyQA: A Reading Comprehension Dataset for Privacy Policies,,10.18653/v1/2020.findings-emnlp.66,0
+W2798397723,1,9,Welderufael Berhane Tesfay,2018.0,I Read but Don't Agree,,10.1145/3184558.3186969,0
+W2886540288,1,9,Logan Lebanoff,2018.0,Automatic Detection of Vague Words and Sentences in Privacy Policies,Conference on Empirical Methods in Natural Language Processing (EMNLP),10.18653/v1/d18-1387,0
+W2535603283,1,9,Steven Englehardt,2016.0,Online Tracking,ACM SIGSAC Conference on Computer and Communications Security (CCS),10.1145/2976749.2978313,0
+W2896457183,1,9,"Kefallinos, Dionysios",2018.0,AI-Assisted Pipeline for Dynamic Generation of Trustworthy Health Supplement Content at Scale,arXiv (Cornell University),10.4230/lipics.cosit.2022.18,0
+W2740143083,1,9,Jasmine D. Bowers,2017.0,"Regulators, mount up! analysis of privacy policies for mobile money services",Symposium On Usable Privacy and Security,,0
+W2784134919,1,9,Abbas Razaghpanah,2018.0,"Apps, Trackers, Privacy, and Regulators: A Global Study of the Mobile Tracking Ecosystem",Network and Distributed System Security Symposium,10.14722/ndss.2018.23353,0
+W2782171913,1,9,Gitanjali Das,2018.0,Privacy Policies for Apps Targeted Toward Youth: Descriptive Analysis of Readability,JMIR mhealth and uhealth,10.2196/mhealth.7626,0
+W2788364416,1,8,Timothy Libert,2018.0,An Automated Approach to Auditing Disclosure of Third-Party Data Collection in Website Privacy Policies,,10.1145/3178876.3186087,0
+W2904429768,1,8,Le Yu,2018.0,PPChecker: Towards Accessing the Trustworthiness of Android Apps’ Privacy Policies,IEEE Transactions on Software Engineering,10.1109/tse.2018.2886875,0
+W3135764500,1,8,Duc Bui,2021.0,Automated Extraction and Presentation of Data Practices in Privacy Policies,Proceedings on Privacy Enhancing Technologies,10.2478/popets-2021-0019,1
+W2250539671,1,8,Jeffrey Pennington,2014.0,Glove: Global Vectors for Word Representation,Conference on Empirical Methods in Natural Language Processing (EMNLP),10.3115/v1/d14-1162,0
+W3080347380,1,8,Yousra Javed,2020.0,A Study of South Asian Websites on Privacy Compliance,IEEE Access,10.1109/access.2020.3019334,1
+W3000190958,1,8,Midas Nouwens,2020.0,Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence,CHI Conference on Human Factors in Computing Systems,10.1145/3313831.3376321,0
+W2903400086,1,8,Shomir Wilson,2018.0,Analyzing Privacy Policies at Scale,ACM Transactions on the Web,10.1145/3230665,1
+W2798838283,1,8,Marco Lippi,2019.0,CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service,Artificial Intelligence and Law,10.1007/s10506-019-09243-2,0
+W3018880344,1,8,Mukund Srinath,2021.0,Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies,,10.18653/v1/2021.acl-long.532,0
+W2795807997,1,8,Eva Thelisson,2018.0,The General Data Protection Regulation,Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA),10.1145/3170427.3170632,0
+W2528826491,1,8,Le Yu,2016.0,Can We Trust the Privacy Policies of Android Apps?,IEEE/IFIP International Conference on Dependable Systems and Networks (DSN),10.1109/dsn.2016.55,0
+W2732750509,1,7,Morgan C. Evans,2017.0,An Evaluation of Constituency-Based Hyponymy Extraction from Privacy Policies,IEEE International Requirements Engineering Conference (RE),10.1109/re.2017.87,0
+W2905702366,1,7,Kristen M. O'Loughlin,2018.0,Reviewing the data security and privacy policies of mobile apps for depression,Internet Interventions,10.1016/j.invent.2018.12.001,0
+W3156874074,1,7,Shuang Liu,2021.0,Have You been Properly Notified? Automatic Compliance Analysis of Privacy Policy Text with GDPR Article 13,,10.1145/3442381.3450022,0
+W2970895914,1,7,Martin Degeling,2019.0,We Value Your Privacy ... Now Take Some Cookies,Informatik-Spektrum,10.1007/s00287-019-01201-1,1
+W605474867,1,7,Fei Liu,2018.0,A Step Towards Usable Privacy Policy: Automatic Alignment of Privacy Statements,,10.1184/r1/6472991,1
+W2935698865,1,7,Kit Huckvale,2019.0,Assessment of the Data Sharing and Privacy Practices of Smartphone Apps for Depression and Smoking Cessation,JAMA Network Open,10.1001/jamanetworkopen.2019.2542,0
+W2911560572,1,7,He Li,2019.0,The Impact of GDPR on Global Technology Development,Journal of Global Information Technology Management,10.1080/1097198x.2019.1569186,0
+W3048993947,1,7,Benjamin Andow,2020.0,Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck,USENIX Security Symposium,,0
+W2781599780,1,7,Kanthashree Mysore Sathyendra,2016.0,Automatic extraction of opt-out choices from privacy policies,National Conference on Artificial Intelligence,,0
+W4288359811,1,7,Jun Zhao,2019.0,`I make up a silly name',CHI Conference on Human Factors in Computing Systems,10.1145/3290605.3300336,0
+W2171263140,2,38,Carlos Jensen,2004.0,Privacy policies as decision-making tools,ACM SIGCHI Conference on Human Factors in Computing Systems (CHI),10.1145/985692.985752,0
+W1882358344,2,21,Joanne L. Reeve,2015.0,Solutions to problematic polypharmacy: learning from the expertise of patients,British Journal of General Practice,10.3399/bjgp15x685465,0
+W2046653306,2,18,Patrick Gage Kelley,2010.0,Standardizing privacy notices,ACM SIGCHI Conference on Human Factors in Computing Systems (CHI),10.1145/1753326.1753561,0
+W2108554506,2,18,Patrick Gage Kelley,2009.0,"A ""nutrition label"" for privacy",Symposium On Usable Privacy and Security,10.1145/1572532.1572538,0
+W2116174259,2,16,Annie I. Antón,2004.0,Financial privacy policies and the need for standardization,IEEE Security & Privacy,10.1109/msecp.2004.1281243,0
+W2081578468,2,15,Joseph Reagle,1999.0,The platform for privacy preferences,Communications of the ACM,10.1145/293411.293455,0
+W1966263568,2,15,Irene Pollach,2007.0,What's wrong with online privacy policies?,Communications of the ACM,10.1145/1284621.1284627,1
+W2405832514,2,15,Lorrie Faith Cranor,2012.0,Necessary But Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice.,Colorado Law Scholarly Commons (University of Colorado Colorado Springs),,1
+W3124640630,2,14,Berkeley Journal Of International Law;,2021.0,"Full Issue - Volume 39, Issue 1",Berkeley technology law journal,10.15779/z384k33,0
+W7018197807,2,13,Aleecia M. McDonald,2008.0,The Cost of Reading Privacy Policies,The Knowledge Bank (The Ohio State University),,1
+W1993095244,2,13,Aleecia M. McDonald,2009.0,A comparative study of online privacy policies and formats,Symposium On Usable Privacy and Security,10.1145/1572532.1572586,0
+W3125057561,2,12,Helen F. Nissenbaum,2011.0,A Contextual Approach to Privacy Online,Daedalus,10.1162/daed_a_00113,0
+W2418038528,2,12,Mark Alan Graber,2002.0,Reading level of privacy policies on Internet health Web sites.,PubMed,,0
+W1505817364,2,12,Lorrie Faith Cranor,2002.0,Web Privacy with P3p,Medical Entomology and Zoology,,0
+W2339322788,2,11,Shomir Wilson,2016.0,Crowdsourcing Annotations for Websites' Privacy Policies,International World Wide Web Conference (WWW),10.1145/2872427.2883035,0
+W2615349154,2,10,Florian Schaub,2017.0,Designing Effective Privacy Notices and Controls,IEEE Internet Computing,10.1109/mic.2017.75,1
+W1980864917,2,10,Lorrie Faith Cranor,2006.0,User interfaces for privacy agents,ACM Transactions on Computer-Human Interaction,10.1145/1165734.1165735,1
+W3123673015,2,10,Joël R. Reidenberg,2016.0,Ambiguity in Privacy Policies and the Impact of Regulation,The Journal of Legal Studies,10.1086/688669,1
+W2394985082,2,10,Jaspreet Bhatia,2016.0,Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition,ACM Transactions on Software Engineering and Methodology,10.1145/2907942,1
+W2080453063,2,10,Alessandro Acquisti,2015.0,Privacy and human behavior in the age of information,Science,10.1126/science.aaa1465,0
+W2508414746,2,9,Lorrie Faith Cranor,2016.0,A Large-Scale Evaluation of U.S. Financial Institutions’ Standardized Privacy Notices,ACM Transactions on the Web,10.1145/2911988,1
+W2066266646,2,9,Adam Barth,2006.0,Privacy and contextual integrity: framework and applications,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,10.1109/sp.2006.32,0
+W1557915535,2,9,Lorrie Faith Cranor,2002.0,The platform for privacy preferences 1.0 (p3p1.0) specification,Medical Entomology and Zoology,,0
+W2002787959,2,9,Carlos Jensen,2005.0,Privacy practices of Internet users: Self-reports versus observed behavior,International Journal of Human-Computer Studies,10.1016/j.ijhcs.2005.04.019,1
+W3125675149,2,9,Alessandro Acquisti,2016.0,The Economics of Privacy,Journal of Economic Literature,10.1257/jel.54.2.442,0
+W2211757780,2,8,Florian Schaub,2018.0,A Design Space for Effective Privacy Notices*,Cambridge University Press eBooks,10.1017/9781316831960.021,1
+W1880262756,2,8,David M. Blei,2003.0,Latent dirichlet allocation,Journal of Machine Learning Research,10.5555/944919.944937,0
+W1984255983,2,8,Fred H. Cate,2010.0,The Limits of Notice and Choice,IEEE Security & Privacy,10.1109/msp.2010.84,0
+W298756085,2,8,Candice Hoke,2015.0,Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies,EngagedScholarship @ Cleveland State University (Cleveland State University),,1
+W1967390364,2,7,Rudolph Flesch,1948.0,A new readability yardstick.,Journal of Applied Psychology,10.1037/h0057532,0
+W2135600671,2,7,Michael Backes A,2003.0,A Toolkit for Managing Enterprise Privacy Policies,Lecture notes in computer science,10.1007/978-3-540-39650-5_10,0
+W180142698,2,7,Joël R. Reidenberg,2014.0,Privacy Harms and the Effectiveness of the Notice and Choice Framework,SSRN Electronic Journal,10.2139/ssrn.2418247,1
+W2159024459,2,7,Latanya Sweeney,2002.0,k-ANONYMITY: A MODEL FOR PROTECTING PRIVACY,International Journal of Uncertainty Fuzziness and Knowledge-Based Systems,10.1142/s0218488502001648,0
+W2091214246,2,7,Robert W. Proctor,2008.0,Examining Usability of Web Privacy Policies,International Journal of Human-Computer Interaction,10.1080/10447310801937999,1
+W1991246983,2,7,Patricia A. Norberg,2007.0,The Privacy Paradox: Personal Information Disclosure Intentions versus Behaviors,Journal of Consumer Affairs,10.1111/j.1745-6606.2006.00070.x,0
+W2102357195,2,7,Mark Steven Ackerman,1999.0,Privacy in e-commerce,ACM Conference on Electronic Commerce (EC),10.1145/336992.336995,0
+W2120647424,2,7,Helen F. Nissenbaum,2012.0,A Contextual Approach to Privacy Online,IOS Press eBooks,10.3233/978-1-61499-057-4-219,0
+W2143002484,3,29,George R. Milne,2004.0,Strategies for reducing online privacy risks: Why consumers read (or don't read) online privacy notices,Journal of Interactive Marketing,10.1002/dir.20009,0
+W2132024542,3,19,Julia Brande Earp,2005.0,Examining Internet Privacy Policies Within the Context of User Privacy Values,IEEE Transactions on Engineering Management,10.1109/tem.2005.844927,0
+W2046638191,3,16,George R. Milne,2006.0,A Longitudinal Assessment of Online Privacy Notice Readability,Journal of Public Policy & Marketing,10.1509/jppm.25.2.238,1
+W2096178490,3,16,Smith,2011.0,Information Privacy Research: an Interdisciplinary Review1,MIS Quarterly,10.2307/41409970,0
+W2125475233,3,16,Janice Tsai,2010.0,The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study,Information Systems Research,10.1287/isre.1090.0260,1
+W2157989366,3,15,Mary J. Culnan,1999.0,"Information Privacy Concerns, Procedural Fairness, and Impersonal Trust: An Empirical Investigation",Organization Science,10.1287/orsc.10.1.104,0
+W1528664920,3,15,Samuel D. Warren,1890.0,11. The Right to Privacy,University of Washington Press eBooks,10.1515/9780295803661-014,0
+W2056298598,3,14,Anthony D. Miyazaki,2000.0,Internet Privacy and Security: An Examination of Online Retailer Disclosures,Journal of Public Policy & Marketing,10.1509/jppm.19.1.54.16942,0
+W2481293273,3,14,Nili Steinfeld,2015.0,“I agree to the terms and conditions”: (How) do users read privacy policies online? An eye-tracking experiment,Computers in Human Behavior,10.1016/j.chb.2015.09.038,0
+W3184218770,3,13,Alan Furman Westin,1967.0,Privacy and Freedom,,,0
+W2102303925,3,13,Tamara Dinev,2006.0,An Extended Privacy Calculus Model for E-Commerce Transactions,Information Systems Research,10.1287/isre.1060.0080,0
+W1545190392,3,13,H. Jeff Smith,1996.0,Information Privacy: Measuring Individuals’ Concerns About Organizational Practices1,MIS Quarterly,10.2307/249477,0
+W2163241745,3,12,Naresh K. Malhotra,2004.0,"Internet Users' Information Privacy Concerns (IUIPC): The Construct, the Scale, and a Causal Model",Information Systems Research,10.1287/isre.1040.0032,0
+W2084221574,3,12,George R. Milne,2002.0,Using the Content of Online Privacy Notices to Inform Public Policy: A Longitudinal Analysis of the 1998-2001 U.S. Web Surveys,The Information Society,10.1080/01972240290108168,0
+W2155864340,3,12,Kuang‐Wen Wu,2012.0,The effect of online privacy policy on consumer privacy concern and trust,Computers in Human Behavior,10.1016/j.chb.2011.12.008,0
+W2207884471,3,10,Spyros Kokolakis,2015.0,Privacy attitudes and privacy behaviour: A review of current research on the privacy paradox phenomenon,Computers & Security,10.1016/j.cose.2015.07.002,0
+W2106096361,3,10,Philip M. Podsakoff,2003.0,Common method biases in behavioral research: A critical review of the literature and recommended remedies.,Journal of Applied Psychology,10.1037/0021-9010.88.5.879,0
+W2164946987,3,10,Anthony D. Miyazaki,2002.0,Internet Seals of Approval: Effects on Online Privacy Policies and Consumer Perceptions,Journal of Consumer Affairs,10.1111/j.1745-6606.2002.tb00419.x,0
+W1480201135,3,9,Alan Furman Westin,1970.0,Privacy and Freedom,CERN Document Server (European Organization for Nuclear Research),,0
+W2111617027,3,9,France Bélanger,2002.0,"Trustworthiness in electronic commerce: the role of privacy, security, and site attributes",The Journal of Strategic Information Systems,10.1016/s0963-8687(02)00018-5,0
+W2088250690,3,8,Kathy Stewart Schwaig,2006.0,Compliance to the fair information practices: How are the Fortune 500 handling online privacy disclosures?,Information & Management,10.1016/j.im.2006.07.003,1
+W4235678817,3,8,Claes Fornell,1981.0,Evaluating Structural Equation Models with Unobservable Variables and Measurement Error,Journal of Marketing Research,10.1177/002224378101800104,0
+W2154453017,3,8,Heng Xu,2011.0,Information Privacy Concerns: Linking Individual Perceptions with Institutional Privacy Assurances,Journal of the Association for Information Systems,10.17705/1jais.00281,0
+W2014699457,3,8,Mary J. Culnan,2003.0,Consumer Privacy: Balancing Economic and Justice Considerations,Journal of Social Issues,10.1111/1540-4560.00067,0
+W2118501966,3,8,Chang Liu,2004.0,Beyond concern—a privacy-trust-behavioral intention model of electronic commerce,Information & Management,10.1016/j.im.2004.01.003,0
+W2015210388,3,8,David B. Meinert,2006.0,Privacy Policy Statements and Consumer Willingness to Provide Personal Information,Journal of Electronic Commerce in Organizations,10.4018/jeco.2006010101,0
+W2144501061,3,8,Joseph E. Phelps,2000.0,Privacy Concerns and Consumer Willingness to Provide Personal Information,Journal of Public Policy & Marketing,10.1509/jppm.19.1.27.16941,0
+W2564314446,3,8,Florencia Marotta‐Wurgler,2016.0,Self-Regulation and Competition in Privacy Policies,The Journal of Legal Studies,10.1086/689753,1
+W2073396684,3,7,Nora J. Rifon,2005.0,Your Privacy Is Sealed: Effects of Web Privacy Seals on Trust and Personal Disclosures,Journal of Consumer Affairs,10.1111/j.1745-6606.2005.00018.x,0
+W4238165357,3,7,,2008.0,Understanding privacy,Choice Reviews Online,10.5860/choice.46-1562,0
+W2267052824,3,7,Esma Aı̈meur,2016.0,When changing the look of privacy policies affects user trust: An experimental study,Computers in Human Behavior,10.1016/j.chb.2015.11.014,1
+W2072517586,3,7,Liu Chang,2002.0,An Examination of Privacy Policies in Fortune 500 Web Sites,Mid-American Journal of Business,10.1108/19355181200200001,0
+W2732602509,3,7,Randy E. Ryker,2002.0,Online Privacy Policies: An Assessment of the Fortune E-50,Journal of Computer Information Systems,10.1080/08874417.2002.11647048,0
+W2114220294,3,7,Alan Furman Westin,2003.0,Social and Political Dimensions of Privacy,Journal of Social Issues,10.1111/1540-4560.00072,0
+W2613711491,4,24,Milda Mačėnaitė,2017.0,Consent for processing children’s personal data in the EU: following in US footsteps?,Information & Communications Technology Law,10.1080/13600834.2017.1321096,1
+W2583071196,4,22,Deborah A. Lupton,2017.0,The datafied child: The dataveillance of children and implications for their rights,New Media & Society,10.1177/1461444816686328,0
+W2513036450,4,17,Dirk Ifenthaler,2016.0,Student perceptions of privacy principles for learning analytics,Educational Technology Research and Development,10.1007/s11423-016-9477-y,0
+W2149282659,4,15,Abelardo Pardo,2014.0,Ethical and privacy principles for learning analytics,British Journal of Educational Technology,10.1111/bjet.12152,0
+W2087750029,4,13,Sharon Slade,2013.0,Learning Analytics,American Behavioral Scientist,10.1177/0002764213479366,0
+W1526916602,4,13,Daniel J. Solove,2006.0,A Taxonomy of Privacy,University of Pennsylvania Law Review,10.2307/40041279,0
+W1640628807,4,12,Helen F. Nissenbaum,2009.0,Privacy in Context,Stanford University Press eBooks,10.1515/9780804772891,0
+W3014497955,4,12,Kyle M. L. Jones,2020.0,“We're being tracked at all times”: Student perspectives of their privacy in relation to learning analytics in higher education,Journal of the Association for Information Science and Technology,10.1002/asi.24358,0
+W2336314092,4,12,Hendrik Drachsler,2016.0,Privacy and analytics,,10.1145/2883851.2883893,0
+W1979290264,4,11,Virginia Braun,2006.0,Using thematic analysis in psychology,Qualitative Research in Psychology,10.1191/1478088706qp063oa,0
+W2161280932,4,11,Alan Rubel,2016.0,Student privacy in learning analytics: An information ethics perspective,The Information Society,10.1080/01972243.2016.1130502,0
+W2999199799,4,10,Ben Williamson,2017.0,"Big Data in Education: The digital future of learning, policy and practice",SAGE Publications Ltd eBooks,10.4135/9781529714920,0
+W3023054078,4,10,Ben Williamson,2020.0,The datafication of teaching in Higher Education: critical issues and perspectives,Teaching in Higher Education,10.1080/13562517.2020.1748811,0
+W2585378523,4,8,Sonia Livingstone,2017.0,Children and young people’s rights in the digital age: An emerging agenda,New Media & Society,10.1177/1461444816686318,0
+W2955803145,4,8,Kyle M. L. Jones,2019.0,Learning analytics and higher education: a proposed model for establishing informed consent mechanisms to promote student privacy and autonomy,International Journal of Educational Technology in Higher Education,10.1186/s41239-019-0155-0,0
+W1779680771,4,7,José van Dijck,2014.0,"Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology",Surveillance & Society,10.24908/ss.v12i2.4776,0
+W2895819575,4,7,Joël R. Reidenberg,2018.0,Achieving big data privacy in education,Theory and Research in Education,10.1177/1477878518805308,1
+W4211146243,4,7,Daniel J. Solove,2002.0,Conceptualizing Privacy,California Law Review,10.2307/3481326,0

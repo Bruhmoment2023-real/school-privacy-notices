@@ -1,0 +1,238 @@
+{
+ "q": "Human Rights Watch EdTech children's rights pandemic apps data practices",
+ "items": [
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0062",
+   "title": [
+    "human-rights-watch-reports-the-department-of-state-country-reports-on-human-rights-practices-for-1989-testimony-of-human-rights-watch-feb-28-1990-17-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0062"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0009",
+   "title": [
+    "critique-review-of-the-department-of-states-country-reports-on-human-rights-practices-for-1985-prepared-by-americas-watch-asia-watch-helsinki-watch-and-lawyers-committee-for-human-rights-may-19"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0009"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0151",
+   "title": [
+    "human-rights-watch-childrens-project-human-rights-watch-condemns-police-treatment-and-detention-of-street-children-in-kenya-june-16-1997-3-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0151"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-1309-0311",
+   "title": [
+    "human-rights-watch-exposes-human-rights-abuses-against-guatemalan-children-aug-29-1997-6-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-1309-0311"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0005",
+   "title": [
+    "critique-review-of-the-department-of-states-country-reports-on-human-rights-practices-1984-prepared-by-americas-watch-helsinki-watch-lawyers-committee-for-human-rights-may-1985-160-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0005"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-1309-0005",
+   "title": [
+    "a-critique-of-the-department-of-states-country-reports-on-human-rights-practices-for-1981-prepared-by-americas-watch-helsinki-watch-and-the-lawyers-committee-for-international-human-rights-apr-1"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-1309-0005"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-1309-0036",
+   "title": [
+    "critique-review-of-the-department-of-states-country-reports-on-human-rights-practices-for-1983-by-americas-watch-helsinki-watch-and-the-lawyers-for-international-human-rights-mar-1984-84-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-1309-0036"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0093",
+   "title": [
+    "human-rights-watch-reports-human-rights-watch-world-report-1994-409-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0093"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0660",
+   "title": [
+    "human-rights-watch-futures-stolen-barriers-to-education-for-children-with-disabilities-in-nepal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0660"
+  },
+  {
+   "DOI": "10.23943/princeton/9780691135151.003.0009",
+   "title": [
+    "Human Rights Watch"
+   ],
+   "author": [
+    {
+     "given": "Aryeh",
+     "family": "Neier",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      4,
+      22
+     ]
+    ]
+   },
+   "container-title": [
+    "The International Human Rights Movement"
+   ],
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.23943/princeton/9780691135151.003.0009",
+   "abstract": "<p>This chapter talks about how, despite the Human Rights Watch becoming one of the two most important institutions for the protection of human rights worldwide, its beginnings in the late 1970s did not seem to foreshadow its subsequent development. The organization is an outgrowth of the efforts of a handful of people to address one particular human rights problem of the era. They did not plan in advance its expansion to address a full range of issues worldwide. Nor did they begin with the intent to adopt the <italic>modus operandi</italic> that soon came to define the organization's character. Those developments were, to a large extent, accidents of history.</p>"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0117",
+   "title": [
+    "human-rights-watch-childrens-project-vol8-no1g-children-in-combat-jan-1996-23-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0117"
+  },
+  {
+   "DOI": "10.1163/2210-7975_hrd-2156-0083",
+   "title": [
+    "human-rights-watch-reports-human-rights-watch-world-report-1993-dec-1992-422-pp"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Rights Documents online"
+   ],
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/2210-7975_hrd-2156-0083"
+  }
+ ]
+}

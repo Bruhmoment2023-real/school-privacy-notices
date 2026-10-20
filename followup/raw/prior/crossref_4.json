@@ -1,0 +1,740 @@
+{
+ "q": "COPPA compliance education apps privacy policy analysis",
+ "items": [
+  {
+   "DOI": "10.1155/2022/2508690",
+   "title": [
+    "Evaluating the Privacy Policy of Android Apps: A Privacy Policy Compliance Study for Popular Apps in China and Europe"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2274-783X",
+     "authenticated-orcid": true,
+     "given": "Kaijun",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      },
+      {
+       "name": "National Engineering Research Center of Mobile Network Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9582-0698",
+     "authenticated-orcid": true,
+     "given": "Guoai",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      },
+      {
+       "name": "National Engineering Research Center of Mobile Network Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8193-0549",
+     "authenticated-orcid": true,
+     "given": "Xiaomei",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "China Cybersecurity Review Technology and Certification Center, Beijing 100020, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3310-926X",
+     "authenticated-orcid": true,
+     "given": "Guosheng",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      },
+      {
+       "name": "National Engineering Research Center of Mobile Network Security, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0159-8377",
+     "authenticated-orcid": true,
+     "given": "Zhangjie",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Beijing Big Data Center, Beijing 100101, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      8,
+      23
+     ]
+    ]
+   },
+   "container-title": [
+    "Scientific Programming"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1155/2022/2508690",
+   "abstract": "<jats:p>Recently, with the increase in the market share of the Android system and the sharp increase in the number of Android mobile apps, many countries and regions have successively launched laws and regulations related to data security. The EU\u2019s GDPR and China\u2019s Information Security Technology-Personal Information Security Specification are two of the most important bills, affecting vast areas and large populations. Both regulations impose requirements on privacy policy specifications for Android apps. With these requirements, however, apps\u2019 privacy policies have become larger. Researchers have conducted studies on whether the actual privacy behavior of apps conforms to their privacy policy description but have not focused on compliance with the privacy policy itself. In this paper, we propose evaluation metrics for privacy policy compliance and evaluate popular apps by analyzing privacy policies and apps. We applied our method to 1,000 apps from the Google Play Store in Europe and 1,000 apps from the Tencent Appstore in China. We detected a number of app privacy policy noncompliance issues and discovered a number of privacy issues with third-party services and third-party libraries.</jats:p>"
+  },
+  {
+   "DOI": "10.14264/51ad221",
+   "title": [
+    "Privacy compliance of virtual personal assistant apps ecosystem"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5446-3081",
+     "authenticated-orcid": true,
+     "given": "Fuman",
+     "family": "Xie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00rqy9422",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "department": [
+        "School of Electrical Engineering and Computer Science"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/51ad221"
+  },
+  {
+   "DOI": "10.14763/2024.2.1757",
+   "title": [
+    "The death of privacy policies: How app stores shape GDPR compliance of apps"
+   ],
+   "author": [
+    {
+     "given": "Julia",
+     "family": "Kr\u00e4mer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Internet Policy Review"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.14763/2024.2.1757"
+  },
+  {
+   "DOI": "10.2196/48714",
+   "title": [
+    "Personal Information Protection and Privacy Policy Compliance of Health Code Apps in China: Scale Development and Content Analysis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0673-848X",
+     "authenticated-orcid": false,
+     "given": "Jiayi",
+     "family": "Jiang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9906-4754",
+     "authenticated-orcid": false,
+     "given": "Zexing",
+     "family": "Zheng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      11,
+      14
+     ]
+    ]
+   },
+   "container-title": [
+    "JMIR mHealth and uHealth"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/48714",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec sec-type=\"background\">\n                    <jats:title>Background</jats:title>\n                    <jats:p>Digital technologies, especially contact tracing apps, have been crucial in monitoring and tracing the transmission of COVID-19 worldwide. China developed health code apps as an emergency response to the pandemic with plans to use them for broader public health services. However, potential problems within privacy policies may compromise personal information (PI) protection.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"objective\">\n                    <jats:title>Objective</jats:title>\n                    <jats:p>We aimed to evaluate the compliance of the privacy policies of 30 health code apps in the mainland of China with the Personal Information Protection Law (PIPL) and related specifications.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"methods\">\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We reviewed and assessed the privacy policies of 30 health code apps between August 26 and September 6, 2023. We used a 3-level indicator scale based on the information life cycle as provided in the PIPL and related specifications. The scale comprised 7 level-1 indicators, 26 level-2 indicators, and 71 level-3 indicators.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"results\">\n                    <jats:title>Results</jats:title>\n                    <jats:p>The mean compliance score of the 30 health code apps was 59.9% (SD 22.6%). A total of 13 (43.3%) apps scored below this average, and 6 apps scored below 40%. Level-1 indicator scores included the following: general attributes (mean 85.6%, SD 23.3%); PI collection and use (mean 66.2%, SD 22.7%); PI storage and protection (mean 63.3%, SD 30.8%); PI sharing, transfer, disclosure, and transmission (mean 57.2%, SD 27.3%); PI deletion (mean 52.2%, SD 29.4%); individual rights (mean 59.3%, SD 25.7%); and PI processor duties (mean 43.7%, SD 23.8%). Sensitive PI protection compliance (mean 51.4%, SD 26.0%) lagged behind general PI protection (mean 83.3%, SD 24.3%), with only 1 app requiring separate consent for sensitive PI processing. Additionally, 46.7% (n=14) of the apps needed separate consent for subcontracting activities, while fewer disclosed PI recipient information (n=13, 43.3%), safety precautions (n=11, 36.7%), and rules of PI transfer during specific events (n=10, 33.3%). Most privacy policies specified the PI retention period (n=23, 76.7%) and postperiod deletion or anonymization (n=22, 73.3%), but only 6.7% (n=2) were committed to prompt third-party PI deletion. Most apps delineated various individual rights: the right to inquire (n=25, 83.3%), correct (n=24, 80%), and delete PI (n=24, 80%); cancel their account (n=21, 70%); withdraw consent (n=20, 60%); and request privacy policy explanations (n=24, 80%). Only a fraction addressed the rights to obtain copies (n=4, 13.3%) or refuse advertisement of automated decision-making (n=1, 3.3%). The mean compliance rate of PI processor duties was only 43.7% (SD 23.8%), with significant deficiencies in impact assessments (mean 5.0%, SD 19.8%), PI protection officer appointment (mean 6.7%, SD 24.9%), regular compliance audits (mean 6.7%, SD 24.9%), and complaint management (mean 37.8%, SD 39.2%).</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"conclusions\">\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Our analysis revealed both strengths and significant shortcomings in the compliance of privacy policies of health code apps with the PIPL and related specifications considering the information life cycle. As China contemplates the future extended use of health code apps, it should articulate the legitimacy of the apps\u2019 normalization and ensure that users provide informed consent. Meanwhile, China should raise the compliance level of relevant privacy policies and fortify its enforcement mechanisms.</jats:p>\n                  </jats:sec>"
+  },
+  {
+   "DOI": "10.2196/preprints.23409",
+   "title": [
+    "Privacy Policy Compliance of Chronic Disease Management Apps in China: Scale Development and Content Evaluation (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1422-2168",
+     "authenticated-orcid": false,
+     "given": "Zhenni",
+     "family": "Ni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3514-8032",
+     "authenticated-orcid": false,
+     "given": "Yiying",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3803-2505",
+     "authenticated-orcid": false,
+     "given": "Yuxing",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      11
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2196/preprints.23409",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>With the development of mobile health (mHealth), chronic disease management apps have brought not only the possibility of reducing the burden of chronic diseases but also huge privacy risks to patients\u2019 health data.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>The purpose of the study was to analyze the extent to which chronic disease management apps in China comply with the Personal Information Security Specification (PI Specification).</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>The compliance of 45 popular chronic disease management apps was evaluated from the perspective of the information life cycle. To conduct a fine-grained evaluation, a scale based on the PI Specification was developed. Finally, 6 level 1 indicators, 22 level 2 indicators, and 61 level 3 indicators were defined.</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>There were 33/45 apps (73%) with a privacy policy, and the average score of these apps was 40.4 out of 100. Items of level 1 indicators with high scores included general characteristics (mean 51.9% [SD 28.1%]), information collection and use (mean 51.1% [SD 36.7%]), and information sharing and transfer (mean 50.3% [SD 33.5%]). Information storage and protection had the lowest compliance with PI Specification (mean 29.4% [SD 32.4%]). Few personal information (PI) controllers have stated how to handle security incidents, including security incident reporting (7/33, 21%), security incident notification (10/33, 30%), and commitment to bear corresponding legal responsibility for PI security incidents (1/33, 3%). The performance of apps in the stage of information destruction (mean 31.8% [SD 40.0%]) was poor, and only 21% (7/33) apps would notify third parties to promptly delete PI after individuals cancelled their accounts. Moreover, the scoring rate for rights of PI subjects is generally low (mean 31.2% [SD 35.5%]), especially for obtaining copies of PI (15%) and responding to requests (25%).</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>Although most chronic disease management apps had a privacy policy, the total compliance rate of the policy content was low, especially in the stage of information storage and protection. Thus, the field has a long way to go with regard to compliance around personal privacy protection in China.</p>\n                </sec>"
+  },
+  {
+   "DOI": "10.5220/0013518600003979",
+   "title": [
+    "Privacy2Practice: Leveraging Automated Analysis for Privacy Policy Transparency and Compliance"
+   ],
+   "author": [
+    {
+     "given": "Saja",
+     "family": "Alqurashi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Colorado State University, U.S.A."
+      },
+      {
+       "name": "Department of Information Technology, King Abdulaziz University, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Indrakshi",
+     "family": "Ray",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Colorado State University, U.S.A."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 22nd International Conference on Security and Cryptography"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0013518600003979"
+  },
+  {
+   "DOI": "10.2196/73651",
+   "title": [
+    "Privacy Policy Compliance of Mobile Sports and Health Apps in China: Scale Development, Data Analysis, and Prospects for Regulatory Reform"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-4024-1850",
+     "authenticated-orcid": false,
+     "given": "Rengui",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6151-0528",
+     "authenticated-orcid": false,
+     "given": "Fanhong",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "JMIR mHealth and uHealth"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/73651",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec sec-type=\"background\">\n                    <jats:title>Background</jats:title>\n                    <jats:p>Driven by technological advancements, the proliferation of mobile sports and health apps has revolutionized health management by improving efficiency, cost-effectiveness, and accessibility. While the widespread adoption of these platforms has transformed public health practices and social well-being in China, emerging evidence suggests that inadequacies in their privacy policies may compromise personal information (PI) protection.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"objective\">\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This study aimed to conduct a systematic evaluation of privacy policy compliance among 286 mobile sports and health apps in the Chinese Mainland, benchmarking them against the Personal Information Protection Law and associated PI regulatory guidelines.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"methods\">\n                    <jats:title>Methods</jats:title>\n                    <jats:p>This study develops a privacy policy compliance indicator scale based on the information life cycle and the legal framework for PI protection in the Chinese Mainland. This scale consists of 5 level 1 indicators and 37 level 2 indicators that assess the privacy policy compliance.</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"results\">\n                    <jats:title>Results</jats:title>\n                    <jats:p>The privacy policy compliance of 286 sports and health apps generally performed worse, with only a minimal number (n=11, 3.8%) of apps scoring above 90 points (rated as excellent), nearly half (n=121, 42.3%) of apps scored below 60 points (rated as unqualified). Among the 5 level 1 evaluation indicators for privacy compliance in sports and health apps, the compliance rate for PI collection (mean 74%, SD 25.8%) is the highest, while the compliance rate for PI storage (mean 53.5%, SD 28.4%) is the lowest. The compliance rates for privacy policies across the remaining 3 level 1 evaluation indicators, such as PI usage (mean 54.2%, SD 24.4%), PI entrusted processing, sharing, transferring, and disclosing (mean 62.2%, SD 19.8%), and PI security and feedback (mean 61.7%, SD 21.3%), fall around 60%. Out of 37, 17 level 2 evaluation indicators show a compliance rate below 60%. The compliance rate with privacy policies for 5 level 2 evaluation indicators is exceptionally high, including collection subject (mean 97.2%, SD 16.5%), collection type (mean 99%, SD 10.2%), collection purpose (mean 96.2%, SD 19.3%), reasons for sharing, transferring, and disclosing PI (mean 91.6%, SD 27.8%), and feedback channel (mean 93.4%, SD 24.9%). Notably, 3 indicators exhibit compliance rates below 20%, including sensitive information storage (mean 14%, SD 34.7%), constraints of automatic decision-making (mean 9.4%, SD 29.3%), and deceased user rule (mean 5.2%, SD 22.3%). Authorization for sensitive information (mean 29.4%, SD 45.6%) lagged behind general information (mean 83.6%, SD 37.1%).</jats:p>\n                  </jats:sec>\n                  <jats:sec sec-type=\"conclusions\">\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Although some apps have established commendable policies, there are gaps that compromise the efficacy of PI protection. Considering this, this paper proposes targeted actions for 3 stakeholders: users, regulators, and legislators. Only through coordinated action can the app ecosystem close the compliance gaps, reduce PI protection risks, and restore user trust in digital services.</jats:p>\n                  </jats:sec>"
+  },
+  {
+   "DOI": "10.1109/qrs-c60940.2023.00070",
+   "title": [
+    "Privacy Policy Compliance Inspection of Financial Apps"
+   ],
+   "author": [
+    {
+     "given": "Jiyun",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nanjing University,State Key Laboratory for Novel Software Technology,Nanjing,China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yue",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing University,State Key Laboratory for Novel Software Technology,Nanjing,China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Qingheng",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing University,State Key Laboratory for Novel Software Technology,Nanjing,China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yuan",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing University,State Key Laboratory for Novel Software Technology,Nanjing,China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      22
+     ]
+    ]
+   },
+   "container-title": [
+    "2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security Companion (QRS-C)"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/qrs-c60940.2023.00070"
+  },
+  {
+   "DOI": "10.14264/7c029ed",
+   "title": [
+    "Nudging high-accessible privacy policy compliance"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-7336-5144",
+     "authenticated-orcid": true,
+     "given": "Baiqi",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00rqy9422",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "department": [
+        "School of Electrical Engineering and Computer Science"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/7c029ed"
+  },
+  {
+   "DOI": "10.1109/pst.2014.6890917",
+   "title": [
+    "Can apps play by the COPPA Rules?"
+   ],
+   "author": [
+    {
+     "given": "Ilaria",
+     "family": "Liccardi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Monica",
+     "family": "Bulger",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hal",
+     "family": "Abelson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Daniel J.",
+     "family": "Weitzner",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Wendy",
+     "family": "Mackay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "2014 Twelfth Annual International Conference on Privacy, Security and Trust"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/pst.2014.6890917"
+  },
+  {
+   "DOI": "10.2196/23409",
+   "title": [
+    "Privacy Policy Compliance of Chronic Disease Management Apps in China: Scale Development and Content Evaluation"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1422-2168",
+     "authenticated-orcid": false,
+     "given": "Zhenni",
+     "family": "Ni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3514-8032",
+     "authenticated-orcid": false,
+     "given": "Yiying",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3803-2505",
+     "authenticated-orcid": false,
+     "given": "Yuxing",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      28
+     ]
+    ]
+   },
+   "container-title": [
+    "JMIR mHealth and uHealth"
+   ],
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2196/23409",
+   "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>With the development of mobile health (mHealth), chronic disease management apps have brought not only the possibility of reducing the burden of chronic diseases but also huge privacy risks to patients\u2019 health data.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>The purpose of the study was to analyze the extent to which chronic disease management apps in China comply with the Personal Information Security Specification (PI Specification).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>The compliance of 45 popular chronic disease management apps was evaluated from the perspective of the information life cycle. To conduct a fine-grained evaluation, a scale based on the PI Specification was developed. Finally, 6 level 1 indicators, 22 level 2 indicators, and 61 level 3 indicators were defined.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>There were 33/45 apps (73%) with a privacy policy, and the average score of these apps was 40.4 out of 100. Items of level 1 indicators with high scores included general characteristics (mean 51.9% [SD 28.1%]), information collection and use (mean 51.1% [SD 36.7%]), and information sharing and transfer (mean 50.3% [SD 33.5%]). Information storage and protection had the lowest compliance with PI Specification (mean 29.4% [SD 32.4%]). Few personal information (PI) controllers have stated how to handle security incidents, including security incident reporting (7/33, 21%), security incident notification (10/33, 30%), and commitment to bear corresponding legal responsibility for PI security incidents (1/33, 3%). The performance of apps in the stage of information destruction (mean 31.8% [SD 40.0%]) was poor, and only 21% (7/33) apps would notify third parties to promptly delete PI after individuals cancelled their accounts. Moreover, the scoring rate for rights of PI subjects is generally low (mean 31.2% [SD 35.5%]), especially for obtaining copies of PI (15%) and responding to requests (25%).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Although most chronic disease management apps had a privacy policy, the total compliance rate of the policy content was low, especially in the stage of information storage and protection. Thus, the field has a long way to go with regard to compliance around personal privacy protection in China.</jats:p>\n                  </jats:sec>"
+  },
+  {
+   "DOI": "10.1145/3847192.3847380",
+   "title": [
+    "A Large-Scale Privacy Analysis of Android Education Apps"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8374-7596",
+     "authenticated-orcid": false,
+     "given": "Rakibul",
+     "family": "Hasan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Arizona State University, Tempe, Arizona, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      11,
+      14
+     ]
+    ]
+   },
+   "container-title": [
+    "Proceedings of the 25th Workshop on Privacy in the Electronic Society"
+   ],
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3847192.3847380"
+  }
+ ]
+}
