@@ -35,3 +35,6 @@ p1 = load("pass1_reconciled.csv"); p1raw = load("pass1.csv"); p2 = load("pass2.c
 t, d = compare(p1raw, p2, "pass1raw_vs_pass2", os.path.join(ROOT, "results", "tables", "reliability_pass1raw_vs_pass2.csv")); print(t.to_string()); print("DIFFS raw p1 -> p2:", d)
 t2, d2 = compare(p1, p2, "pass1rec_vs_pass2", os.path.join(ROOT, "results", "tables", "reliability_pass1reconciled_vs_pass2.csv")); print(t2.tail(1).to_string()); print("DIFFS rec p1 -> p2:", d2)
 t3, d3 = compare(p1, au, "pass1rec_vs_regex", os.path.join(ROOT, "results", "tables", "reliability_regex_vs_pass1reconciled.csv")); print(t3.to_string())
+# regex coder against the final (checked) codes used by 11b_analyse.py
+fin = load("codes_final_checked.csv")
+t4, d4 = compare(fin, au, "final_vs_regex", os.path.join(ROOT, "results", "tables", "reliability_regex_vs_final_checked.csv")); print(t4.to_string())

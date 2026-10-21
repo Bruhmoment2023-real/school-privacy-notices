@@ -1,0 +1,14 @@
+unit_id,item,first_pass,checked,note
+CB-010,D4,N,P,Lines 82-84: generic contact for inquiries (and line 91 refers to 'your privileges'); a 'contact us' means with no rights named = P under the rule.
+CB-016,D8b,N,Y,Lines 49 and 58: 'we have one month to respond' to rights requests; rule v1.1 counts rights requests.
+CB-016,K3,N,P,"Line 61: parents told to contact the school if their child provided data, so it can be removed = parents 'may contact' (P)."
+CB-025,D1,P,Y,"At least three specific items: URL, browser information, IP address (lines 29-31), date of birth (line 37), precise location (line 113)."
+CB-025,D5,N,P,Line 134: unsatisfied users may refer the complaint to 'the relevant regulator in your jurisdiction' = generic regulator (P).
+CB-033,D4,N,P,"Lines 72-78: contact route (email, page, phone, post) for questions about the policy, but no rights named = P."
+CB-033,K3,P,Y,"Line 66: no collection from under-18s 'unless otherwise approved by the Parent or Guardian', data collected without verified parental consent is removed = consent required before processing."
+CB-058,D7,N,P,"Lines 1-2 and 162: the page gives a general school email/phone (no privacy role) = P, as CB-046 D7 was coded from header contact lines."
+CI-003,D4,N,P,"Lines 39-44: contact route (address, email, phone) for questions about the policy, no rights named = P."
+CI-031,D4,N,P,"Lines 99-109: contact route (address, phone, email) for questions about the policy, no rights named = P."
+OT-007,D5,N,P,Line 18: policy says how to contact 'supervisory authorities in the event you have a complaint' (generic authority); lines 117-118 arbitration/courts. Generic route = P.
+GV-007,D3,N,P,"Lines 59-63: location/camera data collected with prior permission, which can be disabled at any time via device settings (withdrawal with a channel, but only for that data); line 75 marketing opt-out. Not a general withdrawal statement, so P."
+GV-007,K4,N,P,"Line 122: data removed if collected 'without verification of parental consent' = says it verifies, no method (P); CB-033 K4 was coded P on the same clause."

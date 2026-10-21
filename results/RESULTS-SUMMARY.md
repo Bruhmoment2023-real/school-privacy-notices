@@ -1,4 +1,4 @@
-# RESULTS SUMMARY (bullets; numbers from `results\tables\`, produced by `code\11*.py` on 17 Oct 2026)
+# RESULTS SUMMARY (bullets; numbers from `results\tables\`, produced by `code\11*.py` on 17 Oct 2026; item rates updated on 21 Oct 2026 to the final codes after the full check of the 19 school notices, see RQ6)
 
 Wilson 95% intervals in brackets. "Verified" = homepage reached and the privacy-notice search finished (found, found-but-not-a-notice, or not found). "Notice" = a dedicated privacy policy with substantive text (`kind = PRIV`). Strict = Y only; lenient = Y or P. **Readiness baseline: s.5, s.8, s.9 and Rules 3, 9, 10, 14 are not in force until 13 May 2027 (G.S.R. 843(E); Rule 1(4)).** A missing item is "not ready", not "unlawful".
 
@@ -18,7 +18,7 @@ Wilson 95% intervals in brackets. "Verified" = homepage reached and the privacy-
 ## RQ2: content among units with a notice (T3, Fig 2). Strict rates among notices; schools n = 19, edtech n = 41
 | Item | Schools | Edtech |
 |---|---|---|
-| D1 itemised data | 16/19 = 84% [62-95] | 39/41 = 95% [84-99] |
+| D1 itemised data | 17/19 = 89% [69-97] | 39/41 = 95% [84-99] |
 | D2 specific purposes | 8/19 = 42% [23-64] | 28/41 = 68% [53-80] |
 | D3 how to withdraw consent | 1/19 = 5% [1-25] | 15/41 = 37% [24-52] |
 | D4 means to exercise rights | 5/19 = 26% [12-49] | 27/41 = 66% [51-78] |
@@ -26,15 +26,15 @@ Wilson 95% intervals in brackets. "Verified" = homepage reached and the privacy-
 | D6 English/Eighth Schedule language | 19/19 | 41/41 (almost all English-only; no additional language version offered except one "on request") |
 | D7 named privacy/grievance contact | 3/19 = 16% [6-38] | 15/41 = 37% [24-52] |
 | D8a grievance mechanism | 2/19 = 11% | 9/41 = 22% |
-| D8b response period <= 90 days | 1/19 | 7/41 = 17% |
+| D8b response period <= 90 days | 2/19 | 7/41 = 17% |
 | D9 stand-alone | 18/19 | 40/41 |
-- **Core five (D1-D5 all Y): 2 of 60 notices = 3.3% [0.9-11.4] strict; 7/60 = 11.7% [5.8-22.2] lenient; 0 of 19 school notices, 2 of 41 edtech notices.** Of all 159 verified units: 2 = 1.3%.
-- Mean core items met (strict, among notices): schools 1.58, edtech 2.71, of 5.
+- **Core five (D1-D5 all Y): 2 of 60 notices = 3.3% [0.9-11.4] strict; 8/60 = 13.3% [6.9-24.2] lenient; 0 of 19 school notices, 2 of 41 edtech notices.** Of all 159 verified units: 2 = 1.3%.
+- Mean core items met (strict, among notices): schools 1.63, edtech 2.71, of 5.
 - 9 of 60 notices name the DPDP Act (15.0% [8.1-26.1]), all edtech (9/41 = 22%); no school notice does (0/19). A further text mirrors DPDP concepts (consent records, adult-parent verification) without naming the Act. Of 21 edtech notices that name any law, 12 name only the IT Act 2000 or a foreign regime (GDPR, CCPA, COPPA, UAE, Swiss/UK) and 9 name the DPDP Act (T7, T10).
 
 ## RQ3: children (T3, T7, T10). Among all 60 notices
 - 32/60 = 53.3% [40.9-65.4] mention children or minors.
-- Among those 32: parental consent stated (Y) 6 = 18.8% [8.9-35.3]; Y or P 20 = 62.5%; a parent-verification step (strict) **1 = 3.1% [0.6-15.7]**; Y or P 4.
+- Among those 32: parental consent stated (Y) 7 = 21.9% [11.0-38.8]; Y or P 21 = 65.6%; a parent-verification step (strict) **1 = 3.1% [0.6-15.7]**; Y or P 5.
 - Age threshold stated in 26/60 notices: **15 of 26 (57.7%) use 13 or 16** (US/EU templates); 11 of 26 (42.3%) use 18 (DPDP s.2(f)).
 - No tracking/behavioural monitoring/targeted advertising of children stated (K5): schools 0/19; edtech 5/41 = 12.2% [5.3-25.5]. One edtech notice states no behavioural tracking of minors while describing rewarded video ads (see coding notes in the internal file).
 - School-ERP vendors (at least three notices) place parental-consent responsibility on the school or describe themselves as processors; this matters for who owes the s.5 notice.
@@ -48,11 +48,12 @@ Wilson 95% intervals in brackets. "Verified" = homepage reached and the privacy-
 - By city class, CBSE+CISCE own-site schools: X (8 metros) 9/31 = 29.0% [16.1-46.6]; Y 3/30 = 10.0% [3.5-25.6]; Z 3/24 = 12.5% [4.3-31.0]. X vs Z: OR 2.86, Fisher p = 0.19 (Holm 0.22); X vs Y+Z: OR 3.27, p = 0.073 (Holm 0.22). Direction as hypothesised (H6) but **not statistically established**; cells are small.
 - Edtech vs all schools, notice presence: OR 105, p < 1e-19 (but see the selection caveat above). Core five: 2/43 vs 0/116, p = 0.072 (Holm 0.22).
 - Edtech by App Store popularity tercile (T4b; sellers' total rating counts, 20 drawn per tercile): notice presence low 11/12 (92%), mid 17/17, high 13/14 (93%); DPDP Act named in 4 of 11, 4 of 17 and 1 of 13 notices respectively; core five met 1, 1 and 0. Eight of the nine notices naming the DPDP Act come from the lower two terciles; the high-popularity tercile has one. Unverified (JavaScript-only) units are concentrated in the lowest tercile (6 of 20). n is small: descriptive only.
-- Kruskal-Wallis on core items met (0-5) across the five groups p < 1e-18 (driven by edtech vs the rest).
+- Kruskal-Wallis on core items met (0-5) across the five groups p < 1e-17 (driven by edtech vs the rest).
 
 ## RQ6: coding reliability (`results\tables\reliability_*.csv`)
 - Pass 2 on a random 14 of 67 coded notices (20%), same agent, separate pass: strict (Y vs not) agreement 98.6% across 210 item-codings, kappa 0.970, Gwet AC1 0.973 (pass 1 before reconciliation). Differences: 4 (one D4, three D7), all traced to the D7 rule being tightened (v1.1); after reconciliation one difference remains (ED-017 D4, P vs N; pass 1 kept: the notice says it describes "access, and correction" but gives no list or means). **Intra-coder, same session: an upper bound on reliability, not inter-rater reliability.**
-- Regex coder vs pass-1 consensus (n = 69 coded pages x 15 items): strict agreement 85.8%, kappa 0.70, AC1 0.73. Item range: D1 92.8%, D5 98.6%, K5 98.6%, D9 91.3%, K1 88.4%, K2a 91.3%, D4 71.0%, D3 72.5%, **D2 59.4% (kappa 0.16)**, K3 84.1% (kappa 0.34), K4 82.6% (kappa 0.12). The regex coder over-calls D2, K3 and K4; it is adequate only for D1, D5, D9, K1, K2a, K5.
+- Full check of the first-pass codes on the 19 school notices (21 Oct 2026; `checks/`): every code (19 x 15 = 285) was checked a second time against the notice text, with the first-pass code visible (a non-blind check). 282 checked, 3 marked unsure (kept as first pass). Met or not met: agreement 279/282 = 98.9% (exact 95% 96.9-99.8%), kappa 0.975, AC1 0.981; three levels: 95.4%, kappa 0.925. All 13 differences were cases where the first pass was stricter (10 N->P, 2 P->Y, 1 N->Y); they are applied in `data/coding/codes_final_checked.csv` (list in `data/coding/check_changes_log.csv`), which `11b_analyse.py` now reads. `pass1_reconciled.csv` is kept unchanged. Changes to the strict school rates: D1 16 -> 17, D8b 1 -> 2, K3 1 -> 2 of 19.
+- Regex coder vs pass-1 consensus (n = 69 coded pages x 15 items): strict agreement 85.8%, kappa 0.70, AC1 0.73. Against the final checked codes (`reliability_regex_vs_final_checked.csv`): 85.9%, kappa 0.71, AC1 0.73; K3 kappa 0.42 (0.34 against pass 1). Item range: D1 92.8%, D5 98.6%, K5 98.6%, D9 91.3%, K1 88.4%, K2a 91.3%, D4 71.0%, D3 72.5%, **D2 59.4% (kappa 0.16)**, K3 84.1% (kappa 0.34), K4 82.6% (kappa 0.12). The regex coder over-calls D2, K3 and K4; it is adequate only for D1, D5, D9, K1, K2a, K5.
 - A local LLM coder was not run (no Ollama binary installed; model blobs exist on D:\Ollama). Ready-to-run extension, not a result.
 
 ## Hypotheses (pre-specified in 02-design.md): outcome

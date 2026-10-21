@@ -1,4 +1,4 @@
-"""Main analysis for the privacy-notice audit. Reads sample_enriched_public.csv, collection_log.csv, pass1_reconciled.csv, auto_codes.csv.
+"""Main analysis for the privacy-notice audit. Reads sample_enriched_public.csv, collection_log.csv, codes_final_checked.csv, auto_codes.csv.
 Writes results/tables/*.csv and results/figures/*.png and prints the headline numbers. Seeded; deterministic.
 Definitions are those pre-specified in 02-design.md (strict = Y only; lenient = Y or P)."""
 import os, sys, numpy as np, pandas as pd
@@ -16,7 +16,9 @@ def fmt(k, n):
 # ---------------- build unit table
 s = pd.read_csv(os.path.join(DATA, "sample", "sample_enriched_public.csv"), dtype=str).fillna("")
 lg = pd.read_csv(os.path.join(NOTICES, "collection_log.csv"), dtype=str).fillna("")[["unit_id", "status", "discovery", "n_words", "content_type"]].rename(columns={"status": "crawl_status"})
-cd = pd.read_csv(os.path.join(DATA, "coding", "pass1_reconciled.csv"), dtype=str).fillna("")
+# Final codes: pass1_reconciled.csv with the 13 corrections from the full check of the 19 school notices
+# (checks/, data/coding/check_changes_log.csv). pass1_reconciled.csv itself is kept unchanged.
+cd = pd.read_csv(os.path.join(DATA, "coding", "codes_final_checked.csv"), dtype=str).fillna("")
 au = pd.read_csv(os.path.join(DATA, "coding", "auto_codes.csv")).set_index("unit_id")
 u = s.merge(lg, on="unit_id", how="left").merge(cd, on="unit_id", how="left")
 SIT = ["D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8a", "D8b", "D9", "K1", "K2a", "K3", "K4", "K5"]
