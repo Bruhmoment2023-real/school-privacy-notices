@@ -7,7 +7,7 @@ Archived on Zenodo: https://doi.org/10.5281/zenodo.23537751 (this DOI always poi
 
 ## Summary
 
-India's Digital Personal Data Protection Act 2023 and its 2025 Rules will require a notice of what personal data is collected and why, and how to withdraw consent, exercise rights and complain to the Data Protection Board, with stricter duties for children's data, from 13 May 2027. This repository contains the code, coding rules and de-identified results of a readiness baseline: a stratified sample of 240 school websites and edtech services drawn from public directories and the Apple App Store, each searched for a privacy notice, and every notice found coded item by item (D1-D9, K1-K5, S1-S8) against a checklist built from the Gazette text. Hand coding (pass 1, a second pass on a random subset, reconciliation, then a check of every code on the 19 school notices, whose 13 corrections give the final codes in `data/coding/codes_final_checked.csv`) was compared with a transparent regex coder.
+India's Digital Personal Data Protection Act 2023 and its 2025 Rules will require a notice of what personal data is collected and why, and how to withdraw consent, exercise rights and complain to the Data Protection Board, with stricter duties for children's data, from 13 May 2027. This repository contains the code, coding rules and de-identified results of a readiness baseline: a stratified sample of 240 school websites and edtech services drawn from public directories and the Apple App Store, each searched for a privacy notice, and every notice found coded item by item (D1-D9, K1-K5, S1-S8) against a checklist built from the Gazette text. Hand coding (pass 1, a second pass on a random subset, reconciliation, then a check of every code on the 19 school notices, whose 18 corrections give the final codes in `data/coding/codes_final_checked.csv`) was compared with a transparent regex coder.
 
 ## Repository layout
 
@@ -17,7 +17,7 @@ India's Digital Personal Data Protection Act 2023 and its 2025 Rules will requir
 | `code/` | Sampling, collection, coding and analysis scripts in run order (`code/README.md`) |
 | `data/legal/` | Checklist (`LEGAL-CHECKLIST.md`) with Act and Rules text extractions |
 | `data/coding/` | Coding rules, hand codes (`pass1*.csv`, `pass2.csv`, final `codes_final_checked.csv` with its `check_changes_log.csv`), regex codes (`auto_codes.csv`), reconciliation log, blank second-coder sheet |
-| `checks/` | Check of every first-pass code on the 19 school notices: the filled check sheet (notice quotes with names, e-mails, addresses and phone numbers blanked), its instructions, the scripts that built and tallied it, and the tally output |
+| `checks/` | Check of every first-pass code on the 19 school notices: the filled check sheet (notice quotes with names, e-mails, addresses and phone numbers blanked), its instructions, the scripts that built and tallied it, and the tally output, and `apply_check.py`, which builds the public sheet, the final codes and the change log |
 | `data/frame/frame_summary.csv` | Aggregate counts of the sampling frames only, including the number of government-system families (20) and of eligible App Store sellers (558, the edtech frame) |
 | `results/tables/`, `results/figures/` | All paper tables and figures; `RESULTS-SUMMARY.md`; `unit_level_results_PUBLIC.csv` (240 units, codes only) |
 | `bibliometrics/` | Literature map: search protocol, OpenAlex/Crossref/ERIC corpus, bibliometrix and Python analyses, VOSviewer files, tables, figures. See `bibliometrics/README.md` |

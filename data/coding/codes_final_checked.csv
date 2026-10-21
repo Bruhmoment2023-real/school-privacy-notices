@@ -1,23 +1,23 @@
 unit_id,kind,D1,D2,D3,D4,D5,D6,D6b,D7,D8a,D8b,D9,K1,K2a,K2b,K3,K4,K5,S1,S2,S3,S4,S5,S6,S7,S8,note
 CB-008,TERMS,N,N,N,N,N,Y,N,P,N,N,N,N,N,,N,N,N,N,-,N,N,N,N,N,N,page titled Privacy Policy is website terms of use; only the line 'privacy policy is subject to change'; contact email/phone in footer
 CB-010,PRIV,Y,P,N,P,N,Y,N,P,N,N,P,N,N,,N,N,N,N,-,N,Y,Y,N,Y,Y,ERP-vendor combined terms+privacy+data protection page; itemised data list; purposes generic
-CB-016,PRIV,Y,P,N,Y,N,Y,N,P,N,Y,Y,Y,Y,N,P,N,N,N,"GDPR,CCPA",N,Y,N,N,N,Y,generator template (CCPA/GDPR/under-13 clause); rights with email; no school-specific purposes
+CB-016,PRIV,Y,P,P,Y,N,Y,N,P,N,Y,Y,Y,Y,N,P,N,N,N,"GDPR,CCPA",N,Y,N,N,N,Y,generator template (CCPA/GDPR/under-13 clause); rights with email; no school-specific purposes
 CB-019,THIRD_PARTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,,N,N,N,N,-,N,N,N,N,N,N,school's privacy link points to a multinational's global policy on another company's domain; not the school's own notice; items coded N for the school
-CB-025,PRIV,Y,P,N,P,P,Y,N,Y,P,N,Y,N,N,,N,N,N,N,-,Y,Y,N,N,N,Y,Apple-style template with school name substituted; named Grievance Officer with email/phone but grievance scope = content/terms
+CB-025,PRIV,Y,P,N,Y,P,Y,N,Y,P,N,Y,N,N,,N,N,N,N,-,Y,Y,N,N,N,Y,Apple-style template with school name substituted; named Grievance Officer with email/phone but grievance scope = content/terms
 CB-033,PRIV,Y,P,N,P,N,Y,N,P,N,N,Y,Y,Y,Y,Y,P,N,N,-,N,Y,Y,N,Y,Y,generator template (2019); under-18 clause with parent approval
 CB-038,PRIV,Y,P,P,Y,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,Y,Y,N,N,N,Y,generic website template; review/correct/delete via email; marketing opt-out only
 CB-046,PRIV,Y,Y,N,N,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,Y,short school-specific notice (admission data used for report cards)
-CB-051,PRIV,Y,P,N,P,N,Y,N,N,N,N,Y,N,N,,N,N,N,N,-,Y,Y,N,N,N,Y,unedited WordPress 'suggested text' placeholder policy
+CB-051,PRIV,Y,P,N,Y,N,Y,N,N,N,N,Y,N,N,,N,N,N,N,-,Y,Y,N,N,N,Y,unedited WordPress 'suggested text' placeholder policy
 CB-053,PRIV,Y,P,P,P,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,Y,generic generated policy; includes student ID and academic information among data types
 CB-058,PRIV,P,P,P,P,N,Y,N,P,N,N,Y,Y,Y,N,N,N,N,N,GDPR_like,N,Y,N,N,Y,Y,MOOC-platform template (under 13 / under 16 EEA); data examples list absent from extracted text (collapsed content)
 CB-066,EMPTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,,N,N,N,N,-,N,N,N,N,N,N,privacy-policy page link resolves to a page with navigation only (no policy text extracted)
 CB-068,EMPTY,N,N,N,N,N,Y,N,N,N,N,N,N,N,,N,N,N,N,-,N,N,N,N,N,N,privacy page contains menu only; policy text not in extracted page
-CI-002,PRIV,Y,P,N,P,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,N,generic website policy; correction via email
+CI-002,PRIV,Y,P,P,P,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,N,generic website policy; correction via email
 CI-003,PRIV,Y,Y,P,P,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,Y,Y,"short school-specific website policy (applications, inquiries); dated 2025"
 CI-031,PRIV,Y,P,P,P,N,Y,N,P,N,N,Y,Y,Y,Y,N,N,N,N,"COPPA,CalOPPA,CANSPAM",N,Y,N,N,Y,Y,"US-template (CalOPPA, COPPA, CAN-SPAM pledge); age restriction 18 for site use; page text also contains injected spam links (site compromise)"
 CI-041,PRIV,Y,Y,N,P,N,Y,N,N,N,N,Y,Y,N,,Y,N,N,N,IT,N,Y,N,N,N,Y,"cites IT Act 2000 and 'Data Protection Rules, 2011'; parental consent where applicable; rights listed with no channel"
 CI-042,PRIV,N,Y,N,N,N,Y,N,N,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,N,"school-ERP portal policy; purposes listed (billing, school notices); no data itemisation"
-CI-050,PRIV,Y,Y,N,P,N,Y,N,P,N,N,Y,N,N,,N,N,N,N,-,N,Y,N,N,N,Y,school-specific admission data list incl. medical ailment and payment info
+CI-050,PRIV,Y,Y,N,P,N,Y,N,P,N,N,Y,Y,N,,N,N,N,N,-,N,Y,N,N,N,Y,school-specific admission data list incl. medical ailment and payment info
 OT-007,PRIV,Y,Y,P,P,P,Y,N,Y,Y,N,Y,Y,Y,Y,P,N,N,N,IT,Y,Y,N,N,N,Y,coaching/edtech-type company; named Grievance Officer under IT Act; minors not eligible but 'users warrant parent consent'
 OT-012,PRIV,Y,Y,Y,Y,P,Y,N,P,P,Y,Y,N,N,,N,N,N,N,"GDPR,UK_ICO",Y,Y,Y,N,N,Y,UK/EU (GDPR/ICO) template; 30-day query response; complaint route is the UK ICO
 OT-014,NONE,N,N,N,N,N,Y,N,N,N,N,N,N,N,,N,N,N,N,-,N,N,N,N,N,N,path-probe soft-404: /privacy-policy returned the homepage; site has no privacy policy text (only a footer 'privacy policy' word); treated as NOT FOUND

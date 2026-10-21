@@ -1,68 +1,71 @@
-File: 11-check-sheet.filled.xlsx
-Rows: 285; checked (Y or N with code): 282; excluded (? / blank / N without code): 3
+File: checks\11-check-sheet.filled.xlsx
+Rows: 285; checked (Y or N with code): 285; excluded (? / blank / N without code): 0
 Design: non-blind author check of the first-pass codes (checker saw the first-pass code). Not a blind second coder.
 
 MET OR NOT MET (strict: Y vs P/N) - the measure the paper reports first
-  agreement 279/282 = 98.9% (exact 95% 96.9% to 99.8%); Cohen's kappa 0.975; Gwet's AC1 0.981
+  agreement 279/285 = 97.9% (exact 95% 95.5% to 99.2%); Cohen's kappa 0.951; Gwet's AC1 0.963
 THREE LEVELS (Y / P / N)
-  agreement 269/282 = 95.4% (exact 95% 92.2% to 97.5%); Cohen's kappa 0.925; Gwet's AC1 0.934
-  differences: 13, of which 3 change the met-or-not count
+  agreement 267/285 = 93.7% (exact 95% 90.2% to 96.2%); Cohen's kappa 0.897; Gwet's AC1 0.909
+  differences: 18, of which 6 change the met-or-not count
 LENIENT (Y/P vs N)
-  agreement 271/282 = 96.1% (exact 95% 93.1% to 98.0%); Cohen's kappa 0.922; Gwet's AC1 0.922
+  agreement 271/285 = 95.1% (exact 95% 91.9% to 97.3%); Cohen's kappa 0.902; Gwet's AC1 0.902
 
 BY ITEM (n, 3-level agreement, strict agreement, strict kappa, strict AC1, differences first-pass -> checked)
   D1   n=19  3-level  94.7%  strict  94.7%  kappa              0.771  AC1  0.932  {'P->Y': 1}
   D2   n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
-  D3   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 1}
-  D4   n=17  3-level  76.5%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 4}
+  D3   n=19  3-level  84.2%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 3}
+  D4   n=19  3-level  68.4%  strict  89.5%  kappa              0.759  AC1  0.815  {'N->P': 4, 'P->Y': 2}
   D5   n=19  3-level  89.5%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {'N->P': 2}
   D6   n=19  3-level 100.0%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  
   D7   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 1}
   D8a  n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
   D8b  n=19  3-level  94.7%  strict  94.7%  kappa              0.642  AC1  0.938  {'N->Y': 1}
   D9   n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
-  K1   n=18  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
+  K1   n=19  3-level  94.7%  strict  94.7%  kappa              0.890  AC1  0.899  {'N->Y': 1}
   K2a  n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
   K3   n=19  3-level  89.5%  strict  94.7%  kappa              0.642  AC1  0.938  {'N->P': 1, 'P->Y': 1}
   K4   n=19  3-level  94.7%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {'N->P': 1}
   K5   n=19  3-level 100.0%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  
 
-DIRECTION OF DIFFERENCES (all items): {'N->P': 10, 'N->Y': 1, 'P->Y': 2}
+DIRECTION OF DIFFERENCES (all items): {'N->P': 12, 'N->Y': 2, 'P->Y': 4}
   (first pass more generous = Y->P, Y->N, P->N; first pass stricter = N->P, N->Y, P->Y)
-  first pass more generous: 0; first pass stricter: 13
+  first pass more generous: 0; first pass stricter: 18
 
 EACH DIFFERENCE (row, unit, item, first-pass -> checked, note)
     4  CB-010  D4   N -> P  Lines 82-84: generic contact for inquiries (and line 91 refers to [quote removed]); a [quote removed] means with no rights named = P under the rule.
+   18  CB-016  D3   N -> P  Consent is by use of the site (10). No statement that consent can be withdrawn, so not Y. The ad-cookie decline via a third-party link (31) and browser cookie settings (43) alone would be N, consistent with CB-033 (analytics opt-out add-on, N) and GV-007 (device settings, N). But line 56 states a right to object to processing, with an e-mail channel for exercising rights (58). Objecting to processing is an opt-out of processing, which the P limb covers ('states a right to withdraw/opt out'). It 
    24  CB-016  D8b  N -> Y  Lines 49 and 58: [quote removed] to rights requests; rule v1.1 counts rights requests.
    28  CB-016  K3   N -> P  Line 61: parents told to contact the school if their child provided data, so it can be removed = parents [quote removed] (P).
    31  CB-025  D1   P -> Y  At least three specific items: URL, browser information, IP address (lines 29-31), date of birth (line 37), precise location (line 113).
+   34  CB-025  D4   P -> Y  Access, correction and deletion are named (106-108). A portal means is given: [quote removed] to keep information accurate and up to date (105-106). Lines 129-132 give contact for questions about data processing. The rule's list of means includes 'portal', and the same structure (account sign-in plus contact) is coded Y at GV-007 (row 274). So both limbs of Y are met. A's point (the login covers contact info only) is about scope, but the rule does not ask for a means for every ri
    35  CB-025  D5   N -> P  Line 134: unsatisfied users may refer the complaint to [quote removed] = generic regulator (P).
    49  CB-033  D4   N -> P  Lines 72-78: contact route (email, page, phone, post) for questions about the policy, but no rights named = P.
    58  CB-033  K3   P -> Y  Line 66: no collection from under-18s [quote removed], data collected without verified parental consent is removed = consent required before processing.
+   94  CB-051  D4   P -> Y  Under the heading [quote removed] (28), the notice names the right to receive an export of one's data (access) and to request erasure (30). Line 27 gives a self-service means: registered users [quote removed] in their user profile. That is an in-account portal, which covers access, correction and erasure directly. Rights named plus a portal means meets Y, consistent with GV-007 (row 274) and CB-025 (row 34). The rule can dec
   127  CB-058  D7   N -> P  Lines 1-2 and 162: the page gives a general school email/phone (no privacy role) = P, as CB-046 D7 was coded from header contact lines.
+  138  CI-002  D3   N -> P  Processing rests on consent (18: [quote removed]). Line 21 says that when purposes change, [quote removed]. That is a stated opt-out or refusal of consent-based processing, and no channel is given. This is exactly the P limb ('states a right to withdraw/opt out with no channel'). It is narrower than full withdrawal and has no channel, so not Y. It is more than nothing, so not N. Coded the
   154  CI-003  D4   N -> P  Lines 39-44: contact route (address, email, phone) for questions about the policy, no rights named = P.
   169  CI-031  D4   N -> P  Lines 99-109: contact route (address, phone, email) for questions about the policy, no rights named = P.
+  221  CI-050  K1   N -> Y  The rule's parenthetical makes the deciding question whether the notice mentions students as children. Line 96 does, addressing parents who [quote removed] and describing collection [quote removed]. The notice then sets out the child/student data collected from parents: student's name, age, date of birth, medical ailment (99-104). It gives the uses: educational services, academic records, communicating with students (106-111). So it states how 
   230  OT-007  D5   N -> P  Line 18: policy says how to contact [quote removed] (generic authority); lines 117-118 arbitration/courts. Generic route = P.
   273  GV-007  D3   N -> P  Lines 59-63: location/camera data collected with prior permission, which can be disabled at any time via device settings (withdrawal with a channel, but only for that data); line 75 marketing opt-out. Not a general withdrawal statement, so P.
   284  GV-007  K4   N -> P  Line 122: data removed if collected [quote removed] = says it verifies, no method (P); CB-033 K4 was coded P on the same clause.
-
-EXCLUDED ROWS: 34 (CB-025 D4: ?), 94 (CB-051 D4: ?), 221 (CI-050 K1: ?)
 
 SCHOOL ITEM RATES, STRICT (met = Y), among checked rows (19 school notices in all)
   D1    first pass 16/19   checked 17/19
   D2    first pass  8/19   checked  8/19
   D3    first pass  1/19   checked  1/19
-  D4    first pass  5/17   checked  5/17
+  D4    first pass  5/19   checked  7/19
   D5    first pass  0/19   checked  0/19
   D6    first pass 19/19   checked 19/19
   D7    first pass  3/19   checked  3/19
   D8a   first pass  2/19   checked  2/19
   D8b   first pass  1/19   checked  2/19
   D9    first pass 18/19   checked 18/19
-  K1    first pass  7/18   checked  7/18
+  K1    first pass  7/19   checked  8/19
   K2a   first pass  6/19   checked  6/19
   K3    first pass  1/19   checked  2/19
   K4    first pass  0/19   checked  0/19
   K5    first pass  0/19   checked  0/19
-  core five (D1-D5 all met), first pass: strict 0/17, lenient 1/17; mean core items met 1.71
-  core five (D1-D5 all met), checked: strict 0/17, lenient 2/17; mean core items met 1.71
+  core five (D1-D5 all met), first pass: strict 0/19, lenient 1/19; mean core items met 1.58
+  core five (D1-D5 all met), checked: strict 0/19, lenient 2/19; mean core items met 1.74

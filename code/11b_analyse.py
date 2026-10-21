@@ -16,7 +16,7 @@ def fmt(k, n):
 # ---------------- build unit table
 s = pd.read_csv(os.path.join(DATA, "sample", "sample_enriched_public.csv"), dtype=str).fillna("")
 lg = pd.read_csv(os.path.join(NOTICES, "collection_log.csv"), dtype=str).fillna("")[["unit_id", "status", "discovery", "n_words", "content_type"]].rename(columns={"status": "crawl_status"})
-# Final codes: pass1_reconciled.csv with the 13 corrections from the full check of the 19 school notices
+# Final codes: pass1_reconciled.csv with the 18 corrections from the full check of the 19 school notices
 # (checks/, data/coding/check_changes_log.csv). pass1_reconciled.csv itself is kept unchanged.
 cd = pd.read_csv(os.path.join(DATA, "coding", "codes_final_checked.csv"), dtype=str).fillna("")
 au = pd.read_csv(os.path.join(DATA, "coding", "auto_codes.csv")).set_index("unit_id")
