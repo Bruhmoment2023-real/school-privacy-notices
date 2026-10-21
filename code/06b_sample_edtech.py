@@ -16,6 +16,8 @@ d["eligible"] = d.org & (d.kw | d.pvt)
 s = d[d.eligible].groupby("seller").agg(n_apps=("app", "size"), rc=("rc", "sum"), app=("app", "first"), store_url=("store_url", "first"), seller_url=("seller_url", "first")).reset_index()
 s["tercile"] = pd.qcut(s.rc.rank(method="first"), 3, labels=["T1_low", "T2_mid", "T3_high"])
 print("eligible sellers", len(s), s.tercile.value_counts().to_dict())
+fsum = pd.read_csv(os.path.join(DATA, "frame", "frame_summary.csv")); fsum = fsum[fsum.frame != "APPSTORE"]   # frame size of the edtech stratum (run after 06_sample.py)
+pd.concat([fsum, pd.DataFrame([("APPSTORE", "S5_ELIGIBLE_SELLERS", len(s))], columns=fsum.columns)]).to_csv(os.path.join(DATA, "frame", "frame_summary.csv"), index=False)
 parts = []
 for i, t in enumerate(["T1_low", "T2_mid", "T3_high"]):
     g = s[s.tercile == t].sort_values("seller")

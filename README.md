@@ -15,7 +15,7 @@ India's Digital Personal Data Protection Act 2023 and its 2025 Rules will requir
 | `code/` | Sampling, collection, coding and analysis scripts in run order (`code/README.md`) |
 | `data/legal/` | Checklist (`LEGAL-CHECKLIST.md`) with Act and Rules text extractions |
 | `data/coding/` | Coding rules, hand codes (`pass1*.csv`, `pass2.csv`), regex codes (`auto_codes.csv`), reconciliation log, blank second-coder sheet |
-| `data/frame/frame_summary.csv` | Aggregate counts of the sampling frames only |
+| `data/frame/frame_summary.csv` | Aggregate counts of the sampling frames only, including the number of government-system families (20) and of eligible App Store sellers (558, the edtech frame) |
 | `results/tables/`, `results/figures/` | All paper tables and figures; `RESULTS-SUMMARY.md`; `unit_level_results_PUBLIC.csv` (240 units, codes only) |
 | `bibliometrics/` | Literature map: search protocol, OpenAlex/Crossref/ERIC corpus, bibliometrix and Python analyses, VOSviewer files, tables, figures. See `bibliometrics/README.md` |
 | `depth/` | Data dictionary, BibTeX/RIS references |

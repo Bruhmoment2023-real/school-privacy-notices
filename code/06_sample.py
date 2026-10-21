@@ -62,6 +62,8 @@ osm["frame_class"] = np.where(osm.host == "", "NO_VALID_WEBSITE", np.where(osm.s
 summ = []
 for nm, d in (("CBSE", cb), ("CISCE", ci), ("OSM", osm)):
     for k, v in d.frame_class.value_counts().items(): summ.append((nm, k, int(v)))
+s4f = cb[cb.frame_class == "S4_GOV_SYSTEM"]   # number of government-system families (all of them are drawn below)
+summ.append(("CBSE", "S4_GOV_SYSTEM_families", int(pd.Series(np.where(s4f.kv_family, "kvs.ac.in", np.where(s4f.nv_family, "navodaya.gov.in", s4f.host))).nunique())))
 for c in "XYZ":
     summ.append(("CBSE_S1_OWN_SITE_by_city", c, int(((cb.frame_class == "S1_OWN_SITE") & (cb.city_class == c)).sum())))
     summ.append(("CISCE_S2_OWN_SITE_by_city", c, int(((ci.frame_class == "S2_OWN_SITE") & (ci.city_class == c)).sum())))
