@@ -3,31 +3,31 @@ Rows: 285; checked (Y or N with code): 282; excluded (? / blank / N without code
 Design: non-blind author check of the first-pass codes (checker saw the first-pass code). Not a blind second coder.
 
 MET OR NOT MET (strict: Y vs P/N) - the measure the paper reports first
-  agreement 279/282 = 98.9% (exact 95% 96.9% to 99.8%); Cohen[quote removed]s AC1 0.981
+  agreement 279/282 = 98.9% (exact 95% 96.9% to 99.8%); Cohen's kappa 0.975; Gwet's AC1 0.981
 THREE LEVELS (Y / P / N)
-  agreement 269/282 = 95.4% (exact 95% 92.2% to 97.5%); Cohen[quote removed]s AC1 0.934
+  agreement 269/282 = 95.4% (exact 95% 92.2% to 97.5%); Cohen's kappa 0.925; Gwet's AC1 0.934
   differences: 13, of which 3 change the met-or-not count
 LENIENT (Y/P vs N)
-  agreement 271/282 = 96.1% (exact 95% 93.1% to 98.0%); Cohen[quote removed]s AC1 0.922
+  agreement 271/282 = 96.1% (exact 95% 93.1% to 98.0%); Cohen's kappa 0.922; Gwet's AC1 0.922
 
 BY ITEM (n, 3-level agreement, strict agreement, strict kappa, strict AC1, differences first-pass -> checked)
-  D1   n=19  3-level  94.7%  strict  94.7%  kappa              0.771  AC1  0.932  {[quote removed]: 1}
+  D1   n=19  3-level  94.7%  strict  94.7%  kappa              0.771  AC1  0.932  {'P->Y': 1}
   D2   n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
-  D3   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {[quote removed]: 1}
-  D4   n=17  3-level  76.5%  strict 100.0%  kappa              1.000  AC1  1.000  {[quote removed]: 4}
-  D5   n=19  3-level  89.5%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {[quote removed]: 2}
+  D3   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 1}
+  D4   n=17  3-level  76.5%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 4}
+  D5   n=19  3-level  89.5%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {'N->P': 2}
   D6   n=19  3-level 100.0%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  
-  D7   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {[quote removed]: 1}
+  D7   n=19  3-level  94.7%  strict 100.0%  kappa              1.000  AC1  1.000  {'N->P': 1}
   D8a  n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
-  D8b  n=19  3-level  94.7%  strict  94.7%  kappa              0.642  AC1  0.938  {[quote removed]: 1}
+  D8b  n=19  3-level  94.7%  strict  94.7%  kappa              0.642  AC1  0.938  {'N->Y': 1}
   D9   n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
   K1   n=18  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
   K2a  n=19  3-level 100.0%  strict 100.0%  kappa              1.000  AC1  1.000  
-  K3   n=19  3-level  89.5%  strict  94.7%  kappa              0.642  AC1  0.938  {[quote removed]: 1, [quote removed]: 1}
-  K4   n=19  3-level  94.7%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {[quote removed]: 1}
+  K3   n=19  3-level  89.5%  strict  94.7%  kappa              0.642  AC1  0.938  {'N->P': 1, [quote removed]: 1}
+  K4   n=19  3-level  94.7%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  {'N->P': 1}
   K5   n=19  3-level 100.0%  strict 100.0%  kappa n/a (no variation)  AC1  1.000  
 
-DIRECTION OF DIFFERENCES (all items): {[quote removed]: 10, [quote removed]: 1, [quote removed]: 2}
+DIRECTION OF DIFFERENCES (all items): {'N->P': 10, [quote removed]: 1, [quote removed]: 2}
   (first pass more generous = Y->P, Y->N, P->N; first pass stricter = N->P, N->Y, P->Y)
   first pass more generous: 0; first pass stricter: 13
 
