@@ -42,6 +42,9 @@ u["core_n_S"] = u[[c + "_S" for c in core]].sum(axis=1)
 u["group"] = u.stratum.map({"S1_CBSE": "CBSE", "S2_CISCE": "CISCE", "S3_OTHER": "Other/unknown board", "S4_GOV_SYSTEM": "Govt school systems", "S5_EDTECH": "Edtech/school software"})
 u.drop(columns=[c for c in ("note",) if c in u]).to_csv(os.path.join(RT, "unit_level_results_PUBLIC.csv"), index=False)
 GROUPS = ["CBSE", "CISCE", "Other/unknown board", "Govt school systems", "Edtech/school software"]
+# K2b (threshold is 18) only counts where a threshold is stated (K2a); added to Table 3 after K2a, not to the unit-level file
+u["K2b_S"] = ((u.K2a == "Y") & (u.K2b == "Y") & (u.fs == "NOTICE")).astype(int); u["K2b_L"] = (u.K2a.isin(["Y", "P"]) & u.K2b.isin(["Y", "P"]) & (u.fs == "NOTICE")).astype(int)
+T3_ITEMS = SIT[:SIT.index("K2a") + 1] + ["K2b"] + SIT[SIT.index("K2a") + 1:] + ["core5"]
 # ---------------- Table 1: crawl outcomes
 t1 = pd.crosstab(u.group, u.fs).reindex(GROUPS).fillna(0).astype(int); t1["drawn"] = t1.sum(axis=1); t1.to_csv(os.path.join(RT, "T1_crawl_outcomes_by_group.csv")); print(t1)
 # ---------------- Table 2: presence among verified
@@ -56,7 +59,7 @@ rows = []
 for g in GROUPS + ["All schools (S1-S4)", "All units"]:
     m = u.group.isin(GROUPS[:4]) if g.startswith("All schools") else (u.group == g if g != "All units" else u.group.notna())
     dn = u[m & (u.fs == "NOTICE")]; dv = u[m & u.verified]
-    for it in SIT + ["core5"]:
+    for it in T3_ITEMS:
         sn = int(dn[it + "_S"].sum()); ln = int(dn[it + "_L"].sum()); sv = int(dv[it + "_S"].sum()); lv = int(dv[it + "_L"].sum())
         a = wilson(sn, len(dn)); b = wilson(sv, len(dv))
         rows.append(dict(group=g, item=it, n_notices=len(dn), strict_among_notices=sn, strict_pct=round(a[0] * 100, 1) if len(dn) else None, s_lo=round(a[1] * 100, 1) if len(dn) else None, s_hi=round(a[2] * 100, 1) if len(dn) else None,
