@@ -1,5 +1,7 @@
 # How ready are Indian schools and edtech services to give privacy notices? A baseline against the DPDP Act and Rules before May 2027
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537751 (this DOI always points to the latest version).
+
 **Author:** Sean Solano Paul, Independent researcher, Bengaluru, India.
 **Funding:** none. **Competing interests:** none.
 

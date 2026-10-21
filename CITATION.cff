@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "How ready are Indian schools and edtech services to give privacy notices? A baseline against the DPDP Act and Rules before May 2027"
+doi: 10.5281/zenodo.23537751
 type: software
 authors:
   - family-names: "Solano Paul"
