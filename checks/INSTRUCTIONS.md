@@ -24,4 +24,3 @@ Tip: the rows are grouped by notice, 15 per notice. Read a notice once, then do 
 
 **How long it takes:** about 2.5 to 3.5 hours (about 25,000 words of notices). You can split it over several sittings, saving as you go.
 
-**When done:** save the file under the same name and tell Claude: **11 check done**.
