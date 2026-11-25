@@ -5,7 +5,7 @@ Data-driven map of the literature around: *Readiness baseline: public privacy no
 - **Corpus size:** 910 records (Privacy-policy measurement, annotation and compliance checking: 404; India: DPDP Act 2023, data protection law and practice: 285; Children's data, COPPA and parental consent: 153; Education technology and school data privacy: 64; seed: 4)
 - **Date of pull:** 2026-10-17
 - **Sources:** discovery in Crossref, Semantic Scholar, ERIC and arXiv; metadata from OpenAlex; forward citations from OpenCitations. No Scopus/WoS data (EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only).
-- **Made by:** an AI agent (Claude). It contains data, figures, tables and bullet-point analysis only - no manuscript prose.
+- **Contents:** data, figures, tables and bullet-point analysis only - no manuscript prose.
 
 ## What is here
 
